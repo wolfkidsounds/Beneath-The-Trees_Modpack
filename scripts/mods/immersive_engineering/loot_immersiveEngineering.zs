@@ -9,7 +9,5 @@ val items = [
     "immersiveengineering:pickaxe_steel"
 ] as String[];
 
-    for item in items {
-        mods.ltt.LootTable.removeGlobalItem(item);
-        }
+    for item in items {mods.ltt.LootTable.removeGlobalItem(item);}
 //-------------------------------------------------------------------
