@@ -49,31 +49,10 @@ val oreDrawerFramed = <ore:drawerFramed>;
             [<ore:stone>, <ore:ingotIron>, <ore:stone>]]);
 
     //UpgradeTemplate
-        //<storagedrawers:upgrade_template>
-
-    //UpgradeStorage
-        //<storagedrawers:upgrade_storage>
-        //<storagedrawers:upgrade_storage:1>
-        //<storagedrawers:upgrade_storage:2>
-        //<storagedrawers:upgrade_storage:3>
-        //<storagedrawers:upgrade_storage:4>
-
-    //DowngradeStorage
-        //<storagedrawers:upgrade_one_stack>
-
-    //UpgradeStatus
-        //<storagedrawers:upgrade_status>
-        //<storagedrawers:upgrade_status:1>
-
-    //UpgradeVoid
-        //<storagedrawers:upgrade_void>
-
-    //UpgradeConversion
-        //<storagedrawers:upgrade_conversion>
-
-    //UpgradeRedstone
-        //<storagedrawers:upgrade_redstone>
-        //<storagedrawers:upgrade_redstone:1>
-        //<storagedrawers:upgrade_redstone:2>
+        recipes.remove(<storagedrawers:upgrade_template>);
+        recipes.addShaped(<storagedrawers:upgrade_template>, [
+            [<ore:stickWood>, <ore:stickWood>, <ore:stickWood>],
+            [<ore:stickWood>, <ore:drawerFramed>, <ore:stickWood>],
+            [<ore:stickWood>, <ore:stickWood>, <ore:stickWood>]]);
 //-------------------------------------------------------------------
 
