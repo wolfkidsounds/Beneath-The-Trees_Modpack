@@ -20,6 +20,10 @@
             <Item>\$Recycle.Bin\</Item>
             <Item>\RECYCLE?\</Item>
             <Item>*\thumbs.db</Item>
+            <Item>\minecraftinstance.json</Item>
+            <Item>\.git\</Item>
+            <Item>\saves\</Item>
+            <Item>\.gitattributes</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -36,6 +40,6 @@
     <LogFolder/>
     <EmailNotification Condition="Always"/>
     <Gui>
-        <GridViewType>Difference</GridViewType>
+        <GridViewType>Action</GridViewType>
     </Gui>
 </FreeFileSync>
