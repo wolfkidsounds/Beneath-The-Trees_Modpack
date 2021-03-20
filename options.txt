@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:false
-resourcePacks:[]
+resourcePacks:["AntiqueAtlasExtra-v1.2.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -29,7 +29,7 @@ fullscreen:false
 enableVsync:false
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -51,7 +51,7 @@ realmsNotifications:false
 enableWeakAttacks:false
 autoJump:false
 narrator:0
-tutorialStep:craft_planks
+tutorialStep:none
 key_key.attack:-100
 key_key.use:-99
 key_key.forward:17
@@ -88,13 +88,13 @@ key_key.hotbar.9:10
 key_keybind.railcraft.cart.bed:0
 key_roots.keybinds.pouch:0
 key_roots.keybinds.quiver:0
-key_roots.keybinds.spell_slot_2:0
-key_roots.keybinds.spell_slot_3:0
-key_roots.keybinds.spell_slot_previous:0
-key_roots.keybinds.spell_slot_1:0
-key_roots.keybinds.spell_slot_4:0
 key_roots.keybinds.spell_slot_5:0
+key_roots.keybinds.spell_slot_previous:0
 key_roots.keybinds.spell_slot_next:0
+key_roots.keybinds.spell_slot_4:0
+key_roots.keybinds.spell_slot_3:0
+key_roots.keybinds.spell_slot_1:0
+key_roots.keybinds.spell_slot_2:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -113,6 +113,8 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.toggleAutojump:0
+key_quark.keybind.lockBuilding:0
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -121,8 +123,6 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
-key_quark.keybind.lockBuilding:0
-key_quark.keybind.toggleAutojump:0
 key_key.conarm.toggle_helm.desc:0
 key_key.conarm.toggle_chest.desc:0
 key_key.conarm.toggle_leg.desc:0
@@ -191,7 +191,6 @@ key_Refresh Animations:0
 key_key.nutrition:49
 key_key.stackable.place:21
 key_key.stackable.cycle:0
-key_Camping Inventory Key:0
 key_key.toolbelt.open:0
 key_key.toolbelt.cycle.left:0
 key_key.toolbelt.cycle.right:0
