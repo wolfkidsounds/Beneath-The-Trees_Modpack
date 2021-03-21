@@ -6,7 +6,8 @@ import crafttweaker.liquid.ILiquidStack;
 val items = [
     <immersiveengineering:shovel_steel>,
     <immersiveengineering:axe_steel>,
-    <immersiveengineering:pickaxe_steel>
+    <immersiveengineering:pickaxe_steel>,
+    <immersiveengineering:sword_steel>
 ] as IItemStack[];
 
     for item in items {mods.jei.JEI.removeAndHide(item);}
