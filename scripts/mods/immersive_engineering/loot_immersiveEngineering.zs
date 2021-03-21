@@ -6,3 +6,4 @@ import crafttweaker.liquid.ILiquidStack;
     mods.ltt.LootTable.removeGlobalItem("immersiveengineering:shovel_steel");
     mods.ltt.LootTable.removeGlobalItem("immersiveengineering:axe_steel");
     mods.ltt.LootTable.removeGlobalItem("immersiveengineering:pickaxe_steel");
+    mods.ltt.LootTable.removeGlobalItem("immersiveengineering:sword_steel");
