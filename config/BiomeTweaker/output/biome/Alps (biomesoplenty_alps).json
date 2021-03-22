@@ -8,11 +8,13 @@
   "Height Variation": 0.23125,
   "Top Block": "minecraft:snow",
   "Filler Block": "minecraft:snow",
-  "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
-  "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",
-  "Actual Filler Blocks": "Disabled. Activate in BiomeTweakerCore.",
-  "Grass Color": "Disabled. Activate in BiomeTweakerCore.",
-  "Foliage Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Ocean Top Block": "minecraft:gravel",
+  "Ocean Filler Block": "minecraft:stone[variant\u003dstone]",
+  "Actual Filler Blocks": [
+    "minecraft:stone[variant\u003dstone]"
+  ],
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
   "Water Color": "16777215",
   "Temperature": -0.25,
   "Humidity": 0.3,
@@ -21,17 +23,53 @@
   "Enable Snow": true,
   "Dictionary Types": [
     "DRY",
+    "COLD",
     "SNOWY",
-    "MOUNTAIN",
-    "COLD"
+    "MOUNTAIN"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
     {
-      "Entity Class": "epicsquid.mysticalworld.entity.EntityDeer",
-      "Weight": 6,
+      "Entity Class": "com.animania.addons.extra.common.entity.rodents.rabbits.RabbitHavana$EntityRabbitDoeHavana",
+      "Weight": 8,
       "Min Group Count": 2,
-      "Max Group Count": 4
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.animania.addons.farm.common.entity.pigs.PigHampshire$EntitySowHampshire",
+      "Weight": 9,
+      "Min Group Count": 2,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.animania.addons.farm.common.entity.chickens.ChickenPlymouthRock$EntityHenPlymouthRock",
+      "Weight": 9,
+      "Min Group Count": 2,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.animania.addons.farm.common.entity.cows.CowHereford$EntityCowHereford",
+      "Weight": 9,
+      "Min Group Count": 2,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.animania.addons.farm.common.entity.cows.CowHighland$EntityCowHighland",
+      "Weight": 9,
+      "Min Group Count": 2,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.animania.addons.farm.common.entity.goats.GoatAlpine$EntityDoeAlpine",
+      "Weight": 8,
+      "Min Group Count": 2,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.animania.addons.farm.common.entity.goats.GoatKiko$EntityDoeKiko",
+      "Weight": 8,
+      "Min Group Count": 2,
+      "Max Group Count": 2
     },
     {
       "Entity Class": "epicsquid.mysticalworld.entity.EntityFox",
@@ -140,12 +178,6 @@
       "Weight": 6,
       "Min Group Count": 2,
       "Max Group Count": 5
-    },
-    {
-      "Entity Class": "com.rikmuld.camping.features.entities.fox.EntityFox",
-      "Weight": 5,
-      "Min Group Count": 2,
-      "Max Group Count": 4
     },
     {
       "Entity Class": "org.zawamod.entity.flying.EntityAlbatross",
@@ -384,40 +416,10 @@
       "Max Group Count": 3
     },
     {
-      "Entity Class": "vibrantjourneys.entities.neutral.EntityGhost",
-      "Weight": 65,
+      "Entity Class": "gigaherz.eyes.entity.EntityEyes",
+      "Weight": 15,
       "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntityShade",
-      "Weight": 55,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntityBanshee",
-      "Weight": 55,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntitySkeletalKnight",
-      "Weight": 45,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntityIceCube",
-      "Weight": 35,
-      "Min Group Count": 2,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntityGoon",
-      "Weight": 20,
-      "Min Group Count": 1,
-      "Max Group Count": 1
+      "Max Group Count": 10
     },
     {
       "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
@@ -490,18 +492,6 @@
       "Max Group Count": 4
     },
     {
-      "Entity Class": "vibrantjourneys.entities.passive.EntityFly",
-      "Weight": 10,
-      "Min Group Count": 3,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.passive.EntityFirefly",
-      "Weight": 150,
-      "Min Group Count": 4,
-      "Max Group Count": 9
-    },
-    {
       "Entity Class": "vibrantjourneys.entities.passive.EntitySmallSpider",
       "Weight": 5,
       "Min Group Count": 1,
@@ -534,8 +524,8 @@
   },
   "BOP Owner": "BIOMESOPLENTY",
   "BOP Weight Map": {
-    "TUNDRA": 3,
-    "ICE_CAP": 5
+    "ICE_CAP": 5,
+    "TUNDRA": 3
   },
   "BOP Climate Weights": {
     "ICE_CAP": [

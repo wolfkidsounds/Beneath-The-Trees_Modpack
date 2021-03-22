@@ -1,0 +1,114 @@
+
+{
+  "ID": 313,
+  "Name": "Alps",
+  "Resource Location": "byg:balps",
+  "Class": "net.mcreator.byg.MCreatorBAlps$BiomeGenCustom",
+  "Root Height": 6.0,
+  "Height Variation": 1.0,
+  "Top Block": "minecraft:snow",
+  "Filler Block": "minecraft:snow",
+  "Ocean Top Block": "minecraft:gravel",
+  "Ocean Filler Block": "minecraft:stone[variant\u003dstone]",
+  "Actual Filler Blocks": [
+    "minecraft:stone[variant\u003dstone]"
+  ],
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "-3342337",
+  "Temperature": -0.5,
+  "Humidity": 0.5,
+  "Water Tint": -3342337,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "COLD",
+    "SNOWY",
+    "HILLS",
+    "MOUNTAIN"
+  ],
+  "BiomeManager Entries": {
+    "ICY Weights": [
+      4
+    ]
+  },
+  "Spawnable Creatures": [
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPenguinEmperor",
+      "Weight": 6,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPenguinEmperor",
+      "Weight": 6,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    }
+  ],
+  "Spawnable Monsters": [
+    {
+      "Entity Class": "gigaherz.eyes.entity.EntityEyes",
+      "Weight": 15,
+      "Min Group Count": 1,
+      "Max Group Count": 10
+    },
+    {
+      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    }
+  ],
+  "Spawnable Water Creatures": [
+    {
+      "Entity Class": "vibrantjourneys.entities.passive.EntityClam",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    }
+  ],
+  "Spawnable Cave Creatures": [
+    {
+      "Entity Class": "vibrantjourneys.entities.passive.EntitySnail",
+      "Weight": 8,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "vibrantjourneys.entities.passive.EntitySmallSpider",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 6
+    }
+  ],
+  "Spawn Biome": true,
+  "Tweaked": false,
+  "BOP Generators": {
+    "FLOWERS Generators": [
+      {
+        "ID": "flora",
+        "Name": "glowshrooms"
+      },
+      {
+        "ID": "flora",
+        "Name": "miners_delight"
+      },
+      {
+        "ID": "flora",
+        "Name": "roots"
+      }
+    ]
+  },
+  "BOP Owner": "OTHER",
+  "BOP Weight Map": {},
+  "BOP Climate Weights": {
+    "ICE_CAP": [
+      4
+    ],
+    "TUNDRA": [
+      4
+    ]
+  },
+  "BOP Island Weight": 0
+}

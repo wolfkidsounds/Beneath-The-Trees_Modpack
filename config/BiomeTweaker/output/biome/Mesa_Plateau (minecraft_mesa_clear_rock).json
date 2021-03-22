@@ -8,11 +8,13 @@
   "Height Variation": 0.025,
   "Top Block": "minecraft:sand[variant\u003dred_sand]",
   "Filler Block": "minecraft:stained_hardened_clay[color\u003dwhite]",
-  "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
-  "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",
-  "Actual Filler Blocks": "Disabled. Activate in BiomeTweakerCore.",
-  "Grass Color": "Disabled. Activate in BiomeTweakerCore.",
-  "Foliage Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Ocean Top Block": "minecraft:gravel",
+  "Ocean Filler Block": "minecraft:stone[variant\u003dstone]",
+  "Actual Filler Blocks": [
+    "minecraft:stone[variant\u003dstone]"
+  ],
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
   "Water Color": "16777215",
   "Temperature": 2.0,
   "Humidity": 0.0,
@@ -20,12 +22,60 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "SANDY",
     "DRY",
+    "SANDY",
     "MESA"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
+    {
+      "Entity Class": "com.animania.addons.extra.common.entity.rodents.EntityHamster",
+      "Weight": 8,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "com.animania.addons.extra.common.entity.rodents.rabbits.RabbitJack$EntityRabbitDoeJack",
+      "Weight": 8,
+      "Min Group Count": 2,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.animania.addons.farm.common.entity.horses.HorseDraft$EntityMareDraftHorse",
+      "Weight": 8,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.animania.addons.farm.common.entity.cows.CowAngus$EntityCowAngus",
+      "Weight": 9,
+      "Min Group Count": 2,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.animania.addons.farm.common.entity.goats.GoatKinder$EntityDoeKinder",
+      "Weight": 8,
+      "Min Group Count": 2,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.animania.addons.farm.common.entity.goats.GoatNigerianDwarf$EntityDoeNigerianDwarf",
+      "Weight": 8,
+      "Min Group Count": 2,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.animania.addons.farm.common.entity.goats.GoatPygmy$EntityDoePygmy",
+      "Weight": 8,
+      "Min Group Count": 2,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "com.animania.addons.farm.common.entity.sheep.SheepSuffolk$EntityEweSuffolk",
+      "Weight": 8,
+      "Min Group Count": 2,
+      "Max Group Count": 3
+    },
     {
       "Entity Class": "drzhark.mocreatures.entity.passive.MoCEntityBird",
       "Weight": 15,
@@ -133,12 +183,6 @@
       "Weight": 8,
       "Min Group Count": 2,
       "Max Group Count": 5
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.neutral.EntityCoyote",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     },
     {
       "Entity Class": "org.zawamod.entity.land.EntityAfricanLion",
@@ -407,28 +451,10 @@
       "Max Group Count": 3
     },
     {
-      "Entity Class": "vibrantjourneys.entities.neutral.EntityGhost",
-      "Weight": 65,
+      "Entity Class": "gigaherz.eyes.entity.EntityEyes",
+      "Weight": 15,
       "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntityShade",
-      "Weight": 55,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntitySkeletalKnight",
-      "Weight": 45,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntityGoon",
-      "Weight": 20,
-      "Min Group Count": 1,
-      "Max Group Count": 1
+      "Max Group Count": 10
     },
     {
       "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
@@ -499,18 +525,6 @@
       "Weight": 8,
       "Min Group Count": 2,
       "Max Group Count": 4
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.passive.EntityFly",
-      "Weight": 10,
-      "Min Group Count": 3,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.passive.EntityFirefly",
-      "Weight": 150,
-      "Min Group Count": 4,
-      "Max Group Count": 9
     },
     {
       "Entity Class": "vibrantjourneys.entities.passive.EntitySmallSpider",
