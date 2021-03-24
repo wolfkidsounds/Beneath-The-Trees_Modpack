@@ -23,9 +23,9 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "LUSH",
-    "PLAINS",
     "DENSE",
-    "FOREST"
+    "FOREST",
+    "PLAINS"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

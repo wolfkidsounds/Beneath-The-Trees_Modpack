@@ -22,11 +22,11 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
+    "FOREST",
     "OCEAN",
     "WATER",
     "JUNGLE",
-    "HOT",
-    "FOREST"
+    "HOT"
   ],
   "BiomeManager Entries": {
     "WARM Weights": [

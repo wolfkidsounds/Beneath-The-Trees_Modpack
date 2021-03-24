@@ -23,8 +23,8 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "END",
-    "MAGICAL",
-    "FOREST"
+    "FOREST",
+    "MAGICAL"
   ],
   "BiomeManager Entries": {
     "COOL Weights": [

@@ -22,12 +22,12 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "CONIFEROUS",
-    "WET",
-    "SWAMP",
     "SAVANNA",
-    "HOT",
-    "FOREST"
+    "CONIFEROUS",
+    "SWAMP",
+    "FOREST",
+    "WET",
+    "HOT"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

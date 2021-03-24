@@ -23,8 +23,8 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "CONIFEROUS",
-    "COLD",
-    "PLAINS"
+    "PLAINS",
+    "COLD"
   ],
   "BiomeManager Entries": {
     "COOL Weights": [
