@@ -22,10 +22,10 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "DRY",
     "PLAINS",
+    "COLD",
     "HILLS",
-    "COLD"
+    "DRY"
   ],
   "BiomeManager Entries": {
     "COOL Weights": [

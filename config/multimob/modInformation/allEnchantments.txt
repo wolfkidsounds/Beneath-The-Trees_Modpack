@@ -37,6 +37,7 @@ bibliocraft:bibliocraft.deathcompassench
 bibliocraft:bibliocraft.readingench
 simpledifficulty:chilling
 simpledifficulty:heating
+naturalabsorption:absorption
 aquaculture:appealing
 aquaculture:magnetic
 aquaculture:long_cast

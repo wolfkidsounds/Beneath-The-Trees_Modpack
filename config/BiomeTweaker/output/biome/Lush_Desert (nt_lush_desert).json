@@ -23,8 +23,8 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "SAVANNA",
-    "LUSH",
-    "JUNGLE"
+    "JUNGLE",
+    "LUSH"
   ],
   "BiomeManager Entries": {
     "DESERT Weights": [

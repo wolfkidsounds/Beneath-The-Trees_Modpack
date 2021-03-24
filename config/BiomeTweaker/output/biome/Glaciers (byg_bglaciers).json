@@ -23,10 +23,10 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "PLAINS",
-    "HILLS",
-    "SNOWY",
+    "MOUNTAIN",
     "COLD",
-    "MOUNTAIN"
+    "SNOWY",
+    "HILLS"
   ],
   "BiomeManager Entries": {
     "ICY Weights": [
