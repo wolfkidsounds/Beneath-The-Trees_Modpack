@@ -113,11 +113,6 @@ railcraft:locomotive_creative
 railcraft:cart_cargo
 railcraft:cart_tank
 railcraft:cart_chest_void
-quark:chest_passenger
-quark:flat_item_frame
-quark:leash_knot
-quark:colored_item_frame
-quark:glass_item_frame
 quark:pickarang
 quark:arrow_ender
 quark:arrow_explosive
@@ -125,6 +120,12 @@ quark:arrow_torch
 quark:dragon_breath_bottle
 quark:soul_powder
 quark:parrot_egg
+quark:gravisand
+quark:flat_item_frame
+quark:leash_knot
+quark:colored_item_frame
+quark:glass_item_frame
+quark:chest_passenger
 quark:seat
 quark:stoneling
 quark:archaeologist
@@ -135,7 +136,6 @@ quark:frog
 quark:pirate
 quark:crab
 quark:wraith
-quark:gravisand
 biomesoplenty:mudball
 biomesoplenty:bop_boat
 biomesoplenty:wasp
@@ -718,9 +718,5 @@ immersiveintelligence:machinegun
 immersiveintelligence:camera
 immersiveintelligence:skycrate_internal
 tumbleweed:tumbleweed
-weather2:weather_hail
-weather2:moving_block
-weather2:weather2_lightning_bolt
-weather2:weather2_lightning_bolt_custom
 zombieawareness:entityscent
 ironagefurniture:seat
