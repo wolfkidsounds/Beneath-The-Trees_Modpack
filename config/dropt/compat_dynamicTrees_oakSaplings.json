@@ -1,0 +1,27 @@
+{
+    "rules": [
+      {
+        "match": {
+          "drops": {
+            "drops": [
+               "minecraft:sapling"
+            ]
+          }
+        },
+        "drops": [
+          {
+            "item": {
+              "items": [
+                "dynamictrees:oakseed"
+              ],
+              "matchQuantity": {
+                "drops": [
+                   "minecraft:sapling"
+                ]
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
