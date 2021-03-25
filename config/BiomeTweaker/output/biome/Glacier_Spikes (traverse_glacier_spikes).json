@@ -1,6 +1,6 @@
 
 {
-  "ID": 297,
+  "ID": 180,
   "Name": "Glacier Spikes",
   "Resource Location": "traverse:glacier_spikes",
   "Class": "prospector.traverse.world.biomes.BiomeGlacier",

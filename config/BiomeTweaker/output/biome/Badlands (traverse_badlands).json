@@ -1,6 +1,6 @@
 
 {
-  "ID": 289,
+  "ID": 172,
   "Name": "Badlands",
   "Resource Location": "traverse:badlands",
   "Class": "prospector.traverse.world.biomes.BiomeBadlands",
@@ -24,8 +24,8 @@
   "Dictionary Types": [
     "PLAINS",
     "DRY",
-    "HOT",
-    "SPARSE"
+    "SPARSE",
+    "HOT"
   ],
   "BiomeManager Entries": {
     "WARM Weights": [
@@ -233,9 +233,9 @@
     },
     {
       "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPigeon",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
+      "Weight": 24,
+      "Min Group Count": 1,
+      "Max Group Count": 3
     },
     {
       "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityCardinal",

@@ -23,8 +23,8 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "MOUNTAIN",
-    "FOREST",
-    "HILLS"
+    "HILLS",
+    "FOREST"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -222,9 +222,9 @@
     },
     {
       "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPigeon",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
+      "Weight": 24,
+      "Min Group Count": 1,
+      "Max Group Count": 3
     },
     {
       "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityWoodpecker",

@@ -1,6 +1,6 @@
 
 {
-  "ID": 293,
+  "ID": 176,
   "Name": "Birch Forested Hills",
   "Resource Location": "traverse:birch_forested_hills",
   "Class": "prospector.traverse.world.biomes.BiomeForestedHills",
@@ -22,8 +22,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "FOREST",
-    "HILLS"
+    "HILLS",
+    "FOREST"
   ],
   "BiomeManager Entries": {
     "COOL Weights": [
@@ -219,9 +219,9 @@
     },
     {
       "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPigeon",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
+      "Weight": 24,
+      "Min Group Count": 1,
+      "Max Group Count": 3
     },
     {
       "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityWoodpecker",

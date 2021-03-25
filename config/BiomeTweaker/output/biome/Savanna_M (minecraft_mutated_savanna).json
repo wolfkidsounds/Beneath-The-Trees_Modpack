@@ -22,12 +22,12 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "MOUNTAIN",
-    "SAVANNA",
     "DRY",
+    "SPARSE",
+    "SAVANNA",
     "HOT",
-    "RARE",
-    "SPARSE"
+    "MOUNTAIN",
+    "RARE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -417,9 +417,9 @@
     },
     {
       "Entity Class": "org.zawamod.entity.land.EntityTreeFrog",
-      "Weight": 25,
-      "Min Group Count": 2,
-      "Max Group Count": 4
+      "Weight": 15,
+      "Min Group Count": 1,
+      "Max Group Count": 3
     },
     {
       "Entity Class": "org.zawamod.entity.npc.EntityAnimalTrader",

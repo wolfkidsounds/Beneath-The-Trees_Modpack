@@ -23,9 +23,9 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "MOUNTAIN",
-    "COLD",
-    "FOREST",
     "RARE",
+    "FOREST",
+    "COLD",
     "CONIFEROUS"
   ],
   "BiomeManager Entries": {},
@@ -392,9 +392,9 @@
     },
     {
       "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPigeon",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
+      "Weight": 24,
+      "Min Group Count": 1,
+      "Max Group Count": 3
     },
     {
       "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityVulture",
@@ -476,9 +476,9 @@
     },
     {
       "Entity Class": "org.zawamod.entity.land.EntityTreeFrog",
-      "Weight": 25,
-      "Min Group Count": 2,
-      "Max Group Count": 4
+      "Weight": 15,
+      "Min Group Count": 1,
+      "Max Group Count": 3
     },
     {
       "Entity Class": "org.zawamod.entity.npc.EntityAnimalTrader",

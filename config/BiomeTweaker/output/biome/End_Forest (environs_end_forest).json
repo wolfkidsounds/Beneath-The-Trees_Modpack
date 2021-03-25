@@ -1,6 +1,6 @@
 
 {
-  "ID": 168,
+  "ID": 190,
   "Name": "End Forest",
   "Resource Location": "environs:end_forest",
   "Class": "rollingthunder.environs.biomes.cool.BiomeEnderForest",
@@ -23,8 +23,8 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "END",
-    "FOREST",
-    "MAGICAL"
+    "MAGICAL",
+    "FOREST"
   ],
   "BiomeManager Entries": {
     "COOL Weights": [
@@ -226,9 +226,9 @@
     },
     {
       "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPigeon",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
+      "Weight": 24,
+      "Min Group Count": 1,
+      "Max Group Count": 3
     },
     {
       "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityWoodpecker",

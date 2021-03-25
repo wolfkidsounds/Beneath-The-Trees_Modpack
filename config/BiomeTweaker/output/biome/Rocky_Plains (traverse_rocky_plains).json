@@ -1,6 +1,6 @@
 
 {
-  "ID": 303,
+  "ID": 186,
   "Name": "Rocky Plains",
   "Resource Location": "traverse:rocky_plains",
   "Class": "prospector.traverse.world.biomes.BiomeRockyPlains",
@@ -22,9 +22,9 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "HILLS",
     "PLAINS",
-    "SPARSE"
+    "SPARSE",
+    "HILLS"
   ],
   "BiomeManager Entries": {
     "COOL Weights": [
@@ -262,9 +262,9 @@
     },
     {
       "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPigeon",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
+      "Weight": 24,
+      "Min Group Count": 1,
+      "Max Group Count": 3
     },
     {
       "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityCardinal",

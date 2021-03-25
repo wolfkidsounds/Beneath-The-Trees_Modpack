@@ -1,6 +1,6 @@
 
 {
-  "ID": 181,
+  "ID": 203,
   "Name": "Wasteland Spikes",
   "Resource Location": "environs:wasteland_spikes",
   "Class": "rollingthunder.environs.biomes.desert.BiomeWasteland",

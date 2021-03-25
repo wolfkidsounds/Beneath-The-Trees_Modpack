@@ -1,6 +1,6 @@
 
 {
-  "ID": 183,
+  "ID": 205,
   "Name": "Dry Oak Forest",
   "Resource Location": "environs:dry_oak_forest",
   "Class": "rollingthunder.environs.biomes.desert.BiomeDeadOakForest",
@@ -22,8 +22,8 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "FOREST",
-    "DEAD"
+    "DEAD",
+    "FOREST"
   ],
   "BiomeManager Entries": {
     "DESERT Weights": [
@@ -219,9 +219,9 @@
     },
     {
       "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPigeon",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
+      "Weight": 24,
+      "Min Group Count": 1,
+      "Max Group Count": 3
     },
     {
       "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityWoodpecker",

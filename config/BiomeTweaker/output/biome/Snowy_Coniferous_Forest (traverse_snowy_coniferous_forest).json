@@ -1,6 +1,6 @@
 
 {
-  "ID": 298,
+  "ID": 181,
   "Name": "Snowy Coniferous Forest",
   "Resource Location": "traverse:snowy_coniferous_forest",
   "Class": "prospector.traverse.world.biomes.BiomeConiferousForest",
@@ -23,8 +23,8 @@
   "Enable Snow": true,
   "Dictionary Types": [
     "SNOWY",
-    "COLD",
     "FOREST",
+    "COLD",
     "CONIFEROUS"
   ],
   "BiomeManager Entries": {
@@ -263,9 +263,9 @@
     },
     {
       "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPigeon",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
+      "Weight": 24,
+      "Min Group Count": 1,
+      "Max Group Count": 3
     },
     {
       "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityWoodpecker",

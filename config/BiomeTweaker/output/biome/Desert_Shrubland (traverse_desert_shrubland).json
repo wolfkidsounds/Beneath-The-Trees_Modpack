@@ -1,6 +1,6 @@
 
 {
-  "ID": 300,
+  "ID": 183,
   "Name": "Desert Shrubland",
   "Resource Location": "traverse:desert_shrubland",
   "Class": "prospector.traverse.world.biomes.BiomeDesertShrubland",
