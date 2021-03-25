@@ -16,3 +16,4 @@ dev-mods/worldedit-forge-mc1.12.2-6.1.10-dist.jar
 sync.ffs_db
 WoodyDays - Sync.ffs_gui
 WoodyDays - Sync.ffs_gui
+*.ffs_gui
