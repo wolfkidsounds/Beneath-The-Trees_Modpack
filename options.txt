@@ -4,8 +4,8 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:0.20422535
 saturation:0.0
-renderDistance:12
-guiScale:3
+renderDistance:14
+guiScale:2
 particles:0
 bobView:true
 anaglyph3d:false
@@ -89,12 +89,13 @@ key_keybind.railcraft.cart.bed:0
 key_roots.keybinds.pouch:0
 key_roots.keybinds.quiver:0
 key_roots.keybinds.spell_slot_5:0
-key_roots.keybinds.spell_slot_previous:0
 key_roots.keybinds.spell_slot_next:0
-key_roots.keybinds.spell_slot_4:0
 key_roots.keybinds.spell_slot_3:0
-key_roots.keybinds.spell_slot_1:0
 key_roots.keybinds.spell_slot_2:0
+key_roots.keybinds.spell_slot_4:0
+key_roots.keybinds.spell_slot_1:0
+key_roots.keybinds.spell_slot_previous:0
+key_quark.keybind.lockBuilding:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -114,7 +115,6 @@ key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
 key_quark.keybind.toggleAutojump:0
-key_quark.keybind.lockBuilding:0
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -137,7 +137,7 @@ key_Quest Log:38
 key_MoCreatures Dive:0
 key_MoCreatures GUI:0
 key_key.ftbutilities.nbt:0
-key_key.ftbutilities.trash:211
+key_key.ftbutilities.trash:14
 key_key.ftbquests.quests:0
 key_key.helmet_night_vision:0
 key_oreexcavation.key.excavate:0
@@ -146,6 +146,8 @@ key_key.toggleFoVChanges:0
 key_key.reloadSoundSystem:0
 key_key.toggleTimeOfDayOverlay:0
 key_key.togglePotionParticles:0
+key_keys.servertabinfo.show:0
+key_keys.servertabinfo.show2:0
 key_key.toastcontrol.clear:0
 key_vc.key.moveForward:17
 key_vc.key.moveBack:31
@@ -153,8 +155,11 @@ key_vc.key.moveLeft:30
 key_vc.key.moveRight:32
 key_vc.key.moveUp:0
 key_vc.key.moveDown:0
-key_vc.key.openInventory:19
+key_vc.key.openInventory:0
 key_vc.key.dropbomb:0
+key_Strip World:211
+key_Dress World:210
+key_Inspect Block:199
 key_smoothfont.key.guiOpen:0
 key_key.jei.toggleOverlay:0
 key_key.jei.focusSearch:0
@@ -171,11 +176,11 @@ key_key.toggleLiquids:0
 key_key.toggleVisible:0
 key_key.immersiveengineering.magnetEquip:0
 key_key.immersiveengineering.chemthrowerSwitch:0
-key_key.astikorcarts.desc:0
 key_atlasextras.keybind.togglehud:0
 key_atlasextras.keybind.openatlas:50
 key_bbw.key.mode:0
 key_bbw.key.fluidmode:0
+key_Options Gui:23
 key_key.clienttweaks.disable_step_assist:0
 key_key.clienttweaks.hide_offhand_item:0
 key_dsurround.cfg.keybind.AnimaniaBadges:0
@@ -189,20 +194,22 @@ key_key.itemzoom.zoom.out:0
 key_Mo' Bends Menu:0
 key_Refresh Animations:0
 key_key.nutrition:49
-key_key.stackable.place:21
+key_key.stackable.place:45
 key_key.stackable.cycle:0
 key_key.toolbelt.open:0
 key_key.toolbelt.cycle.left:0
 key_key.toolbelt.cycle.right:0
 key_key.toolbelt.slot:56
 key_wi-zoom.zoom:46
+key_WorldEdit Reference:0
 key_keybind.railcraft.loco.reverse:0
 key_keybind.railcraft.loco.faster:0
 key_keybind.railcraft.loco.slower:0
 key_keybind.railcraft.loco.mode:0
 key_keybind.railcraft.loco.whistle:0
-soundCategory_master:0.57746476
-soundCategory_music:0.0
+key_Profile GUI:28
+soundCategory_master:1.0
+soundCategory_music:0.45774648
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
