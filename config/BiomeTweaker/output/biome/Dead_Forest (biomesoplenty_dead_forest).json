@@ -24,9 +24,9 @@
   "Dictionary Types": [
     "COLD",
     "FOREST",
-    "DEAD",
+    "DRY",
     "SPARSE",
-    "DRY"
+    "DEAD"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

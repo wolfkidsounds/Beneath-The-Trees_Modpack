@@ -114,6 +114,10 @@ railcraft:cart_cargo
 railcraft:cart_tank
 railcraft:cart_chest_void
 quark:chest_passenger
+quark:flat_item_frame
+quark:leash_knot
+quark:colored_item_frame
+quark:glass_item_frame
 quark:pickarang
 quark:arrow_ender
 quark:arrow_explosive
@@ -121,7 +125,7 @@ quark:arrow_torch
 quark:dragon_breath_bottle
 quark:soul_powder
 quark:parrot_egg
-quark:gravisand
+quark:seat
 quark:stoneling
 quark:archaeologist
 quark:foxhound
@@ -131,11 +135,7 @@ quark:frog
 quark:pirate
 quark:crab
 quark:wraith
-quark:seat
-quark:flat_item_frame
-quark:leash_knot
-quark:colored_item_frame
-quark:glass_item_frame
+quark:gravisand
 biomesoplenty:mudball
 biomesoplenty:bop_boat
 biomesoplenty:wasp
@@ -647,11 +647,6 @@ lumen:companion_orb_a
 lumen:will_o_wisp
 lumen:faerie
 lumen:rad_flame
-byg:fungalzombie
-byg:petrifiedzombie
-byg:petrifiedspider
-byg:kiwibird
-byg:ivorywoodpecker
 customnpcs:npchumanmale
 customnpcs:npcvillager
 customnpcs:npcpony

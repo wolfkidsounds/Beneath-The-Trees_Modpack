@@ -22,8 +22,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "CONIFEROUS",
-    "WATER"
+    "WATER",
+    "CONIFEROUS"
   ],
   "BiomeManager Entries": {
     "WARM Weights": [
