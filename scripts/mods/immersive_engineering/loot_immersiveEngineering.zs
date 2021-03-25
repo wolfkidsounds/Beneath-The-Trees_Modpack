@@ -3,7 +3,20 @@ import crafttweaker.item.IItemStack;
 import crafttweaker.liquid.ILiquidStack;
 
 //lootRemove
-    mods.ltt.LootTable.removeGlobalItem("immersiveengineering:shovel_steel");
-    mods.ltt.LootTable.removeGlobalItem("immersiveengineering:axe_steel");
-    mods.ltt.LootTable.removeGlobalItem("immersiveengineering:pickaxe_steel");
-    mods.ltt.LootTable.removeGlobalItem("immersiveengineering:sword_steel");
+
+val items = [
+    "immersiveengineering:steel_armor_feet",
+    "immersiveengineering:steel_armor_legs",
+    "immersiveengineering:steel_armor_chest",
+    "immersiveengineering:steel_armor_head",
+    "immersiveengineering:sword_steel",
+    "immersiveengineering:hoe_steel",
+    "immersiveengineering:axe_steel",
+    "immersiveengineering:shovel_steel",
+    "immersiveengineering:pickaxe_steel"
+
+] as string[];
+
+for item in items {
+    mods.ltt.LootTable.removeGlobalItem(item);
+}
