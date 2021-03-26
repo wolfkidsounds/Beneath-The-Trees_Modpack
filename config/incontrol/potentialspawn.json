@@ -34,13 +34,97 @@
         },
         {
             "mob": "exoticbirds:kingfisher",
-            "weight": 18,
+            "weight": 10,
             "groupcountmin": 1,
             "groupcountmax": 5
         },
         {
             "mob": "exoticbirds:kiwi",
-            "weight": 18,
+            "weight": 8,
+            "groupcountmin": 1,
+            "groupcountmax": 5
+        },
+        {
+            "mob": "exoticbirds:lyrebird",
+            "weight": 8,
+            "groupcountmin": 1,
+            "groupcountmax": 5
+        },
+        {
+            "mob": "exoticbirds:magpie",
+            "weight": 12,
+            "groupcountmin": 1,
+            "groupcountmax": 5
+        },
+        {
+            "mob": "exoticbirds:ostrich",
+            "weight": 5,
+            "groupcountmin": 1,
+            "groupcountmax": 5
+        },
+        {
+            "mob": "exoticbirds:owl",
+            "weight": 6,
+            "groupcountmin": 1,
+            "groupcountmax": 5
+        },
+        {
+            "mob": "exoticbirds:parrot",
+            "weight": 6,
+            "groupcountmin": 1,
+            "groupcountmax": 5
+        },
+        {
+            "mob": "exoticbirds:peafowl",
+            "weight": 6,
+            "groupcountmin": 1,
+            "groupcountmax": 5
+        },
+        {
+            "mob": "exoticbirds:pelican",
+            "weight": 6,
+            "groupcountmin": 1,
+            "groupcountmax": 5
+        },
+        {
+            "mob": "exoticbirds:emperorpenguin",
+            "weight": 6,
+            "groupcountmin": 1,
+            "groupcountmax": 5
+        },
+        {
+            "mob": "exoticbirds:pigeon",
+            "weight": 24,
+            "groupcountmin": 1,
+            "groupcountmax": 3
+        },
+        {
+            "mob": "exoticbirds:roadrunner",
+            "weight": 10,
+            "groupcountmin": 1,
+            "groupcountmax": 5
+        },
+        {
+            "mob": "exoticbirds:seagull",
+            "weight": 12,
+            "groupcountmin": 1,
+            "groupcountmax": 5
+        },
+        {
+            "mob": "exoticbirds:swan",
+            "weight": 10,
+            "groupcountmin": 1,
+            "groupcountmax": 5
+        },
+        {
+            "mob": "exoticbirds:toucan",
+            "weight": 6,
+            "groupcountmin": 1,
+            "groupcountmax": 5
+        },
+        {
+            "mob": "exoticbirds:vulture",
+            "weight": 8,
             "groupcountmin": 1,
             "groupcountmax": 5
         }
