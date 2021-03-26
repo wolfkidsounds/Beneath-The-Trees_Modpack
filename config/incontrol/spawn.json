@@ -1,328 +1,326 @@
 [
-    {
+  {
       "dimension": 0,
       "mob": "exoticbirds:cassowary",
       "biometype": ["JUNGLE"],
       "tempcategory": ["warm"],
       "biome": ["biomesoplenty:rainforest", "biomesoplenty:temperate_rainforest", "biomesoplenty:tropical_rainforest", "climaticbiomesjbg:tropical_forest", "traverse:temperate_rainforest"],
       "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:cassowary",
+    "maxcount": {
+      "amount": 5,
+      "mob": "exoticbirds:cassowary"
     },
-    {
-      "dimension": 0,
-      "mob": "exoticbirds:cassowary",
-      "mincount": {
-        "amount": 5,
-        "mob": "exoticbirds:cassowary"
-      },
-      "result": "deny"
-    },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:duck",
-        "biometype": ["RIVER"],
-        "tempcategory": ["medium"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
       "mob": "exoticbirds:duck",
-      "mincount": {
-        "amount": 5,
-        "mob": "exoticbirds:duck"
-      },
-      "result": "deny"
+      "biometype": ["RIVER"],
+      "tempcategory": ["medium"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:duck",
+    "maxcount": {
+      "amount": 5,
+      "mob": "exoticbirds:duck"
     },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:flamingo",
-        "biome": ["biomesoplenty:land_of_lakes"],
-        "tempcategory": ["warm"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
       "mob": "exoticbirds:flamingo",
-      "mincount": {
-        "amount": 15,
-        "mob": "exoticbirds:flamingo"
-      },
-      "result": "deny"
+      "biome": ["biomesoplenty:land_of_lakes"],
+      "tempcategory": ["warm"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:flamingo",
+    "maxcount": {
+      "amount": 15,
+      "mob": "exoticbirds:flamingo"
     },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:gouldianfinch",
-        "biome": ["biomesoplenty:tropical_rainforest"],
-        "tempcategory": ["warm"],
-        "block": ["biomesoplenty:leaves_5@9", "minecraft:leaves@3"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
       "mob": "exoticbirds:gouldianfinch",
-      "mincount": {
-        "amount": 5,
-        "mob": "exoticbirds:gouldianfinch"
-      },
-      "result": "deny"
+      "biome": ["biomesoplenty:tropical_rainforest"],
+      "tempcategory": ["warm"],
+      "block": ["biomesoplenty:leaves_5@9", "minecraft:leaves@3"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:gouldianfinch",
+    "maxcount": {
+      "amount": 5,
+      "mob": "exoticbirds:gouldianfinch"
     },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:hummingbird",
-        "biometype": ["JUNGLE"],
-        "tempcategory": ["warm"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
       "mob": "exoticbirds:hummingbird",
-      "mincount": {
-        "amount": 10,
-        "mob": "exoticbirds:hummingbird"
-      },
-      "result": "deny"
+      "biometype": ["JUNGLE"],
+      "tempcategory": ["warm"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:hummingbird",
+    "maxcount": {
+      "amount": 10,
+      "mob": "exoticbirds:hummingbird"
     },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:kingfisher",
-        "biometype": ["RIVER", "WATER"],
-        "tempcategory": ["medium"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
       "mob": "exoticbirds:kingfisher",
-      "mincount": {
-        "amount": 10,
-        "mob": "exoticbirds:kingfisher"
-      },
-      "result": "deny"
+      "biometype": ["RIVER", "WATER"],
+      "tempcategory": ["medium"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:kingfisher",
+    "maxcount": {
+      "amount": 10,
+      "mob": "exoticbirds:kingfisher"
     },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:kiwi",
-        "biome": ["biomesoplenty:origin_island", "biomesoplenty:tropical_island"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
       "mob": "exoticbirds:kiwi",
-      "mincount": {
-        "amount": 10,
-        "mob": "exoticbirds:kiwi"
-      },
-      "result": "deny"
+      "biome": ["biomesoplenty:origin_island", "biomesoplenty:tropical_island"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:kiwi",
+    "maxcount": {
+      "amount": 10,
+      "mob": "exoticbirds:kiwi"
     },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:lyrebird",
-        "biome": ["minecraft:birch_forest_hills", "minecraft:mutated_birch_forest_hills", "minecraft:forest_hills"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
       "mob": "exoticbirds:lyrebird",
-      "mincount": {
-        "amount": 10,
-        "mob": "exoticbirds:lyrebird"
-      },
-      "result": "deny"
+      "biome": ["minecraft:birch_forest_hills", "minecraft:mutated_birch_forest_hills", "minecraft:forest_hills"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:lyrebird",
+    "maxcount": {
+      "amount": 10,
+      "mob": "exoticbirds:lyrebird"
     },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:magpie",
-        "biometype": ["PLAINS"],
-        "biome": ["biomesoplenty:shrubland", "biomesoplenty:lavender_fields", "minecraft:plains"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
       "mob": "exoticbirds:magpie",
-      "mincount": {
-        "amount": 10,
-        "mob": "exoticbirds:magpie"
-      },
-      "result": "deny"
+      "biometype": ["PLAINS"],
+      "biome": ["biomesoplenty:shrubland", "biomesoplenty:lavender_fields", "minecraft:plains"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:magpie",
+    "maxcount": {
+      "amount": 10,
+      "mob": "exoticbirds:magpie"
     },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:ostrich",
-        "biometype": ["SAVANNA"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
       "mob": "exoticbirds:ostrich",
-      "mincount": {
-        "amount": 10,
-        "mob": "exoticbirds:ostrich"
-      },
-      "result": "deny"
+      "biometype": ["SAVANNA"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:ostrich",
+    "maxcount": {
+      "amount": 10,
+      "mob": "exoticbirds:ostrich"
     },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:owl",
-        "biometype": ["MOUNTAIN"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
       "mob": "exoticbirds:owl",
-      "mincount": {
-        "amount": 10,
-        "mob": "exoticbirds:owl"
-      },
-      "result": "deny"
+      "biometype": ["MOUNTAIN"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:owl",
+    "maxcount": {
+      "amount": 10,
+      "mob": "exoticbirds:owl"
     },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:parrot",
-        "biome": ["climaticbiomesjbg:tropical_forest", "biomesoplenty:mangrove", "climaticbiomesjbg:tropical_river", "biomesoplenty:tropical_rainforest", "biomesoplenty:tropical_island"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
       "mob": "exoticbirds:parrot",
-      "mincount": {
-        "amount": 10,
-        "mob": "exoticbirds:parrot"
-      },
-      "result": "deny"
+      "biome": ["climaticbiomesjbg:tropical_forest", "biomesoplenty:mangrove", "climaticbiomesjbg:tropical_river", "biomesoplenty:tropical_rainforest", "biomesoplenty:tropical_island"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:parrot",
+    "maxcount": {
+      "amount": 10,
+      "mob": "exoticbirds:parrot"
     },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:peafowl",
-        "biometype": ["JUNGLE"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
       "mob": "exoticbirds:peafowl",
-      "mincount": {
-        "amount": 10,
-        "mob": "exoticbirds:peafowl"
-      },
-      "result": "deny"
+      "biometype": ["JUNGLE"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:peafowl",
+    "maxcount": {
+      "amount": 10,
+      "mob": "exoticbirds:peafowl"
     },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:pelican",
-        "biome": ["climaticbiomesjbg:subtropical_forest", "climaticbiomesjbg:subtropical_forest_hills", "climaticbiomesjbg:subtropical_river", "climaticbiomesjbg:tropical_river", "biomesoplenty:tropical_rainforest", "climaticbiomesjbg:tropical_forest", "climaticbiomesjbg:tropical_forest_hills", "biomesoplenty:tropical_island"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
       "mob": "exoticbirds:pelican",
-      "mincount": {
-        "amount": 10,
-        "mob": "exoticbirds:pelican"
-      },
-      "result": "deny"
+      "biome": ["climaticbiomesjbg:subtropical_forest", "climaticbiomesjbg:subtropical_forest_hills", "climaticbiomesjbg:subtropical_river", "climaticbiomesjbg:tropical_river", "biomesoplenty:tropical_rainforest", "climaticbiomesjbg:tropical_forest", "climaticbiomesjbg:tropical_forest_hills", "biomesoplenty:tropical_island"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:pelican",
+    "maxcount": {
+      "amount": 10,
+      "mob": "exoticbirds:pelican"
     },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:emperorpenguin",
-        "biome": ["minecraft:frozen_ocean", "minecraft:frozen_river", "mineraft:cold_beach", "minecraft:ice_flats"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
       "mob": "exoticbirds:emperorpenguin",
-      "mincount": {
-        "amount": 10,
-        "mob": "exoticbirds:emperorpenguin"
-      },
-      "result": "deny"
+      "biome": ["minecraft:frozen_ocean", "minecraft:frozen_river", "mineraft:cold_beach", "minecraft:ice_flats"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:emperorpenguin",
+    "maxcount": {
+      "amount": 10,
+      "mob": "exoticbirds:emperorpenguin"
     },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:pigeon",
-        "biometype": ["MOUNTAIN"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
       "mob": "exoticbirds:pigeon",
-      "mincount": {
-        "amount": 10,
-        "mob": "exoticbirds:pigeon"
-      },
-      "result": "deny"
+      "biometype": ["MOUNTAIN"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:pigeon",
+    "maxcount": {
+      "amount": 10,
+      "mob": "exoticbirds:pigeon"
     },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:roadrnner",
-        "biometype": ["WASTELAND"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
-      "mob": "exoticbirds:roadrnner",
-      "mincount": {
-        "amount": 10,
-        "mob": "exoticbirds:roadrnner"
-      },
-      "result": "deny"
+      "mob": "exoticbirds:roadrunner",
+      "biometype": ["WASTELAND"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:roadrunner",
+    "maxcount": {
+      "amount": 10,
+      "mob": "exoticbirds:roadrunner"
     },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:seagull",
-        "biometype": ["BEACH"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
       "mob": "exoticbirds:seagull",
-      "mincount": {
-        "amount": 10,
-        "mob": "exoticbirds:seagull"
-      },
-      "result": "deny"
+      "biometype": ["BEACH"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:seagull",
+    "maxcount": {
+      "amount": 10,
+      "mob": "exoticbirds:seagull"
     },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:swan",
-        "biome": ["biomesoplenty:snowy_tundra", "biomesoplenty:tundra"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
       "mob": "exoticbirds:swan",
-      "mincount": {
-        "amount": 10,
-        "mob": "exoticbirds:swan"
-      },
-      "result": "deny"
+      "biome": ["biomesoplenty:snowy_tundra", "biomesoplenty:tundra"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:swan",
+    "maxcount": {
+      "amount": 10,
+      "mob": "exoticbirds:swan"
     },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:toucan",
-        "biometype": ["JUNGLE", "SWAMP"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
       "mob": "exoticbirds:toucan",
-      "mincount": {
-        "amount": 10,
-        "mob": "exoticbirds:toucan"
-      },
-      "result": "deny"
+      "biometype": ["JUNGLE", "SWAMP"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:toucan",
+    "maxcount": {
+      "amount": 10,
+      "mob": "exoticbirds:toucan"
     },
-    {
-        "dimension": 0,
-        "mob": "exoticbirds:vulture",
-        "biome": ["biomesoplenty:steppe", "minecraft:mesa", "minecraft:mutated_mesa", "minecraft:mesa_rock", "minecraft:mutated_mesa_rock", "minecraft:mesa_clear_rock", "minecraft:mutated_mesa_clear_rock"],
-        "result": "allow"
-    },
-    {
+    "result": "deny"
+  },
+  {
       "dimension": 0,
       "mob": "exoticbirds:vulture",
-      "mincount": {
-        "amount": 10,
-        "mob": "exoticbirds:vulture"
-      },
-      "result": "deny"
-    }
-  ]
-
-
+      "biome": ["biomesoplenty:steppe", "minecraft:mesa", "minecraft:mutated_mesa", "minecraft:mesa_rock", "minecraft:mutated_mesa_rock", "minecraft:mesa_clear_rock", "minecraft:mutated_mesa_clear_rock"],
+      "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "exoticbirds:vulture",
+    "maxcount": {
+      "amount": 10,
+      "mob": "exoticbirds:vulture"
+    },
+    "result": "deny"
+  }
+]
