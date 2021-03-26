@@ -1,1 +1,49 @@
-[]
+[
+    {
+      "dimension": 0,
+      "mobs": [
+        {
+          "mob": "exoticbirds:cassowary",
+          "weight": 5,
+          "groupcountmin": 1,
+          "groupcountmax": 5
+        },
+        {
+            "mob": "exoticbirds:duck",
+            "weight": 10,
+            "groupcountmin": 1,
+            "groupcountmax": 5
+        },
+        {
+            "mob": "exoticbirds:flamingo",
+            "weight": 8,
+            "groupcountmin": 2,
+            "groupcountmax": 10
+        },
+        {
+            "mob": "exoticbirds:gouldianfinch",
+            "weight": 5,
+            "groupcountmin": 1,
+            "groupcountmax": 5
+        },
+        {
+            "mob": "exoticbirds:hummingbird",
+            "weight": 18,
+            "groupcountmin": 1,
+            "groupcountmax": 5
+        },
+        {
+            "mob": "exoticbirds:kingfisher",
+            "weight": 18,
+            "groupcountmin": 1,
+            "groupcountmax": 5
+        },
+        {
+            "mob": "exoticbirds:kiwi",
+            "weight": 18,
+            "groupcountmin": 1,
+            "groupcountmax": 5
+        }
+      ]
+    }
+  ]

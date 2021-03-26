@@ -1,1 +1,117 @@
-[]
+[
+    {
+      "dimension": 0,
+      "mob": "exoticbirds:cassowary",
+      "biometype": ["JUNGLE"],
+      "tempcategory": ["warm"],
+      "biome": ["biomesoplenty:rainforest", "biomesoplenty:temperate_rainforest", "biomesoplenty:tropical_rainforest", "climaticbiomesjbg:tropical_forest", "traverse:temperate_rainforest"],
+      "result": "allow"
+    },
+    {
+      "dimension": 0,
+      "mob": "exoticbirds:cassowary",
+      "mincount": {
+        "amount": 5,
+        "mob": "exoticbirds:cassowary"
+      },
+      "result": "deny"
+    },
+    {
+        "dimension": 0,
+        "mob": "exoticbirds:duck",
+        "biometype": ["RIVER"],
+        "tempcategory": ["medium"],
+        "result": "allow"
+    },
+    {
+      "dimension": 0,
+      "mob": "exoticbirds:duck",
+      "mincount": {
+        "amount": 5,
+        "mob": "exoticbirds:duck"
+      },
+      "result": "deny"
+    },
+    {
+        "dimension": 0,
+        "mob": "exoticbirds:flamingo",
+        "biome": ["biomesoplenty:land_of_lakes"],
+        "tempcategory": ["warm"],
+        "result": "allow"
+    },
+    {
+      "dimension": 0,
+      "mob": "exoticbirds:flamingo",
+      "mincount": {
+        "amount": 15,
+        "mob": "exoticbirds:flamingo"
+      },
+      "result": "deny"
+    },
+    {
+        "dimension": 0,
+        "mob": "exoticbirds:gouldianfinch",
+        "biome": ["biomesoplenty:tropical_rainforest"],
+        "tempcategory": ["warm"],
+        "block": ["biomesoplenty:leaves_5@9", "minecraft:leaves@3"],
+        "result": "allow"
+    },
+    {
+      "dimension": 0,
+      "mob": "exoticbirds:gouldianfinch",
+      "mincount": {
+        "amount": 5,
+        "mob": "exoticbirds:gouldianfinch"
+      },
+      "result": "deny"
+    },
+    {
+        "dimension": 0,
+        "mob": "exoticbirds:hummingbird",
+        "biometype": ["JUNGLE"],
+        "tempcategory": ["warm"],
+        "result": "allow"
+    },
+    {
+      "dimension": 0,
+      "mob": "exoticbirds:hummingbird",
+      "mincount": {
+        "amount": 10,
+        "mob": "exoticbirds:hummingbird"
+      },
+      "result": "deny"
+    },
+    {
+        "dimension": 0,
+        "mob": "exoticbirds:kingfisher",
+        "biometype": ["RIVER", "WATER"],
+        "tempcategory": ["medium"],
+        "result": "allow"
+    },
+    {
+      "dimension": 0,
+      "mob": "exoticbirds:kingfisher",
+      "mincount": {
+        "amount": 10,
+        "mob": "exoticbirds:kingfisher"
+      },
+      "result": "deny"
+    },
+    {
+        "dimension": 0,
+        "mob": "exoticbirds:kiwi",
+        "biome": ["biomesoplenty:origin_island", "biomesoplenty:tropical_island"],
+        "result": "allow"
+    },
+    {
+      "dimension": 0,
+      "mob": "exoticbirds:kiwi",
+      "mincount": {
+        "amount": 10,
+        "mob": "exoticbirds:kiwi"
+      },
+      "result": "deny"
+    }
+  ]
+
+
