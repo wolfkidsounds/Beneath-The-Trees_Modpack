@@ -1,0 +1,111 @@
+# recipes Registry Analysis
+
+This file contains information about how mods are using the recipes registry.
+67099401 out of 67108863 ids available. 99.986% of this registry is still
+available. This data is anonymous, and is not automatically submitted to any
+online service.
+
+
+| Mod Name                | Entries | Utilization |
+|-------------------------|---------|-------------|
+| harvestcraft            | 1286    | 0.002%      |
+| ironagefurniture        | 906     | 0.001%      |
+| quark                   | 617     | <0.001%     |
+| railcraft               | 579     | <0.001%     |
+| minecraft               | 443     | <0.001%     |
+| atlcraft                | 398     | <0.001%     |
+| mcwfurnitures           | 387     | <0.001%     |
+| bibliocraft             | 344     | <0.001%     |
+| immersiveengineering    | 315     | <0.001%     |
+| tconstruct              | 262     | <0.001%     |
+| mcwroofs                | 222     | <0.001%     |
+| ferdinandsflowers       | 210     | <0.001%     |
+| biomesoplenty           | 203     | <0.001%     |
+| dynamictreesphc         | 179     | <0.001%     |
+| zawa                    | 158     | <0.001%     |
+| pvj                     | 156     | <0.001%     |
+| tinkerscompendium       | 150     | <0.001%     |
+| industrialrenewal       | 149     | <0.001%     |
+| rsgauges                | 134     | <0.001%     |
+| unidict                 | 132     | <0.001%     |
+| inspirations            | 129     | <0.001%     |
+| immersiveintelligence   | 115     | <0.001%     |
+| engineersdecor          | 114     | <0.001%     |
+| rustic                  | 104     | <0.001%     |
+| betternether            | 102     | <0.001%     |
+| mocreatures             | 95      | <0.001%     |
+| mysticalworld           | 91      | <0.001%     |
+| animania                | 78      | <0.001%     |
+| conarm                  | 76      | <0.001%     |
+| mcwdoors                | 72      | <0.001%     |
+| leatherworks            | 67      | <0.001%     |
+| vc                      | 67      | <0.001%     |
+| naturesaura             | 63      | <0.001%     |
+| comforts                | 63      | <0.001%     |
+| roots                   | 62      | <0.001%     |
+| environs                | 60      | <0.001%     |
+| tcomplement             | 55      | <0.001%     |
+| aquaculture             | 54      | <0.001%     |
+| chisel                  | 51      | <0.001%     |
+| mcwwindows              | 50      | <0.001%     |
+| mcwbridges              | 50      | <0.001%     |
+| dynamictreesbop         | 43      | <0.001%     |
+| simpledifficulty        | 32      | <0.001%     |
+| blockcraftery           | 31      | <0.001%     |
+| netherbackport          | 29      | <0.001%     |
+| traverse                | 28      | <0.001%     |
+| storagedrawers          | 28      | <0.001%     |
+| fairylights             | 24      | <0.001%     |
+| immersive_energy        | 23      | <0.001%     |
+| gardenstuff             | 21      | <0.001%     |
+| storagenetwork          | 20      | <0.001%     |
+| tinker_io               | 19      | <0.001%     |
+| immersiveposts          | 18      | <0.001%     |
+| engineersdoors          | 17      | <0.001%     |
+| simplytea               | 17      | <0.001%     |
+| pumpkincarving          | 16      | <0.001%     |
+| exoticbirds             | 14      | <0.001%     |
+| dynamictrees            | 14      | <0.001%     |
+| engineerstools          | 14      | <0.001%     |
+| immersivepetroleum      | 14      | <0.001%     |
+| immersivetech           | 13      | <0.001%     |
+| additionalenderblocks   | 13      | <0.001%     |
+| realistictorches        | 11      | <0.001%     |
+| climaticbiomesjbg       | 9       | <0.001%     |
+| eplus                   | 9       | <0.001%     |
+| ftbquests               | 9       | <0.001%     |
+| jaff                    | 8       | <0.001%     |
+| dttraverse              | 8       | <0.001%     |
+| betterbuilderswands     | 6       | <0.001%     |
+| jarm                    | 6       | <0.001%     |
+| birdwmod                | 6       | <0.001%     |
+| enderstorage            | 6       | <0.001%     |
+| dynamictreestconstruct  | 6       | <0.001%     |
+| theoneprobe             | 6       | <0.001%     |
+| maille                  | 6       | <0.001%     |
+| openglider              | 5       | <0.001%     |
+| tinkersaddons           | 5       | <0.001%     |
+| locks                   | 5       | <0.001%     |
+| waystones               | 5       | <0.001%     |
+| alternatingflux         | 5       | <0.001%     |
+| crafttweaker            | 5       | <0.001%     |
+| dynamictreesquark       | 4       | <0.001%     |
+| butterflies             | 3       | <0.001%     |
+| sereneseasons           | 3       | <0.001%     |
+| akashictome             | 3       | <0.001%     |
+| antiqueatlas            | 3       | <0.001%     |
+| dynamictreesroots       | 2       | <0.001%     |
+| familiarfauna           | 2       | <0.001%     |
+| topaddons               | 2       | <0.001%     |
+| dynamictreesnaturesaura | 2       | <0.001%     |
+| mowziesmobs             | 2       | <0.001%     |
+| lumen                   | 2       | <0.001%     |
+| wearablebackpacks       | 2       | <0.001%     |
+| toolbelt                | 2       | <0.001%     |
+| solcarrot               | 2       | <0.001%     |
+| geolosys                | 1       | <0.001%     |
+| itemfilters             | 1       | <0.001%     |
+| tinkeredhegemony        | 1       | <0.001%     |
+| naturescompass          | 1       | <0.001%     |
+| naturalabsorption       | 1       | <0.001%     |
+| stackable               | 1       | <0.001%     |
