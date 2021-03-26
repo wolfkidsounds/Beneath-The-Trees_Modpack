@@ -35,8 +35,7 @@ val items = [
     "minecraft:diamond_helmet",
     "minecraft:diamond_boots",
     "minecraft:iron_chestplate",
-    "minecraft:diamond_leggings",
-    "minecraft:shield"
+    "minecraft:diamond_leggings"
 
 ] as string[];
 
