@@ -10,5 +10,7 @@ val items = [
     <immersiveengineering:sword_steel>
 ] as IItemStack[];
 
-    for item in items {mods.jei.JEI.removeAndHide(item);}
+    for item in items {
+        mods.jei.JEI.removeAndHide(item);
+        }
 //-------------------------------------------------------------------
