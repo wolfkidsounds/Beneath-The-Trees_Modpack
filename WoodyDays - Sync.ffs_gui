@@ -11,7 +11,7 @@
             <LeftOnly>right</LeftOnly>
             <RightOnly>right</RightOnly>
             <LeftNewer>right</LeftNewer>
-            <RightNewer>left</RightNewer>
+            <RightNewer>right</RightNewer>
             <Different>right</Different>
             <Conflict>none</Conflict>
         </CustomDirections>
