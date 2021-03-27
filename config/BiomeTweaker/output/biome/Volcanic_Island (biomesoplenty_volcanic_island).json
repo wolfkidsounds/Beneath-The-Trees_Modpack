@@ -22,253 +22,23 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
+    "MOUNTAIN",
     "DRY",
     "WASTELAND",
     "HOT",
-    "MOUNTAIN",
     "WATER",
     "DEAD"
   ],
   "BiomeManager Entries": {},
-  "Spawnable Creatures": [
-    {
-      "Entity Class": "com.animania.addons.extra.common.entity.rodents.rabbits.RabbitHavana$EntityRabbitDoeHavana",
-      "Weight": 8,
-      "Min Group Count": 2,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "com.animania.addons.farm.common.entity.pigs.PigHampshire$EntitySowHampshire",
-      "Weight": 9,
-      "Min Group Count": 2,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "com.animania.addons.farm.common.entity.chickens.ChickenPlymouthRock$EntityHenPlymouthRock",
-      "Weight": 9,
-      "Min Group Count": 2,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "com.animania.addons.farm.common.entity.cows.CowHereford$EntityCowHereford",
-      "Weight": 9,
-      "Min Group Count": 2,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "com.animania.addons.farm.common.entity.cows.CowHighland$EntityCowHighland",
-      "Weight": 9,
-      "Min Group Count": 2,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "com.animania.addons.farm.common.entity.cows.CowJersey$EntityCowJersey",
-      "Weight": 9,
-      "Min Group Count": 2,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "com.animania.addons.farm.common.entity.goats.GoatAlpine$EntityDoeAlpine",
-      "Weight": 8,
-      "Min Group Count": 2,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "com.animania.addons.farm.common.entity.goats.GoatKiko$EntityDoeKiko",
-      "Weight": 8,
-      "Min Group Count": 2,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "epicsquid.mysticalworld.entity.EntityOwl",
-      "Weight": 9,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.passive.MoCEntityBird",
-      "Weight": 15,
-      "Min Group Count": 2,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.passive.MoCEntityBlackBear",
-      "Weight": 6,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.passive.MoCEntityGoat",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.passive.MoCEntityGrizzlyBear",
-      "Weight": 6,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.passive.MoCEntityLeopard",
-      "Weight": 6,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.passive.MoCEntityMouse",
-      "Weight": 7,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.passive.MoCEntityPanther",
-      "Weight": 6,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.passive.MoCEntityRaccoon",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.passive.MoCEntitySnake",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.passive.MoCEntityHorse",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "ladysnake.lumen.common.entities.EntityWillOWisp",
-      "Weight": 50,
-      "Min Group Count": 0,
-      "Max Group Count": 40
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.passive.EntityDuck",
-      "Weight": 7,
-      "Min Group Count": 2,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityRedKangaroo",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    }
-  ],
-  "Spawnable Monsters": [
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityGolem",
-      "Weight": 3,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityCaveOgre",
-      "Weight": 5,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityFireOgre",
-      "Weight": 6,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityFlameWraith",
-      "Weight": 5,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityGreenOgre",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityHellRat",
-      "Weight": 6,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityHorseMob",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityManticore",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityMiniGolem",
-      "Weight": 6,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityRat",
-      "Weight": 7,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityScorpion",
-      "Weight": 6,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntitySilverSkeleton",
-      "Weight": 6,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityWerewolf",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityWraith",
-      "Weight": 6,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityWWolf",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "gigaherz.eyes.entity.EntityEyes",
-      "Weight": 15,
-      "Min Group Count": 1,
-      "Max Group Count": 10
-    },
-    {
-      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    }
-  ],
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [],
   "Spawnable Water Creatures": [
+    {
+      "Entity Class": "epicsquid.mysticalworld.entity.EntityClam",
+      "Weight": 14,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
     {
       "Entity Class": "drzhark.mocreatures.entity.aquatic.MoCEntityAnchovy",
       "Weight": 12,
@@ -429,19 +199,19 @@
     },
     {
       "Entity Class": "vibrantjourneys.entities.passive.EntitySnail",
-      "Weight": 8,
+      "Weight": 4,
       "Min Group Count": 2,
       "Max Group Count": 4
     },
     {
       "Entity Class": "vibrantjourneys.entities.passive.EntitySmallSpider",
-      "Weight": 5,
+      "Weight": 2,
       "Min Group Count": 1,
       "Max Group Count": 6
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": false,
+  "Tweaked": true,
   "BOP Generators": {
     "FLOWERS Generators": [
       {
