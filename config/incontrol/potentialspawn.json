@@ -241,5 +241,126 @@
                 "groupcountmax": 5
             }
         ]
+    },
+    {
+        "dimension": 0,
+        "biometype": [
+            "FOREST"
+        ],
+        "mobs": [
+            {
+                "mob": "exoticbirds:woodpecker",
+                "weight": 12,
+                "groupcountmin": 1,
+                "groupcountmax": 5
+            },
+            {
+                "mob": "exoticbirds:bluejay",
+                "weight": 12,
+                "groupcountmin": 1,
+                "groupcountmax": 5
+            },
+            {
+                "mob": "exoticbirds:robin",
+                "weight": 12,
+                "groupcountmin": 1,
+                "groupcountmax": 5
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biometype": [
+            "WATER", 
+            "WET", 
+            "SWAMP", 
+            "RIVER", 
+            "LUSH"
+        ],
+        "mobs": [
+            {
+                "mob": "exoticbirds:heron",
+                "weight": 6,
+                "groupcountmin": 1,
+                "groupcountmax": 5
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biome": [
+            "minecraft:mushroom_island",
+            "minecraft:mushroom_island_shore",
+            "biomesoplenty:origin_island",
+            "biomesoplenty:tropical_island",
+            "biomesoplenty:volcanic_island",
+            "biomesoplenty:flower_island"
+        ],
+        "biometype": [
+            "RARE"
+        ],
+        "mobs": [
+            {
+                "mob": "exoticbirds:booby",
+                "weight": 6,
+                "groupcountmin": 1,
+                "groupcountmax": 5
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biometype": [
+            "PLAINS",
+            "FOREST"
+        ],
+        "mobs": [
+            {
+                "mob": "exoticbirds:cardinal",
+                "weight": 12,
+                "groupcountmin": 1,
+                "groupcountmax": 5
+            },
+            {
+                "mob": "exoticbirds:kookaburra",
+                "weight": 6,
+                "groupcountmin": 1,
+                "groupcountmax": 5
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biometype": [
+            "WET",
+            "SWAMP",
+            "RIVER",
+            "DENSE",
+            "LUSH"
+        ],
+        "mobs": [
+            {
+                "mob": "exoticbirds:crane",
+                "weight": 6,
+                "groupcountmin": 1,
+                "groupcountmax": 5
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "block": [
+            "biomesoplenty:leaves_5@11"
+        ],
+        "mobs": [
+            {
+                "mob": "exoticbirds:budgerigar",
+                "weight": 6,
+                "groupcountmin": 1,
+                "groupcountmax": 5
+            }
+        ]
     }
 ]
+
+
