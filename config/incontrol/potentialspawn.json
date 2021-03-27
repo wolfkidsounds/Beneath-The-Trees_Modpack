@@ -10,6 +10,7 @@
           "climaticbiomesjbg:tropical_river",
           "biomesoplenty:tropical_island"
         ],
+        "maxtime": 13000,
         "mobs": [
             {
                 "mob": "exoticbirds:cassowary",
@@ -48,6 +49,7 @@
         "biometype": [
             "RIVER"
         ],
+        "maxtime": 13000,
         "mobs": [
             {
                 "mob": "exoticbirds:duck",
@@ -68,6 +70,7 @@
         "biome": [
             "biomesoplenty:land_of_lakes"
         ],
+        "maxtime": 13000,
         "mobs": [
             {
                 "mob": "exoticbirds:flamingo",
@@ -82,6 +85,7 @@
         "biometype": [
             "JUNGLE"
         ],
+        "maxtime": 13000,
         "mobs": [
             {
                 "mob": "exoticbirds:hummingbird",
@@ -103,6 +107,7 @@
             "biomesoplenty:origin_island", 
             "biomesoplenty:tropical_island"
         ],
+        "maxtime": 13000,
         "mobs": [
             {
                 "mob": "exoticbirds:kiwi",
@@ -119,6 +124,7 @@
             "minecraft:mutated_birch_forest_hills", 
             "minecraft:forest_hills"
         ],
+        "maxtime": 13000,
         "mobs": [
             {
                 "mob": "exoticbirds:lyrebird",
@@ -133,6 +139,7 @@
         "biometype": [
             "PLAINS"
         ],
+        "maxtime": 13000,
         "mobs": [
             {
                 "mob": "exoticbirds:magpie",
@@ -147,6 +154,7 @@
         "biometype": [
             "SAVANNA"
         ],
+        "maxtime": 13000,
         "mobs": [
             {
                 "mob": "exoticbirds:ostrich",
@@ -184,6 +192,7 @@
             "mineraft:cold_beach",
             "minecraft:ice_flats"
         ],
+        "maxtime": 13000,
         "mobs": [
             {
                 "mob": "exoticbirds:emperorpenguin",
@@ -198,6 +207,7 @@
         "biometype": [
             "WASTELAND"
         ],
+        "maxtime": 13000,
         "mobs": [
             {
                 "mob": "exoticbirds:roadrunner",
@@ -219,6 +229,7 @@
             "biomesoplenty:snowy_tundra",
             "biomesoplenty:tundra"
         ],
+        "maxtime": 13000,
         "mobs": [
             {
                 "mob": "exoticbirds:swan",
@@ -233,6 +244,7 @@
         "biometype": [
             "BEACH"
         ],
+        "maxtime": 13000,
         "mobs": [
             {
                 "mob": "exoticbirds:seagull",
@@ -247,6 +259,7 @@
         "biometype": [
             "FOREST"
         ],
+        "maxtime": 13000,
         "mobs": [
             {
                 "mob": "exoticbirds:woodpecker",
@@ -277,6 +290,7 @@
             "RIVER", 
             "LUSH"
         ],
+        "maxtime": 13000,
         "mobs": [
             {
                 "mob": "exoticbirds:heron",
@@ -299,6 +313,7 @@
         "biometype": [
             "RARE"
         ],
+        "maxtime": 13000,
         "mobs": [
             {
                 "mob": "exoticbirds:booby",
@@ -314,6 +329,7 @@
             "PLAINS",
             "FOREST"
         ],
+        "maxtime": 13000,
         "mobs": [
             {
                 "mob": "exoticbirds:cardinal",
@@ -338,6 +354,7 @@
             "DENSE",
             "LUSH"
         ],
+        "maxtime": 13000,
         "mobs": [
             {
                 "mob": "exoticbirds:crane",
@@ -352,12 +369,44 @@
         "block": [
             "biomesoplenty:leaves_5@11"
         ],
+        "maxtime": 12000,
         "mobs": [
             {
                 "mob": "exoticbirds:budgerigar",
                 "weight": 6,
                 "groupcountmin": 1,
                 "groupcountmax": 5
+            }
+        ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "dimension": 0,
+        "biometype": [
+            "PLAINS"
+        ],
+        "mintime": 15000,
+        "mobs": [
+            {
+                "mob": "lumen:firefly",
+                "weight": 6,
+                "groupcountmin": 5,
+                "groupcountmax": 10
             }
         ]
     }

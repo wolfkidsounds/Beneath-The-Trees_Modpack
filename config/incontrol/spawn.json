@@ -71,6 +71,7 @@
   },
   {
     "mob": "exoticbirds:owl",
+    "mintime": 13000,
     "mincount": {
       "amount": 5
     },
@@ -212,8 +213,16 @@
   {
     "mod": "exoticbirds",
     "mincount": {
-        "amount": 80,
+        "amount": 50,
         "mod": "exoticbirds"
+    },
+    "result": "deny"
+  },
+  {
+    "mod": "lumen",
+    "mincount": {
+        "amount": 35,
+        "mod": "lumen"
     },
     "result": "deny"
   }
