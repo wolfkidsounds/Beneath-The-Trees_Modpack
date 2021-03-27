@@ -1,5 +1,8 @@
 [
     {
+        "remove": ["betternether:firefly"]
+    },
+    {
       "dimension": 0,
       "biome": [
           "biomesoplenty:rainforest",
