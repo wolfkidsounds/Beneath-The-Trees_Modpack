@@ -20,7 +20,6 @@ Signed Mods: 30 (12.0%)
 | Better Foliage                                  | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | BetterFoliage-MC1.12-2.3.1.jar                     |
 | Game Stages                                     | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | GameStages-1.12.2-2.0.123.jar                      |
 | FastWorkbench                                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | FastWorkbench-1.12.2-1.7.3.jar                     |
-| Industrial Renewal                              | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | IndustrialRenewal_1.12.2-0.21.6.jar                |
 | CoroUtil Library                                | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | coroutil-1.12.1-1.2.37.jar                         |
 | FTB Library                                     | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | FTBLib-5.4.7.2.jar                                 |
 | BiomeTweakerCore                                | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | minecraft.jar                                      |
@@ -44,7 +43,6 @@ Signed Mods: 30 (12.0%)
 | Serene Tweaks                                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | SereneTweaks-1.0.jar                               |
 | Extended Renderer                               | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | coroutil-1.12.1-1.2.37.jar                         |
 | spark                                           | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | spark-forge.jar                                    |
-| Subterranean Waters                             | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | subterraneanwaters-1.12.2-1.7.9.jar                |
 | §3OreLib Support Library                        | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | OreLib-1.12.2-3.6.0.1.jar                          |
 | Duplicate Entity UUID Fix (DEUF)                | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | deuf-1.1-1.12.2.jar                                |
 | The One Probe                                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | theoneprobe-1.12-1.4.28.jar                        |
@@ -75,8 +73,7 @@ Signed Mods: 30 (12.0%)
 | LadyLib                                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Ladylib-2.3.jar                                    |
 | IvToolkit                                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | minecraft.jar                                      |
 | Simple Storage Network                          | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | SimpleStorageNetwork-1.12.2-1.8.1.jar              |
-| Multi Mob Core                                  | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | multimob-1.0.5.jar                                 |
-| UniDict                                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | UniDict-1.12.2-3.0.6.jar                           |
+| UniDict                                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | UniDict-1.12.2-3.0.7.jar                           |
 | Just Enough HarvestCraft                        | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | just-enough-harvestcraft-1.12.2-1.7.2.jar          |
 | FoamFixCore                                     | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | minecraft.jar                                      |
 | CT-GUI                                          | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CraftTweaker2-1.12-4.1.20.631.jar                  |
@@ -93,12 +90,12 @@ Signed Mods: 30 (12.0%)
 | Fast Leaf Decay                                 | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | FastLeafDecay-v14.jar                              |
 | Goodbye Grass                                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | goodbyegrass-1.2.0.jar                             |
 | Dynamic Trees Compatibility for Climatic Biomes | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CB-DTCompat-1.4.0-MC1.12.2.jar                     |
-| Mystical Lib                                    | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | mysticallib-1.12.2-1.9.0.jar                       |
+| Mystical Lib                                    | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | mysticallib-1.12.2-1.10.0.jar                      |
 | WorldEdit                                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | worldedit-forge-mc1.12.2-6.1.10-dist.jar           |
 | CraftTweaker2                                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CraftTweaker2-1.12-4.1.20.631.jar                  |
 | Simply Tea                                      | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | simplytea-1.6.jar                                  |
 | Garden Stuff                                    | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | GardenStuff-1.12-2.1.1.jar                         |
-| Immersive Technology                            | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | MCTImmersiveTechnology-1.12.2-1.8.93.jar           |
+| Immersive Technology                            | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | MCTImmersiveTechnology-1.12.2-1.8.94.jar           |
 | Armory Expansion - Custom Materials             | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | armoryexpansion-1.4.2.jar                          |
 | World Stripper                                  | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | World-Stripper-1.6.0-1.12.2.jar                    |
 | Dynamic Trees for Mystical World                | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | DynamicTreesMysticalWorld-1.12.2-1.0.1.jar         |
@@ -120,7 +117,7 @@ Signed Mods: 30 (12.0%)
 | Locks                                           | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | locks-1.12.2-2.5.1.jar                             |
 | Baubles                                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Baubles-1.12-1.5.2.jar                             |
 | Patchouli                                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Patchouli-1.0-23.6.jar                             |
-| Mystical World                                  | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | mysticalworld-1.12.2-1.9.2.jar                     |
+| Mystical World                                  | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | mysticalworld-1.12.2-1.9.4.jar                     |
 | NetherBackport                                  | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | NetherUpdateBackport-1.12.2(1.0.1).jar             |
 | Water Control Extreme                           | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | WaterControlExtreme-1.0.2.jar                      |
 | FPS Reducer                                     | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | FpsReducer-mc1.12.2-1.18.jar                       |
@@ -137,7 +134,7 @@ Signed Mods: 30 (12.0%)
 | FastFurnace                                     | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | FastFurnace-1.12.2-1.3.1.jar                       |
 | Waystones                                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Waystones_1.12.2-4.1.0.jar                         |
 | Enchanting Plus                                 | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | EnchantingPlus-1.12.2-5.0.179.jar                  |
-| Roots                                           | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Roots-1.12.2-3.0.32.jar                            |
+| Roots                                           | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Roots-1.12.2-3.0.33.jar                            |
 | Extended Mod Config                             | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | coroutil-1.12.1-1.2.37.jar                         |
 | CraftPresence                                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | CraftPresence-Forge-1.12.2-Release-1.7.6.jar       |
 | Traverse                                        | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Traverse-1.12.2-1.6.0-69.jar                       |

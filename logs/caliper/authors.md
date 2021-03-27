@@ -399,8 +399,6 @@ online service.
      - SimpleDifficulty
 1 - harley o'connor
      - Dynamic Trees for Nature's Aura
-1 - cassiokf
-     - Industrial Renewal
 1 - fry
      - Minecraft Forge
 1 - blargerist
@@ -461,8 +459,6 @@ online service.
      - Tumbleweed
 1 - luwin
      - No Recipe Book
-1 - daveyx0
-     - Multi Mob Core
 1 - unnoen
      - Unloader
 1 - incubesupreme

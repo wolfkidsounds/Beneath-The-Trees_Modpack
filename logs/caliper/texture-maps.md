@@ -17,11 +17,10 @@ anonymous, and is not automatically submitted to any online service.
 | tconstruct              | 4066     | 1044736  | 3 MB      |
 | rsgauges                | 151      | 964352   | 3 MB      |
 | extendedrenderer        | 18       | 681216   | 2 MB      |
-| industrialrenewal       | 111      | 652800   | 2 MB      |
 | bibliocraft             | 130      | 563968   | 2 MB      |
 | vc                      | 104      | 499712   | 1 MB      |
 | harvestcraft            | 1789     | 457984   | 1 MB      |
-| minecraft               | 1626     | 450560   | 1 MB      |
+| minecraft               | 1624     | 442368   | 1 MB      |
 | immersivetech           | 49       | 252160   | 985 KB    |
 | railcraft               | 690      | 180480   | 705 KB    |
 | zawa                    | 340      | 133888   | 523 KB    |
@@ -49,7 +48,7 @@ anonymous, and is not automatically submitted to any online service.
 | bettergrassandleaves    | 42       | 30528    | 119 KB    |
 | birdwmod                | 41       | 27392    | 107 KB    |
 | ftblib                  | 70       | 27136    | 106 KB    |
-| mysticalworld           | 93       | 24576    | 96 KB     |
+| mysticalworld           | 101      | 26624    | 104 KB    |
 | mcwroofs                | 80       | 21248    | 83 KB     |
 | mysticallib             | 24       | 20736    | 81 KB     |
 | simpledifficulty        | 73       | 20224    | 79 KB     |

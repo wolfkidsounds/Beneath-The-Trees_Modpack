@@ -1,9 +1,8 @@
 # block Registry Analysis
 
-This file contains information about how mods are using the block registry.
--1066 out of 4096 ids available. -26.025% of this registry is still available.
-This data is anonymous, and is not automatically submitted to any online
-service.
+This file contains information about how mods are using the block registry. -938
+out of 4096 ids available. -22.900% of this registry is still available. This
+data is anonymous, and is not automatically submitted to any online service.
 
 
 | Mod Name                  | Entries | Utilization |
@@ -19,7 +18,6 @@ service.
 | mcwroofs                  | 199     | 4.858%      |
 | dungeons2                 | 148     | 3.613%      |
 | rustic                    | 134     | 3.271%      |
-| industrialrenewal         | 128     | 3.125%      |
 | biomesoplenty             | 128     | 3.125%      |
 | zawa                      | 127     | 3.101%      |
 | rsgauges                  | 121     | 2.954%      |

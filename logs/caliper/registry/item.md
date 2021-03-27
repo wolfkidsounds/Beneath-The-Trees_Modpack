@@ -1,7 +1,7 @@
 # item Registry Analysis
 
-This file contains information about how mods are using the item registry. 24017
-out of 32000 ids available. 75.053% of this registry is still available. This
+This file contains information about how mods are using the item registry. 24176
+out of 32000 ids available. 75.550% of this registry is still available. This
 data is anonymous, and is not automatically submitted to any online service.
 
 
@@ -19,7 +19,6 @@ data is anonymous, and is not automatically submitted to any online service.
 | animania                  | 237     | 0.741%      |
 | mcwroofs                  | 218     | 0.681%      |
 | ironagefurniture          | 206     | 0.644%      |
-| industrialrenewal         | 166     | 0.519%      |
 | biomesoplenty             | 162     | 0.506%      |
 | railcraft                 | 162     | 0.506%      |
 | dungeons2                 | 149     | 0.466%      |
@@ -28,7 +27,7 @@ data is anonymous, and is not automatically submitted to any online service.
 | mocreatures               | 131     | 0.409%      |
 | roots                     | 126     | 0.394%      |
 | rsgauges                  | 122     | 0.381%      |
-| mysticalworld             | 113     | 0.353%      |
+| mysticalworld             | 120     | 0.375%      |
 | betternether              | 95      | 0.297%      |
 | naturesaura               | 93      | 0.291%      |
 | leatherworks              | 90      | 0.281%      |

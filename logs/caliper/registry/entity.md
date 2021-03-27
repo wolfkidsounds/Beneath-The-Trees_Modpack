@@ -1,7 +1,7 @@
 # entity Registry Analysis
 
 This file contains information about how mods are using the entity registry.
-67108143 out of 67108863 ids available. 99.999% of this registry is still
+67108155 out of 67108863 ids available. 99.999% of this registry is still
 available. This data is anonymous, and is not automatically submitted to any
 online service.
 
@@ -19,12 +19,11 @@ online service.
 | roots                 | 22      | <0.001%     |
 | quark                 | 21      | <0.001%     |
 | pvj                   | 19      | <0.001%     |
-| mysticalworld         | 14      | <0.001%     |
 | birdwmod              | 13      | <0.001%     |
 | immersiveintelligence | 11      | <0.001%     |
+| mysticalworld         | 11      | <0.001%     |
 | lumen                 | 9       | <0.001%     |
 | immersiveengineering  | 9       | <0.001%     |
-| industrialrenewal     | 8       | <0.001%     |
 | tconstruct            | 7       | <0.001%     |
 | familiarfauna         | 6       | <0.001%     |
 | jaff                  | 5       | <0.001%     |
@@ -44,7 +43,6 @@ online service.
 | clumps                | 1       | <0.001%     |
 | tinkerscompendium     | 1       | <0.001%     |
 | comforts              | 1       | <0.001%     |
-| multimob              | 1       | <0.001%     |
 | tumbleweed            | 1       | <0.001%     |
 | zombieawareness       | 1       | <0.001%     |
 | coroutil              | 1       | <0.001%     |
