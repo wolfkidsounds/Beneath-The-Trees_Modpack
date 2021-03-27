@@ -221,7 +221,7 @@
   {
     "mod": "lumen",
     "mincount": {
-        "amount": 35,
+        "amount": 25,
         "mod": "lumen"
     },
     "result": "deny"
