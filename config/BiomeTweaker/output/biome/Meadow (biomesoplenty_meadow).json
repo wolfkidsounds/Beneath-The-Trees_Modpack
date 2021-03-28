@@ -22,12 +22,12 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WET",
-    "FOREST",
-    "LUSH",
     "COLD",
+    "PLAINS",
+    "WET",
     "SPARSE",
-    "PLAINS"
+    "LUSH",
+    "FOREST"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
@@ -138,7 +138,7 @@
       "Max Group Count": 6
     }
   ],
-  "Spawn Biome": false,
+  "Spawn Biome": true,
   "Tweaked": true,
   "BOP Generators": {
     "LILYPAD Generators": [

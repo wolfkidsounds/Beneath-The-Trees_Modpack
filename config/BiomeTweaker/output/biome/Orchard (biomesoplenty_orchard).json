@@ -23,9 +23,9 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "DENSE",
-    "FOREST",
+    "PLAINS",
     "LUSH",
-    "PLAINS"
+    "FOREST"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
@@ -136,7 +136,7 @@
       "Max Group Count": 6
     }
   ],
-  "Spawn Biome": false,
+  "Spawn Biome": true,
   "Tweaked": true,
   "BOP Generators": {
     "LILYPAD Generators": [

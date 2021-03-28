@@ -24,8 +24,8 @@
   "Dictionary Types": [
     "DRY",
     "HOT",
-    "SPARSE",
-    "PLAINS"
+    "PLAINS",
+    "SPARSE"
   ],
   "BiomeManager Entries": {
     "WARM Weights": [
@@ -122,7 +122,7 @@
       "Max Group Count": 6
     }
   ],
-  "Spawn Biome": false,
+  "Spawn Biome": true,
   "Tweaked": true,
   "BOP Generators": {
     "FLOWERS Generators": [

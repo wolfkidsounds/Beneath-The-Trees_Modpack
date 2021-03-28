@@ -22,9 +22,9 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "MOUNTAIN",
     "DRY",
     "HOT",
+    "MOUNTAIN",
     "SANDY"
   ],
   "BiomeManager Entries": {
@@ -104,7 +104,7 @@
       "Max Group Count": 6
     }
   ],
-  "Spawn Biome": false,
+  "Spawn Biome": true,
   "Tweaked": true,
   "BOP Generators": {
     "FLOWERS Generators": [
