@@ -1,7 +1,7 @@
 # potion Registry Analysis
 
-This file contains information about how mods are using the potion registry. 172
-out of 256 ids available. 67.188% of this registry is still available. This data
+This file contains information about how mods are using the potion registry. 178
+out of 256 ids available. 69.531% of this registry is still available. This data
 is anonymous, and is not automatically submitted to any online service.
 
 
@@ -15,8 +15,6 @@ is anonymous, and is not automatically submitted to any online service.
 | simpledifficulty      | 6       | 2.344%      |
 | quark                 | 6       | 2.344%      |
 | mowziesmobs           | 4       | 1.563%      |
-| simplytea             | 3       | 1.172%      |
-| nutrition             | 3       | 1.172%      |
 | immersiveintelligence | 2       | 0.781%      |
 | railcraft             | 1       | 0.391%      |
 | conarm                | 1       | 0.391%      |

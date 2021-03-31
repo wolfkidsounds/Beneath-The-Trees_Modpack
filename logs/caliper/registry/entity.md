@@ -1,7 +1,7 @@
 # entity Registry Analysis
 
 This file contains information about how mods are using the entity registry.
-67108155 out of 67108863 ids available. 99.999% of this registry is still
+67108148 out of 67108863 ids available. 99.999% of this registry is still
 available. This data is anonymous, and is not automatically submitted to any
 online service.
 
@@ -16,8 +16,8 @@ online service.
 | railcraft             | 32      | <0.001%     |
 | customnpcs            | 29      | <0.001%     |
 | mowziesmobs           | 24      | <0.001%     |
+| quark                 | 24      | <0.001%     |
 | roots                 | 22      | <0.001%     |
-| quark                 | 21      | <0.001%     |
 | pvj                   | 19      | <0.001%     |
 | birdwmod              | 13      | <0.001%     |
 | immersiveintelligence | 11      | <0.001%     |
@@ -29,23 +29,23 @@ online service.
 | jaff                  | 5       | <0.001%     |
 | vc                    | 5       | <0.001%     |
 | biomesoplenty         | 3       | <0.001%     |
+| betterportals         | 3       | <0.001%     |
 | dynamictreesbop       | 2       | <0.001%     |
+| dynamictreesnatura    | 2       | <0.001%     |
 | rustic                | 2       | <0.001%     |
 | fairylights           | 2       | <0.001%     |
+| natura                | 2       | <0.001%     |
 | naturesaura           | 2       | <0.001%     |
 | dynamictreesroots     | 1       | <0.001%     |
 | inspirations          | 1       | <0.001%     |
 | jarm                  | 1       | <0.001%     |
 | butterflies           | 1       | <0.001%     |
-| eyesinthedarkness     | 1       | <0.001%     |
 | bibliocraft           | 1       | <0.001%     |
 | betternether          | 1       | <0.001%     |
 | clumps                | 1       | <0.001%     |
 | tinkerscompendium     | 1       | <0.001%     |
 | comforts              | 1       | <0.001%     |
 | tumbleweed            | 1       | <0.001%     |
-| zombieawareness       | 1       | <0.001%     |
-| coroutil              | 1       | <0.001%     |
 | engineersdecor        | 1       | <0.001%     |
 | ironagefurniture      | 1       | <0.001%     |
 | aquaculture           | 1       | <0.001%     |

@@ -1,7 +1,7 @@
 # item Registry Analysis
 
-This file contains information about how mods are using the item registry. 24176
-out of 32000 ids available. 75.550% of this registry is still available. This
+This file contains information about how mods are using the item registry. 24514
+out of 32000 ids available. 76.606% of this registry is still available. This
 data is anonymous, and is not automatically submitted to any online service.
 
 
@@ -9,19 +9,18 @@ data is anonymous, and is not automatically submitted to any online service.
 |---------------------------|---------|-------------|
 | harvestcraft              | 1310    | 4.094%      |
 | minecraft                 | 417     | 1.303%      |
-| atlcraft                  | 406     | 1.269%      |
 | pvj                       | 395     | 1.234%      |
 | mcwfurnitures             | 387     | 1.209%      |
-| quark                     | 337     | 1.053%      |
+| quark                     | 386     | 1.206%      |
 | zawa                      | 318     | 0.994%      |
-| tinkerscompendium         | 296     | 0.925%      |
+| ironagefurniture          | 314     | 0.981%      |
+| tinkerscompendium         | 299     | 0.934%      |
 | chisel                    | 253     | 0.791%      |
 | animania                  | 237     | 0.741%      |
 | mcwroofs                  | 218     | 0.681%      |
-| ironagefurniture          | 206     | 0.644%      |
+| natura                    | 199     | 0.622%      |
+| railcraft                 | 163     | 0.509%      |
 | biomesoplenty             | 162     | 0.506%      |
-| railcraft                 | 162     | 0.506%      |
-| dungeons2                 | 149     | 0.466%      |
 | tconstruct                | 145     | 0.453%      |
 | rustic                    | 142     | 0.444%      |
 | mocreatures               | 131     | 0.409%      |
@@ -30,54 +29,50 @@ data is anonymous, and is not automatically submitted to any online service.
 | mysticalworld             | 120     | 0.375%      |
 | betternether              | 95      | 0.297%      |
 | naturesaura               | 93      | 0.291%      |
-| leatherworks              | 90      | 0.281%      |
+| immersiveruins            | 84      | 0.262%      |
 | immersiveengineering      | 82      | 0.256%      |
 | engineersdecor            | 81      | 0.253%      |
-| environs                  | 79      | 0.247%      |
 | mcwdoors                  | 72      | 0.225%      |
 | bibliocraft               | 68      | 0.213%      |
-| netherbackport            | 62      | 0.194%      |
 | immersiveintelligence     | 58      | 0.181%      |
 | dynamictreesphc           | 54      | 0.169%      |
 | mcwwindows                | 50      | 0.156%      |
 | mcwbridges                | 50      | 0.156%      |
 | exoticbirds               | 50      | 0.156%      |
 | inspirations              | 50      | 0.156%      |
+| tcomplement               | 45      | 0.141%      |
 | dynamictreesbop           | 41      | 0.128%      |
-| tcomplement               | 41      | 0.128%      |
 | traverse                  | 39      | 0.122%      |
 | ferdinandsflowers         | 37      | 0.116%      |
 | birdwmod                  | 35      | 0.109%      |
 | conarm                    | 35      | 0.109%      |
+| ceramics                  | 34      | 0.106%      |
+| dynamictreesnatura        | 28      | 0.088%      |
 | blockcraftery             | 28      | 0.088%      |
+| chiselsandbits            | 27      | 0.084%      |
 | mowziesmobs               | 25      | 0.078%      |
-| simplytea                 | 25      | 0.078%      |
 | dynamictrees              | 22      | 0.069%      |
 | simpledifficulty          | 22      | 0.069%      |
 | vc                        | 22      | 0.069%      |
 | customnpcs                | 20      | 0.063%      |
-| storagedrawers            | 20      | 0.063%      |
 | immersive_energy          | 18      | 0.056%      |
 | aquaculture               | 17      | 0.053%      |
-| additionalenderblocks     | 16      | 0.050%      |
 | engineersdoors            | 15      | 0.047%      |
 | climaticbiomesjbg         | 14      | 0.044%      |
-| reccomplex                | 14      | 0.044%      |
 | storagenetwork            | 14      | 0.044%      |
 | immersivetech             | 12      | 0.038%      |
 | ftbquests                 | 12      | 0.038%      |
 | jaff                      | 11      | 0.034%      |
 | immersiveposts            | 11      | 0.034%      |
+| geolosys                  | 10      | 0.031%      |
 | engineerstools            | 10      | 0.031%      |
 | tinker_io                 | 10      | 0.031%      |
 | familiarfauna             | 9       | 0.028%      |
-| geolosys                  | 9       | 0.028%      |
 | lumen                     | 9       | 0.028%      |
 | immersivepetroleum        | 9       | 0.028%      |
 | fairylights               | 8       | 0.025%      |
 | gardenstuff               | 8       | 0.025%      |
 | sereneseasons             | 7       | 0.022%      |
-| realistictorches          | 7       | 0.022%      |
 | theoneprobe               | 7       | 0.022%      |
 | dttraverse                | 6       | 0.019%      |
 | jarm                      | 6       | 0.019%      |
@@ -91,17 +86,14 @@ data is anonymous, and is not automatically submitted to any online service.
 | openglider                | 3       | 0.009%      |
 | dynamictreesnaturesaura   | 3       | 0.009%      |
 | comforts                  | 3       | 0.009%      |
-| framedcompactdrawers      | 3       | 0.009%      |
 | alternatingflux           | 3       | 0.009%      |
 | eplus                     | 3       | 0.009%      |
 | pumpkincarving            | 2       | 0.006%      |
-| coralreef                 | 2       | 0.006%      |
 | itemfilters               | 2       | 0.006%      |
 | enderstorage              | 2       | 0.006%      |
 | antiqueatlas              | 2       | 0.006%      |
-| toolbelt                  | 2       | 0.006%      |
-| coroutil                  | 2       | 0.006%      |
 | maille                    | 2       | 0.006%      |
+| evilnotchlib              | 1       | 0.003%      |
 | dynamictreesmysticalworld | 1       | 0.003%      |
 | patchouli                 | 1       | 0.003%      |
 | tinkersaddons             | 1       | 0.003%      |
