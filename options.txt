@@ -2,7 +2,7 @@ version:1343
 invertYMouse:false
 mouseSensitivity:0.5
 fov:0.0
-gamma:0.0
+gamma:0.20422535
 saturation:0.0
 renderDistance:14
 guiScale:2
@@ -89,14 +89,13 @@ key_of.key.zoom:46
 key_keybind.railcraft.cart.bed:0
 key_roots.keybinds.pouch:0
 key_roots.keybinds.quiver:0
-key_roots.keybinds.spell_slot_next:0
-key_roots.keybinds.spell_slot_3:0
 key_roots.keybinds.spell_slot_1:0
-key_roots.keybinds.spell_slot_2:0
 key_roots.keybinds.spell_slot_4:0
+key_roots.keybinds.spell_slot_3:0
 key_roots.keybinds.spell_slot_5:0
 key_roots.keybinds.spell_slot_previous:0
-key_quark.keybind.lockBuilding:0
+key_roots.keybinds.spell_slot_next:0
+key_roots.keybinds.spell_slot_2:0
 key_quark.keybind.toggleAutojump:0
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
@@ -106,6 +105,7 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
+key_quark.keybind.lockBuilding:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -129,7 +129,6 @@ key_key.conarm.toggle_chest.desc:0
 key_key.conarm.toggle_leg.desc:0
 key_keybind.baublesinventory:0
 key_key.betterfoliage.gui:0
-key_key.wearablebackpacks.open:48
 key_Scene1 start/pause:0
 key_Scene2 start/pause:0
 key_Scene3 start/pause:0
@@ -158,6 +157,7 @@ key_vc.key.moveUp:0
 key_vc.key.moveDown:0
 key_vc.key.openInventory:0
 key_vc.key.dropbomb:0
+key_key.wearablebackpacks.open:48
 key_Strip World:211
 key_Dress World:210
 key_Inspect Block:199
@@ -181,7 +181,34 @@ key_atlasextras.keybind.togglehud:0
 key_atlasextras.keybind.openatlas:50
 key_bbw.key.mode:0
 key_bbw.key.fluidmode:0
-key_Options Gui:23
+key_mod.chiselsandbits.chiselmode.single:0
+key_mod.chiselsandbits.chiselmode.snap2:0
+key_mod.chiselsandbits.chiselmode.snap4:0
+key_mod.chiselsandbits.chiselmode.snap8:0
+key_mod.chiselsandbits.chiselmode.line:0
+key_mod.chiselsandbits.chiselmode.plane:0
+key_mod.chiselsandbits.chiselmode.connected_plane:0
+key_mod.chiselsandbits.chiselmode.cube_small:0
+key_mod.chiselsandbits.chiselmode.cube_medium:0
+key_mod.chiselsandbits.chiselmode.cube_large:0
+key_mod.chiselsandbits.chiselmode.same_material:0
+key_mod.chiselsandbits.chiselmode.drawn_region:0
+key_mod.chiselsandbits.chiselmode.connected_material:0
+key_mod.chiselsandbits.positivepatternmode.replace:0
+key_mod.chiselsandbits.positivepatternmode.additive:0
+key_mod.chiselsandbits.positivepatternmode.placement:0
+key_mod.chiselsandbits.positivepatternmode.impose:0
+key_mod.chiselsandbits.tapemeasure.bit:0
+key_mod.chiselsandbits.tapemeasure.block:0
+key_mod.chiselsandbits.tapemeasure.distance:0
+key_mod.chiselsandbits.other.mode:56
+key_mod.chiselsandbits.other.rotate.ccw:0
+key_mod.chiselsandbits.other.rotate.cw:0
+key_mod.chiselsandbits.other.pickbit:0
+key_mod.chiselsandbits.other.offgrid:0
+key_mod.chiselsandbits.other.undo:0
+key_mod.chiselsandbits.other.redo:0
+key_mod.chiselsandbits.other.add_to_clipboard:0
 key_key.toggleCleanView:0
 key_key.clienttweaks.disable_step_assist:0
 key_key.clienttweaks.hide_offhand_item:0
@@ -195,32 +222,43 @@ key_key.itemzoom.zoom.in:0
 key_key.itemzoom.zoom.out:0
 key_Mo' Bends Menu:0
 key_Refresh Animations:0
-key_key.nutrition:49
+key_Quick Commands:83
 key_key.stackable.place:45
 key_key.stackable.cycle:0
-key_key.toolbelt.open:0
-key_key.toolbelt.cycle.left:0
-key_key.toolbelt.cycle.right:0
-key_key.toolbelt.slot:56
 key_wi-zoom.zoom:0
-key_WorldEdit Reference:0
 key_keybind.railcraft.loco.reverse:0
 key_keybind.railcraft.loco.faster:0
 key_keybind.railcraft.loco.slower:0
 key_keybind.railcraft.loco.mode:0
 key_keybind.railcraft.loco.whistle:0
+key_key.journeymap.zoom_in:13
+key_key.journeymap.zoom_out:12
+key_key.journeymap.minimap_type:26
+key_key.journeymap.minimap_preset:43
+key_key.journeymap.create_waypoint:48
+key_key.journeymap.toggle_waypoints:44
+key_key.journeymap.fullscreen_create_waypoint:48
+key_key.journeymap.fullscreen_chat_position:0
+key_key.journeymap.map_toggle_alt:36
+key_key.journeymap.fullscreen_waypoints:48:CONTROL
+key_key.journeymap.minimap_toggle_alt:36:CONTROL
+key_key.journeymap.fullscreen_options:24
+key_key.journeymap.fullscreen.north:200
+key_key.journeymap.fullscreen.south:208
+key_key.journeymap.fullscreen.east:205
+key_key.journeymap.fullscreen.west:203
 key_Profile GUI:28
 soundCategory_master:1.0
-soundCategory_music:0.45774648
+soundCategory_music:0.1056338
 soundCategory_record:1.0
 soundCategory_weather:1.0
-soundCategory_block:1.0
+soundCategory_block:0.5492958
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
-soundCategory_ds_footsteps:1.0
+soundCategory_ds_footsteps:0.33802816
 soundCategory_ds_biome:1.0
 modelPart_cape:true
 modelPart_jacket:true
