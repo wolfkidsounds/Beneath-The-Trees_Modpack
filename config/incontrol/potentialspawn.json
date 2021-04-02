@@ -1,6 +1,10 @@
 [
     {
-        "remove": ["betternether:firefly"]
+        "remove": [
+            "betternether:firefly",
+            "mocreatures:firefly",
+            "pvj:pvj_firefly"
+        ]
     },
     {
       "dimension": 0,
