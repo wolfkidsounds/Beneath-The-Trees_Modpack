@@ -19,26 +19,26 @@ anonymous, and is not automatically submitted to any online service.
 | bibliocraft             | 130      | 563968   | 2 MB      |
 | vc                      | 104      | 499712   | 1 MB      |
 | harvestcraft            | 1789     | 457984   | 1 MB      |
-| minecraft               | 1624     | 442368   | 1 MB      |
 | immersivetech           | 49       | 252160   | 985 KB    |
+| minecraft               | 819      | 236288   | 923 KB    |
 | railcraft               | 696      | 182016   | 711 KB    |
 | zawa                    | 340      | 133888   | 523 KB    |
 | biomesoplenty           | 442      | 123136   | 481 KB    |
 | natura                  | 347      | 108288   | 423 KB    |
 | immersiveintelligence   | 244      | 98304    | 384 KB    |
 | ferdinandsflowers       | 307      | 97792    | 382 KB    |
-| quark                   | 367      | 95488    | 373 KB    |
+| quark                   | 364      | 94720    | 370 KB    |
 | immersiveruins          | 8        | 88064    | 344 KB    |
 | bf_gen_leaves           | 79       | 80896    | 316 KB    |
 | rustic                  | 208      | 69888    | 273 KB    |
 | roots                   | 178      | 64512    | 252 KB    |
 | engineersdecor          | 186      | 60416    | 236 KB    |
 | inspirations            | 210      | 55296    | 216 KB    |
-| pvj                     | 215      | 55040    | 215 KB    |
 | dynamictreesphc         | 104      | 54272    | 212 KB    |
 | mowziesmobs             | 48       | 52992    | 207 KB    |
 | betternether            | 200      | 51200    | 200 KB    |
 | mcwdoors                | 198      | 50688    | 198 KB    |
+| pvj                     | 197      | 50432    | 197 KB    |
 | tcomplement             | 185      | 48128    | 188 KB    |
 | animania                | 152      | 45056    | 176 KB    |
 | mocreatures             | 142      | 36352    | 142 KB    |
@@ -53,9 +53,9 @@ anonymous, and is not automatically submitted to any online service.
 | aquaculture             | 75       | 19200    | 75 KB     |
 | sereneseasons           | 71       | 18176    | 71 KB     |
 | immersiveposts          | 24       | 17664    | 69 KB     |
+| immersive_energy        | 28       | 16384    | 64 KB     |
 | bf_gen_reeds            | 4        | 16384    | 64 KB     |
 | immersivepetroleum      | 38       | 15872    | 62 KB     |
-| immersive_energy        | 26       | 15104    | 59 KB     |
 | exoticbirds             | 57       | 14592    | 57 KB     |
 | ceramics                | 56       | 14336    | 56 KB     |
 | gardenstuff             | 43       | 13312    | 52 KB     |
@@ -73,10 +73,10 @@ anonymous, and is not automatically submitted to any online service.
 | tinker_io               | 22       | 5632     | 22 KB     |
 | familiarfauna           | 21       | 5376     | 21 KB     |
 | ftbquests               | 21       | 5376     | 21 KB     |
-| storagenetwork          | 20       | 4560     | 17 KB     |
 | climaticbiomesjbg       | 16       | 4096     | 16 KB     |
 | mcwfurnitures           | 16       | 4096     | 16 KB     |
 | dynamictrees            | 16       | 4096     | 16 KB     |
+| storagenetwork          | 20       | 4020     | 15 KB     |
 | dynamictreesnatura      | 14       | 3584     | 14 KB     |
 | customnpcs              | 13       | 3328     | 13 KB     |
 | eplus                   | 11       | 2816     | 11 KB     |
@@ -97,6 +97,7 @@ anonymous, and is not automatically submitted to any online service.
 | waystones               | 4        | 1024     | 4 KB      |
 | forge                   | 4        | 1024     | 4 KB      |
 | blockcraftery           | 4        | 1024     | 4 KB      |
+| oeintegration           | 1        | 1024     | 4 KB      |
 | betterfoliage           | 12       | 768      | 3 KB      |
 | dynamictreesquark       | 2        | 512      | 2 KB      |
 | mcwwindows              | 2        | 512      | 2 KB      |
@@ -111,14 +112,14 @@ anonymous, and is not automatically submitted to any online service.
 | dynamictreesnaturesaura | 1        | 256      | 1 KB      |
 | lostbooks               | 1        | 256      | 1 KB      |
 | climaticbiomesdt        | 1        | 256      | 1 KB      |
+| missingno               | 1        | 256      | 1 KB      |
 | naturalabsorption       | 1        | 256      | 1 KB      |
 | akashictome             | 1        | 256      | 1 KB      |
 | baubles                 | 1        | 256      | 1 KB      |
 | solcarrot               | 1        | 256      | 1 KB      |
-| missingno               | 1        | 64       | 256 bytes |
 
 ## Texture: jei:textures
 | Mod ID    | Textures | Pixels | Est. Size |
 |-----------|----------|--------|-----------|
 | jei       | 20       | 15035  | 58 KB     |
-| missingno | 1        | 64     | 256 bytes |
+| missingno | 1        | 256    | 1 KB      |
