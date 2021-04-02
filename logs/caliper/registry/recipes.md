@@ -1,7 +1,7 @@
 # recipes Registry Analysis
 
 This file contains information about how mods are using the recipes registry.
-67099029 out of 67108863 ids available. 99.985% of this registry is still
+67099053 out of 67108863 ids available. 99.985% of this registry is still
 available. This data is anonymous, and is not automatically submitted to any
 online service.
 
@@ -23,8 +23,8 @@ online service.
 | ferdinandsflowers       | 211     | <0.001%     |
 | biomesoplenty           | 203     | <0.001%     |
 | dynamictreesphc         | 179     | <0.001%     |
-| pvj                     | 176     | <0.001%     |
 | zawa                    | 158     | <0.001%     |
+| pvj                     | 151     | <0.001%     |
 | tinkerscompendium       | 150     | <0.001%     |
 | rsgauges                | 134     | <0.001%     |
 | unidict                 | 133     | <0.001%     |
@@ -102,3 +102,4 @@ online service.
 | naturescompass          | 1       | <0.001%     |
 | naturalabsorption       | 1       | <0.001%     |
 | stackable               | 1       | <0.001%     |
+| oeintegration           | 1       | <0.001%     |
