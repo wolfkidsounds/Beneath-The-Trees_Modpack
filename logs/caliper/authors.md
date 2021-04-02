@@ -173,6 +173,9 @@ online service.
 2 - gendeathrow
      - ModPack Basic Tools
      - ModPack Utilities
+2 - bloodworkxgaming
+     - OreExcavation Integration
+     - PackCrashInfo
 2 - cpw
      - Forge Mod Loader
      - Minecraft Forge
@@ -341,8 +344,6 @@ online service.
      - CleanView
 1 - funwayguy
      - OreExcavation
-1 - bloodworkxgaming
-     - PackCrashInfo
 1 - angeline (@jellysquid)
      - Phosphor Lighting Engine
 1 - twistedgate
