@@ -1,5 +1,6 @@
 {
-	"ores": [{
+	"ores": [
+		{
 			"blocks": [
 				"geolosys:ore_vanilla:0",
 				100
