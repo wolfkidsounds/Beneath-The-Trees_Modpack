@@ -14,6 +14,7 @@ Signed Mods: 26 (12.0%)
 | Loot Table Tweaker                              | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | LootTableTweaker-1.12.2-1.1.14.jar                 |
 | Geolosys                                        | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Geolosys-1.12.2-3.0.10.jar                         |
 | Macaw's Doors                                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | mcw-doors-1.0.0-mc1.12.2.jar                       |
+| OreExcavation Integration                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | oeintegration-2.3.4.jar                            |
 | Enchantment Descriptions                        | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | EnchantmentDescriptions-1.12.2-1.1.15.jar          |
 | Potion Descriptions                             | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | potiondescriptions-1.12.2-1.2.4.jar                |
 | ModPack Basic Tools                             | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | mpbasic-1.12.2-1.4.11.jar                          |
@@ -77,7 +78,7 @@ Signed Mods: 26 (12.0%)
 | UniDict                                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | UniDict-1.12.2-3.0.7.jar                           |
 | Just Enough HarvestCraft                        | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | just-enough-harvestcraft-1.12.2-1.7.2.jar          |
 | FoamFixCore                                     | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | minecraft.jar                                      |
-| CT-GUI                                          | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CraftTweaker2-1.12-4.1.20.631.jar                  |
+| CT-GUI                                          | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CraftTweaker2-1.12-4.1.20.632.jar                  |
 | Dropt                                           | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | dropt-1.12.2-1.18.0.jar                            |
 | EnderStorage                                    | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | EnderStorage-1.12.2-2.4.6.137-universal.jar        |
 | Placebo                                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Placebo-1.12.2-1.6.0.jar                           |
@@ -89,7 +90,7 @@ Signed Mods: 26 (12.0%)
 | Fast Leaf Decay                                 | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | FastLeafDecay-v14.jar                              |
 | Dynamic Trees Compatibility for Climatic Biomes | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CB-DTCompat-1.4.0-MC1.12.2.jar                     |
 | Mystical Lib                                    | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | mysticallib-1.12.2-1.10.0.jar                      |
-| CraftTweaker2                                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CraftTweaker2-1.12-4.1.20.631.jar                  |
+| CraftTweaker2                                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CraftTweaker2-1.12-4.1.20.632.jar                  |
 | Garden Stuff                                    | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | GardenStuff-1.12-2.1.1.jar                         |
 | Immersive Technology                            | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | MCTImmersiveTechnology-1.12.2-1.8.94.jar           |
 | Armory Expansion - Custom Materials             | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | armoryexpansion-1.4.2.jar                          |
@@ -182,7 +183,7 @@ Signed Mods: 26 (12.0%)
 | Proportional Destruction Particles              | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | ProportionalDestructionParticles-1.12.2-1.2.4.jar  |
 | Controlling                                     | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Controlling-3.0.10.jar                             |
 | Just Enough Resources                           | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | JustEnoughResources-1.12.2-0.9.2.60.jar            |
-| Immersive Energy                                | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Immersive+Energy-1.12.2-0.5.4.jar                  |
+| Immersive Energy                                | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Immersive Energy-1.12.2-0.5.5.jar                  |
 | Tinkers' Construct                              | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | TConstruct-1.12.2-2.13.0.183.jar                   |
 | Bookworm Library                                | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | bookworm-1.12.2-2.5.2.1.jar                        |
 | CraftStudio API                                 | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar |
@@ -192,7 +193,7 @@ Signed Mods: 26 (12.0%)
 | Mantle                                          | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Mantle-1.12-1.3.3.55.jar                           |
 | Nature's Aura                                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | NaturesAura-18.1.jar                               |
 | ModWinder                                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Ladylib-2.3.jar                                    |
-| CraftTweaker JEI Support                        | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CraftTweaker2-1.12-4.1.20.631.jar                  |
+| CraftTweaker JEI Support                        | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CraftTweaker2-1.12-4.1.20.632.jar                  |
 | Dynamic Trees PHC                               | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | DynamicTreesPHC-1.12.2-2.0.5.jar                   |
 | NetherPortalFix                                 | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | NetherPortalFix_1.12.1-5.3.17.jar                  |
 | Client Tweaks                                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | ClientTweaks_1.12.2-3.1.11.jar                     |
