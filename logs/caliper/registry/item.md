@@ -1,7 +1,7 @@
 # item Registry Analysis
 
-This file contains information about how mods are using the item registry. 24514
-out of 32000 ids available. 76.606% of this registry is still available. This
+This file contains information about how mods are using the item registry. 24551
+out of 32000 ids available. 76.722% of this registry is still available. This
 data is anonymous, and is not automatically submitted to any online service.
 
 
@@ -9,9 +9,9 @@ data is anonymous, and is not automatically submitted to any online service.
 |---------------------------|---------|-------------|
 | harvestcraft              | 1310    | 4.094%      |
 | minecraft                 | 417     | 1.303%      |
-| pvj                       | 395     | 1.234%      |
 | mcwfurnitures             | 387     | 1.209%      |
-| quark                     | 386     | 1.206%      |
+| quark                     | 385     | 1.203%      |
+| pvj                       | 357     | 1.116%      |
 | zawa                      | 318     | 0.994%      |
 | ironagefurniture          | 314     | 0.981%      |
 | tinkerscompendium         | 299     | 0.934%      |
@@ -55,7 +55,7 @@ data is anonymous, and is not automatically submitted to any online service.
 | simpledifficulty          | 22      | 0.069%      |
 | vc                        | 22      | 0.069%      |
 | customnpcs                | 20      | 0.063%      |
-| immersive_energy          | 18      | 0.056%      |
+| immersive_energy          | 19      | 0.059%      |
 | aquaculture               | 17      | 0.053%      |
 | engineersdoors            | 15      | 0.047%      |
 | climaticbiomesjbg         | 14      | 0.044%      |
@@ -107,4 +107,5 @@ data is anonymous, and is not automatically submitted to any online service.
 | wearablebackpacks         | 1       | 0.003%      |
 | baubles                   | 1       | 0.003%      |
 | stackable                 | 1       | 0.003%      |
+| oeintegration             | 1       | 0.003%      |
 | solcarrot                 | 1       | 0.003%      |
