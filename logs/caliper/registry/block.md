@@ -1,7 +1,7 @@
 # block Registry Analysis
 
-This file contains information about how mods are using the block registry. -639
-out of 4096 ids available. -15.601% of this registry is still available. This
+This file contains information about how mods are using the block registry. -601
+out of 4096 ids available. -14.673% of this registry is still available. This
 data is anonymous, and is not automatically submitted to any online service.
 
 
@@ -9,7 +9,7 @@ data is anonymous, and is not automatically submitted to any online service.
 |---------------------------|---------|-------------|
 | quark                     | 444     | 10.840%     |
 | mcwfurnitures             | 378     | 9.229%      |
-| pvj                       | 367     | 8.960%      |
+| pvj                       | 328     | 8.008%      |
 | ironagefurniture          | 314     | 7.666%      |
 | minecraft                 | 254     | 6.201%      |
 | chisel                    | 249     | 6.079%      |
@@ -60,9 +60,9 @@ data is anonymous, and is not automatically submitted to any online service.
 | immersivepetroleum        | 9       | 0.220%      |
 | customnpcs                | 9       | 0.220%      |
 | gardenstuff               | 7       | 0.171%      |
+| immersive_energy          | 7       | 0.171%      |
 | mocreatures               | 7       | 0.171%      |
 | simpledifficulty          | 6       | 0.146%      |
-| immersive_energy          | 6       | 0.146%      |
 | dttraverse                | 6       | 0.146%      |
 | mowziesmobs               | 5       | 0.122%      |
 | sereneseasons             | 5       | 0.122%      |
