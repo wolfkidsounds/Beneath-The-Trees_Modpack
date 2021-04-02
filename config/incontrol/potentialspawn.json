@@ -12,9 +12,6 @@
           "biomesoplenty:rainforest",
           "biomesoplenty:temperate_rainforest",
           "biomesoplenty:tropical_rainforest",
-          "climaticbiomesjbg:tropical_forest",
-          "traverse:temperate_rainforest",
-          "climaticbiomesjbg:tropical_river",
           "biomesoplenty:tropical_island"
         ],
         "maxtime": 13000,
