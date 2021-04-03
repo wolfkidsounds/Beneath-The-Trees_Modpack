@@ -49,10 +49,6 @@ val items = [
     <jaff:iron_fishing_rod>,
     <jaff:golden_fishing_rod>,
     <jaff:diamond_fishing_rod>,
-    <leatherworks:broken_leather_helmet>,
-    <leatherworks:broken_leather_chestplate>,
-    <leatherworks:broken_leather_leggings>,
-    <leatherworks:broken_leather_boots>,
     <minecraft:bow>,
     <minecraft:iron_sword>,
     <minecraft:wooden_sword>,
@@ -71,11 +67,6 @@ val items = [
     <minecraft:golden_chestplate>,
     <minecraft:golden_leggings>,
     <minecraft:golden_boots>,
-    <netherbackport:netheritesword>,
-    <netherbackport:netheritearmorhelmet>,
-    <netherbackport:netheritearmorlegs>,
-    <netherbackport:netheritearmorbody>,
-    <netherbackport:netheritearmorboots>,
     <minecraft:iron_boots>,
     <minecraft:iron_leggings>,
     <minecraft:iron_helmet>,
@@ -202,8 +193,7 @@ val items = [
     <zawa:tiger_chest>,
     <zawa:fur_boots>,
     <zawa:fur_legs>,
-    <zawa:fur_chest>,
-    <zawa:fur_hoo>
+    <zawa:fur_chest>
 ] as IItemStack[];
 
 for item in items {
