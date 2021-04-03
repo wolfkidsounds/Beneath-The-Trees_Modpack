@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": true,
   "Dictionary Types": [
-    "SNOWY",
     "FOREST",
     "CONIFEROUS",
     "COLD",
-    "HILLS"
+    "HILLS",
+    "SNOWY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -656,7 +656,7 @@
     },
     {
       "Entity Class": "vibrantjourneys.entities.monster.EntityBanshee",
-      "Weight": 1,
+      "Weight": 2,
       "Min Group Count": 1,
       "Max Group Count": 3
     },
