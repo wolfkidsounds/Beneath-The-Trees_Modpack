@@ -12,7 +12,7 @@
 			"yMin": 8,
 			"yMax": 78,
 			"chance": 8,
-			"size": 64,
+			"size": 128,
 			"dimBlacklist": [
 				-1,
 				1
@@ -31,7 +31,7 @@
 			"yMin": 5,
 			"yMax": 12,
 			"chance": 7,
-			"size": 40,
+			"size": 80,
 			"dimBlacklist": [
 				-1,
 				1
@@ -50,7 +50,7 @@
 			"yMin": 5,
 			"yMax": 30,
 			"chance": 4,
-			"size": 40,
+			"size": 80,
 			"dimBlacklist": [
 				-1,
 				1
@@ -69,7 +69,7 @@
 			"yMin": 10,
 			"yMax": 24,
 			"chance": 5,
-			"size": 32,
+			"size": 64,
 			"dimBlacklist": [
 				-1,
 				1
@@ -94,7 +94,7 @@
 			"yMin": 6,
 			"yMax": 29,
 			"chance": 6,
-			"size": 40,
+			"size": 80,
 			"dimBlacklist": [
 				-1,
 				1
@@ -113,7 +113,7 @@
 			"yMin": 2,
 			"yMax": 15,
 			"chance": 3,
-			"size": 20,
+			"size": 40,
 			"dimBlacklist": [
 				-1,
 				1
@@ -132,7 +132,7 @@
 			"yMin": 4,
 			"yMax": 32,
 			"chance": 3,
-			"size": 16,
+			"size": 32,
 			"dimBlacklist": [
 				-1,
 				1
@@ -160,7 +160,7 @@
 			"yMin": 32,
 			"yMax": 60,
 			"chance": 6,
-			"size": 24,
+			"size": 48,
 			"dimBlacklist": [
 				-1,
 				1
@@ -179,7 +179,7 @@
 			"yMin": 6,
 			"yMax": 32,
 			"chance": 4,
-			"size": 80,
+			"size": 160,
 			"dimBlacklist": [
 				-1,
 				1
@@ -209,7 +209,7 @@
 			"yMin": 12,
 			"yMax": 44,
 			"chance": 4,
-			"size": 80,
+			"size": 160,
 			"dimBlacklist": [
 				-1,
 				1
@@ -228,7 +228,7 @@
 			"yMin": 44,
 			"yMax": 68,
 			"chance": 6,
-			"size": 24,
+			"size": 48,
 			"dimBlacklist": [
 				-1,
 				1
@@ -255,7 +255,7 @@
 			"yMin": 8,
 			"yMax": 43,
 			"chance": 2,
-			"size": 80,
+			"size": 160,
 			"dimBlacklist": [
 				-1,
 				1
@@ -278,7 +278,7 @@
 			"yMin": 16,
 			"yMax": 50,
 			"chance": 6,
-			"size": 72,
+			"size": 144,
 			"dimBlacklist": [
 				-1,
 				1
@@ -304,7 +304,7 @@
 			"yMin": 45,
 			"yMax": 70,
 			"chance": 4,
-			"size": 64,
+			"size": 128,
 			"dimBlacklist": [
 				-1,
 				1
@@ -336,7 +336,7 @@
 			"yMin": 3,
 			"yMax": 25,
 			"chance": 4,
-			"size": 32,
+			"size": 64,
 			"dimBlacklist": [
 				-1,
 				1
@@ -366,7 +366,7 @@
 			"yMin": 8,
 			"yMax": 33,
 			"chance": 4,
-			"size": 48,
+			"size": 96,
 			"dimBlacklist": [
 				-1,
 				1
@@ -394,7 +394,7 @@
 			"yMin": 37,
 			"yMax": 46,
 			"chance": 5,
-			"size": 24,
+			"size": 48,
 			"dimBlacklist": [
 				-1,
 				1
