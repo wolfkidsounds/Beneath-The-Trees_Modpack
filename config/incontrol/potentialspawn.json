@@ -1,0 +1,419 @@
+[
+    {
+        "remove": [
+            "betternether:firefly",
+            "mocreatures:firefly",
+            "pvj:pvj_firefly"
+        ]
+    },
+    {
+      "dimension": 0,
+      "biome": [
+          "biomesoplenty:rainforest",
+          "biomesoplenty:temperate_rainforest",
+          "biomesoplenty:tropical_rainforest",
+          "biomesoplenty:tropical_island"
+        ],
+        "maxtime": 13000,
+        "mobs": [
+            {
+                "mob": "exoticbirds:cassowary",
+                "weight": 5,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "exoticbirds:gouldianfinch",
+                "weight": 5,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "exoticbirds:parrot",
+                "weight": 6,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "exoticbirds:pelican",
+                "weight": 6,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "exoticbirds:toucan",
+                "weight": 6,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biometype": [
+            "RIVER"
+        ],
+        "maxtime": 13000,
+        "mobs": [
+            {
+                "mob": "exoticbirds:duck",
+                "weight": 10,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "exoticbirds:kingfisher",
+                "weight": 10,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biome": [
+            "biomesoplenty:land_of_lakes"
+        ],
+        "maxtime": 13000,
+        "mobs": [
+            {
+                "mob": "exoticbirds:flamingo",
+                "weight": 8,
+                "groupcountmin": 5,
+                "groupcountmax": 5
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biometype": [
+            "JUNGLE"
+        ],
+        "maxtime": 13000,
+        "mobs": [
+            {
+                "mob": "exoticbirds:hummingbird",
+                "weight": 18,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "exoticbirds:peafowl",
+                "weight": 6,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biome": [
+            "biomesoplenty:origin_island", 
+            "biomesoplenty:tropical_island"
+        ],
+        "maxtime": 13000,
+        "mobs": [
+            {
+                "mob": "exoticbirds:kiwi",
+                "weight": 8,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biome": [
+            "minecraft:birch_forest_hills", 
+            "minecraft:mutated_birch_forest_hills", 
+            "minecraft:forest_hills"
+        ],
+        "maxtime": 13000,
+        "mobs": [
+            {
+                "mob": "exoticbirds:lyrebird",
+                "weight": 8,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biometype": [
+            "PLAINS"
+        ],
+        "maxtime": 13000,
+        "mobs": [
+            {
+                "mob": "exoticbirds:magpie",
+                "weight": 12,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biometype": [
+            "SAVANNA"
+        ],
+        "maxtime": 13000,
+        "mobs": [
+            {
+                "mob": "exoticbirds:ostrich",
+                "weight": 5,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biometype": [
+            "MOUNTAIN"
+        ],
+        "mobs": [
+            {
+                "mob": "exoticbirds:owl",
+                "weight": 6,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "exoticbirds:pigeon",
+                "weight": 10,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biome": [
+            "minecraft:frozen_ocean",
+            "minecraft:frozen_river",
+            "mineraft:cold_beach",
+            "minecraft:ice_flats"
+        ],
+        "maxtime": 13000,
+        "mobs": [
+            {
+                "mob": "exoticbirds:emperorpenguin",
+                "weight": 6,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biometype": [
+            "WASTELAND"
+        ],
+        "maxtime": 13000,
+        "mobs": [
+            {
+                "mob": "exoticbirds:roadrunner",
+                "weight": 10,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "exoticbirds:vulture",
+                "weight": 8,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biome": [
+            "biomesoplenty:snowy_tundra",
+            "biomesoplenty:tundra"
+        ],
+        "maxtime": 13000,
+        "mobs": [
+            {
+                "mob": "exoticbirds:swan",
+                "weight": 10,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biometype": [
+            "BEACH"
+        ],
+        "maxtime": 13000,
+        "mobs": [
+            {
+                "mob": "exoticbirds:seagull",
+                "weight": 12,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biometype": [
+            "FOREST"
+        ],
+        "maxtime": 13000,
+        "mobs": [
+            {
+                "mob": "exoticbirds:woodpecker",
+                "weight": 12,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "exoticbirds:bluejay",
+                "weight": 12,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "exoticbirds:robin",
+                "weight": 12,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biometype": [
+            "WATER", 
+            "WET", 
+            "SWAMP", 
+            "RIVER", 
+            "LUSH"
+        ],
+        "maxtime": 13000,
+        "mobs": [
+            {
+                "mob": "exoticbirds:heron",
+                "weight": 6,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biome": [
+            "minecraft:mushroom_island",
+            "minecraft:mushroom_island_shore",
+            "biomesoplenty:origin_island",
+            "biomesoplenty:tropical_island",
+            "biomesoplenty:volcanic_island",
+            "biomesoplenty:flower_island"
+        ],
+        "biometype": [
+            "RARE"
+        ],
+        "maxtime": 13000,
+        "mobs": [
+            {
+                "mob": "exoticbirds:booby",
+                "weight": 6,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biometype": [
+            "PLAINS",
+            "FOREST"
+        ],
+        "maxtime": 13000,
+        "mobs": [
+            {
+                "mob": "exoticbirds:cardinal",
+                "weight": 12,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            },
+            {
+                "mob": "exoticbirds:kookaburra",
+                "weight": 6,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "biometype": [
+            "WET",
+            "SWAMP",
+            "RIVER",
+            "DENSE",
+            "LUSH"
+        ],
+        "maxtime": 13000,
+        "mobs": [
+            {
+                "mob": "exoticbirds:crane",
+                "weight": 6,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+    },
+    {
+        "dimension": 0,
+        "block": [
+            "biomesoplenty:leaves_5@11"
+        ],
+        "maxtime": 12000,
+        "mobs": [
+            {
+                "mob": "exoticbirds:budgerigar",
+                "weight": 6,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "dimension": 0,
+        "biometype": [
+            "PLAINS"
+        ],
+        "mintime": 15000,
+        "mobs": [
+            {
+                "mob": "lumen:firefly",
+                "weight": 6,
+                "groupcountmin": 5,
+                "groupcountmax": 10
+            }
+        ]
+    }
+]
+
+

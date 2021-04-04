@@ -26,6 +26,12 @@
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
     {
+      "Entity Class": "com.animania.addons.extra.common.entity.rodents.EntityHamster",
+      "Weight": 8,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
       "Entity Class": "epicsquid.mysticalworld.entity.EntityFrog",
       "Weight": 6,
       "Min Group Count": 2,
@@ -42,48 +48,6 @@
       "Weight": 15,
       "Min Group Count": 1,
       "Max Group Count": 7
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityDuck",
-      "Weight": 10,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityFlamingo",
-      "Weight": 8,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPelican",
-      "Weight": 6,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntitySeagull",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntitySwan",
-      "Weight": 10,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityHeron",
-      "Weight": 6,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityBooby",
-      "Weight": 6,
-      "Min Group Count": 2,
-      "Max Group Count": 5
     },
     {
       "Entity Class": "org.zawamod.entity.flying.EntityAlbatross",
@@ -196,28 +160,10 @@
       "Max Group Count": 4
     },
     {
-      "Entity Class": "vibrantjourneys.entities.neutral.EntityGhost",
-      "Weight": 65,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntityShade",
-      "Weight": 55,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntitySkeletalKnight",
-      "Weight": 45,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntityGoon",
+      "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
       "Weight": 20,
-      "Min Group Count": 1,
-      "Max Group Count": 1
+      "Min Group Count": 2,
+      "Max Group Count": 4
     },
     {
       "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
@@ -227,6 +173,12 @@
     }
   ],
   "Spawnable Water Creatures": [
+    {
+      "Entity Class": "epicsquid.mysticalworld.entity.EntityClam",
+      "Weight": 14,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
     {
       "Entity Class": "drzhark.mocreatures.entity.aquatic.MoCEntityAnchovy",
       "Weight": 12,
@@ -324,22 +276,10 @@
       "Weight": 6,
       "Min Group Count": 1,
       "Max Group Count": 2
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.passive.EntityStarfish",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.passive.EntityBeachStarfish",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 4
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": false,
+  "Tweaked": true,
   "BOP Generators": {
     "FLOWERS Generators": [
       {

@@ -37,12 +37,6 @@
       "temperature": 1.0
     }
   ],
-  "realistictorches:torch_lit": [
-    {
-      "properties": {},
-      "temperature": 1.0
-    }
-  ],
   "tconstruct:molten_ardite": [
     {
       "properties": {},
@@ -125,6 +119,12 @@
     {
       "properties": {},
       "temperature": 5.0
+    }
+  ],
+  "rustic:candle_gold": [
+    {
+      "properties": {},
+      "temperature": 1.0
     }
   ],
   "tconstruct:molten_cobalt": [
@@ -246,6 +246,12 @@
     }
   ],
   "harvestcraft:candledeco16": [
+    {
+      "properties": {},
+      "temperature": 1.0
+    }
+  ],
+  "rustic:candle": [
     {
       "properties": {},
       "temperature": 1.0

@@ -1,6 +1,6 @@
 
 {
-  "ID": 123,
+  "ID": 114,
   "Name": "WyvernLair",
   "Resource Location": "mocreatures:wyvernbiome",
   "Class": "drzhark.mocreatures.dimension.BiomeGenWyvernLair",
@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "END",
-    "FOREST"
+    "FOREST",
+    "END"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -168,78 +168,6 @@
       "Weight": 15,
       "Min Group Count": 1,
       "Max Group Count": 4
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityHummingbird",
-      "Weight": 18,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityKiwi",
-      "Weight": 8,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityLyrebird",
-      "Weight": 8,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityMagpie",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityOwl",
-      "Weight": 6,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPeafowl",
-      "Weight": 6,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPigeon",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityWoodpecker",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityCardinal",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityBluejay",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityRobin",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "com.rikmuld.camping.features.entities.bear.EntityBear",
-      "Weight": 3,
-      "Min Group Count": 2,
-      "Max Group Count": 3
     },
     {
       "Entity Class": "org.zawamod.entity.land.EntityGaur",
@@ -460,8 +388,8 @@
       "Max Group Count": 3
     },
     {
-      "Entity Class": "vibrantjourneys.entities.neutral.EntityWatcher",
-      "Weight": 5,
+      "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
+      "Weight": 20,
       "Min Group Count": 2,
       "Max Group Count": 4
     },
@@ -474,12 +402,6 @@
   ],
   "Spawnable Water Creatures": [],
   "Spawnable Cave Creatures": [
-    {
-      "Entity Class": "net.minecraft.entity.passive.EntityBat",
-      "Weight": 10,
-      "Min Group Count": 8,
-      "Max Group Count": 8
-    },
     {
       "Entity Class": "drzhark.mocreatures.entity.ambient.MoCEntityAnt",
       "Weight": 7,
@@ -539,10 +461,22 @@
       "Weight": 7,
       "Min Group Count": 1,
       "Max Group Count": 2
+    },
+    {
+      "Entity Class": "ladysnake.lumen.common.entities.EntityFirefly",
+      "Weight": 50,
+      "Min Group Count": 0,
+      "Max Group Count": 40
+    },
+    {
+      "Entity Class": "ladysnake.lumen.common.entities.EntityLightningBug",
+      "Weight": 50,
+      "Min Group Count": 0,
+      "Max Group Count": 40
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": false,
+  "Tweaked": true,
   "BOP Generators": {
     "FLOWERS Generators": [
       {

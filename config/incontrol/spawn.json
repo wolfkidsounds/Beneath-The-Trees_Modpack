@@ -1,0 +1,229 @@
+[
+  {
+    "mob": "exoticbirds:cassowary",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:duck",
+    "mincount": {
+      "amount": 20
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:gouldianfinch",
+    "mincount": {
+      "amount": 10
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:flamingo",
+    "mincount": {
+      "amount": 30
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:hummingbird",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:kingfisher",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:kiwi",
+    "mincount": {
+      "amount": 10
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:lyrebird",
+    "mincount": {
+      "amount": 10
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:magpie",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:ostrich",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:owl",
+    "mintime": 13000,
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:parrot",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:peafowl",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:pelican",
+    "mincount": {
+      "amount": 10
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:emperorpenguin",
+    "mincount": {
+      "amount": 20
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:pigeon",
+    "mincount": {
+      "amount": 30
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:roadrunner",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:seagull",
+    "mincount": {
+      "amount": 20
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:swan",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:toucan",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:vulture",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:woodpecker",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:heron",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:booby",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:cardinal",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:bluejay",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:robin",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:crane",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:kookaburra",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mob": "exoticbirds:budgerigar",
+    "mincount": {
+      "amount": 5
+    },
+    "result": "deny"
+  },
+  {
+    "mod": "exoticbirds",
+    "mincount": {
+        "amount": 50,
+        "mod": "exoticbirds"
+    },
+    "result": "deny"
+  },
+  {
+    "mod": "lumen",
+    "mincount": {
+        "amount": 25,
+        "mod": "lumen"
+    },
+    "result": "deny"
+  }
+]
