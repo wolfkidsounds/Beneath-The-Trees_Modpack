@@ -20,13 +20,13 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "FOREST",
-    "JUNGLE",
+    "MAGICAL",
+    "LUSH",
+    "WET",
     "DENSE",
     "RARE",
-    "WET",
-    "MAGICAL",
-    "LUSH"
+    "JUNGLE",
+    "FOREST"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -903,6 +903,12 @@
       "Max Group Count": 3
     },
     {
+      "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
+      "Weight": 20,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
       "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.foliaath.EntityFoliaath",
       "Weight": 20,
       "Min Group Count": 1,
@@ -917,12 +923,6 @@
   ],
   "Spawnable Water Creatures": [],
   "Spawnable Cave Creatures": [
-    {
-      "Entity Class": "net.minecraft.entity.passive.EntityBat",
-      "Weight": 10,
-      "Min Group Count": 8,
-      "Max Group Count": 8
-    },
     {
       "Entity Class": "familiarfauna.entities.EntityButterfly",
       "Weight": 1,
@@ -1015,7 +1015,7 @@
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": false,
+  "Tweaked": true,
   "BOP Generators": {
     "LILYPAD Generators": [
       {

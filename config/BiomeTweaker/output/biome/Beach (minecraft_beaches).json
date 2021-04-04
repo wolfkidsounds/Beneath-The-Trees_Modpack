@@ -207,6 +207,12 @@
       "Max Group Count": 2
     },
     {
+      "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
+      "Weight": 20,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
       "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
       "Weight": 2,
       "Min Group Count": 1,
@@ -313,12 +319,6 @@
   ],
   "Spawnable Cave Creatures": [
     {
-      "Entity Class": "net.minecraft.entity.passive.EntityBat",
-      "Weight": 10,
-      "Min Group Count": 8,
-      "Max Group Count": 8
-    },
-    {
       "Entity Class": "drzhark.mocreatures.entity.ambient.MoCEntityCrab",
       "Weight": 8,
       "Min Group Count": 1,
@@ -338,7 +338,7 @@
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": false,
+  "Tweaked": true,
   "BOP Generators": {
     "FLOWERS Generators": [
       {

@@ -20,8 +20,8 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "DRY",
     "NETHER",
+    "DRY",
     "HOT"
   ],
   "BiomeManager Entries": {},
@@ -153,7 +153,7 @@
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": false,
+  "Tweaked": true,
   "BOP Generators": {
     "PRE Generators": [
       {

@@ -107,6 +107,12 @@
       "Max Group Count": 3
     },
     {
+      "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
+      "Weight": 20,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
       "Entity Class": "net.minecraft.entity.monster.EntityBlaze",
       "Weight": 5,
       "Min Group Count": 1,
@@ -159,7 +165,7 @@
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": false,
+  "Tweaked": true,
   "BOP Generators": {
     "PRE Generators": [
       {
