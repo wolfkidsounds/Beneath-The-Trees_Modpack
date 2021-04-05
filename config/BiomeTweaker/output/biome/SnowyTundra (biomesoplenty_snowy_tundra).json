@@ -20,11 +20,11 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "DEAD",
-    "WET",
-    "SNOWY",
-    "SPARSE",
     "COLD",
+    "WET",
+    "DEAD",
+    "SPARSE",
+    "SNOWY",
     "WASTELAND"
   ],
   "BiomeManager Entries": {},
@@ -108,24 +108,6 @@
       "Max Group Count": 2
     },
     {
-      "Entity Class": "org.zawamod.entity.land.EntityAmurLeopard",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.flying.EntityAndeanCondor",
-      "Weight": 18,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityBengalTiger",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
       "Entity Class": "org.zawamod.entity.land.EntityBlackSpiderMonkey",
       "Weight": 18,
       "Min Group Count": 3,
@@ -172,12 +154,6 @@
       "Weight": 4,
       "Min Group Count": 1,
       "Max Group Count": 2
-    },
-    {
-      "Entity Class": "org.zawamod.entity.npc.EntityAnimalTrader",
-      "Weight": 3,
-      "Min Group Count": 0,
-      "Max Group Count": 1
     },
     {
       "Entity Class": "org.zawamod.entity.npc.EntityFeedTrader",
@@ -345,8 +321,8 @@
     },
     {
       "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
-      "Weight": 20,
-      "Min Group Count": 2,
+      "Weight": 5,
+      "Min Group Count": 1,
       "Max Group Count": 4
     },
     {

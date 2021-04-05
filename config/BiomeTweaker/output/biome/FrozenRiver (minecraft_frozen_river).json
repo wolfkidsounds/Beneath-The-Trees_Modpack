@@ -20,10 +20,10 @@
   "Enable Rain": true,
   "Enable Snow": true,
   "Dictionary Types": [
-    "RIVER",
-    "SNOWY",
     "COLD",
-    "WATER"
+    "RIVER",
+    "WATER",
+    "SNOWY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -106,18 +106,6 @@
       "Max Group Count": 2
     },
     {
-      "Entity Class": "org.zawamod.entity.land.EntityAmurLeopard",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.flying.EntityAndeanCondor",
-      "Weight": 18,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
       "Entity Class": "org.zawamod.entity.land.EntityGreenAnaconda",
       "Weight": 10,
       "Min Group Count": 1,
@@ -160,12 +148,6 @@
       "Max Group Count": 2
     },
     {
-      "Entity Class": "org.zawamod.entity.npc.EntityAnimalTrader",
-      "Weight": 3,
-      "Min Group Count": 0,
-      "Max Group Count": 1
-    },
-    {
       "Entity Class": "org.zawamod.entity.npc.EntityFeedTrader",
       "Weight": 3,
       "Min Group Count": 0,
@@ -176,12 +158,6 @@
       "Weight": 3,
       "Min Group Count": 0,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityBeaver",
-      "Weight": 15,
-      "Min Group Count": 2,
-      "Max Group Count": 4
     },
     {
       "Entity Class": "org.zawamod.entity.land.EntityBrownRat",
@@ -337,8 +313,8 @@
     },
     {
       "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
-      "Weight": 20,
-      "Min Group Count": 2,
+      "Weight": 5,
+      "Min Group Count": 1,
       "Max Group Count": 4
     },
     {
@@ -468,12 +444,6 @@
       "Weight": 20,
       "Min Group Count": 1,
       "Max Group Count": 2
-    },
-    {
-      "Entity Class": "org.zawamod.entity.water.EntityBotoRiverDolphin",
-      "Weight": 20,
-      "Min Group Count": 2,
-      "Max Group Count": 4
     },
     {
       "Entity Class": "org.zawamod.entity.water.EntityCichlid",

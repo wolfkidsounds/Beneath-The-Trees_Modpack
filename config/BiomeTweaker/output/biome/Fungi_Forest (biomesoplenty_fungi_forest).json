@@ -20,10 +20,10 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "NETHER",
-    "MUSHROOM",
     "DENSE",
-    "HOT"
+    "MUSHROOM",
+    "HOT",
+    "NETHER"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -127,8 +127,8 @@
     },
     {
       "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
-      "Weight": 20,
-      "Min Group Count": 2,
+      "Weight": 5,
+      "Min Group Count": 1,
       "Max Group Count": 4
     },
     {

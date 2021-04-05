@@ -38,12 +38,6 @@
       "Max Group Count": 2
     },
     {
-      "Entity Class": "org.zawamod.entity.npc.EntityAnimalTrader",
-      "Weight": 3,
-      "Min Group Count": 0,
-      "Max Group Count": 1
-    },
-    {
       "Entity Class": "org.zawamod.entity.npc.EntityFeedTrader",
       "Weight": 3,
       "Min Group Count": 0,
@@ -71,8 +65,8 @@
   "Spawnable Monsters": [
     {
       "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
-      "Weight": 20,
-      "Min Group Count": 2,
+      "Weight": 5,
+      "Min Group Count": 1,
       "Max Group Count": 4
     },
     {

@@ -21,12 +21,12 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "MAGICAL",
-    "LUSH",
-    "WET",
     "DENSE",
+    "WET",
+    "LUSH",
     "RARE",
-    "JUNGLE",
-    "FOREST"
+    "FOREST",
+    "JUNGLE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -487,28 +487,10 @@
       "Max Group Count": 2
     },
     {
-      "Entity Class": "org.zawamod.entity.flying.EntityAlbatross",
-      "Weight": 18,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityAmurLeopard",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
       "Entity Class": "org.zawamod.entity.land.EntityAsianElephant",
       "Weight": 12,
       "Min Group Count": 3,
       "Max Group Count": 5
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityBengalTiger",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     },
     {
       "Entity Class": "org.zawamod.entity.land.EntityBlackSpiderMonkey",
@@ -601,12 +583,6 @@
       "Max Group Count": 4
     },
     {
-      "Entity Class": "org.zawamod.entity.npc.EntityAnimalTrader",
-      "Weight": 3,
-      "Min Group Count": 0,
-      "Max Group Count": 1
-    },
-    {
       "Entity Class": "org.zawamod.entity.npc.EntityFeedTrader",
       "Weight": 3,
       "Min Group Count": 0,
@@ -617,30 +593,6 @@
       "Weight": 3,
       "Min Group Count": 0,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityAfricanElephant",
-      "Weight": 12,
-      "Min Group Count": 3,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityAmericanBison",
-      "Weight": 20,
-      "Min Group Count": 3,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "org.zawamod.entity.flying.EntityBaldEagle",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityBeaver",
-      "Weight": 15,
-      "Min Group Count": 2,
-      "Max Group Count": 4
     },
     {
       "Entity Class": "org.zawamod.entity.land.EntityBrazilianTapir",
@@ -904,8 +856,8 @@
     },
     {
       "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
-      "Weight": 20,
-      "Min Group Count": 2,
+      "Weight": 5,
+      "Min Group Count": 1,
       "Max Group Count": 4
     },
     {
@@ -923,12 +875,6 @@
   ],
   "Spawnable Water Creatures": [],
   "Spawnable Cave Creatures": [
-    {
-      "Entity Class": "familiarfauna.entities.EntityButterfly",
-      "Weight": 1,
-      "Min Group Count": 2,
-      "Max Group Count": 4
-    },
     {
       "Entity Class": "drzhark.mocreatures.entity.ambient.MoCEntityAnt",
       "Weight": 7,

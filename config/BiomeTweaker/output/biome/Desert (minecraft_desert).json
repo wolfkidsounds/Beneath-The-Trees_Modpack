@@ -20,9 +20,9 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "DRY",
+    "SANDY",
     "HOT",
-    "SANDY"
+    "DRY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -67,18 +67,6 @@
       "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 2
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityAfricanLion",
-      "Weight": 8,
-      "Min Group Count": 2,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityBengalTiger",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     },
     {
       "Entity Class": "org.zawamod.entity.land.EntityBlackRhinoceros",
@@ -153,12 +141,6 @@
       "Max Group Count": 6
     },
     {
-      "Entity Class": "org.zawamod.entity.npc.EntityAnimalTrader",
-      "Weight": 3,
-      "Min Group Count": 0,
-      "Max Group Count": 1
-    },
-    {
       "Entity Class": "org.zawamod.entity.npc.EntityFeedTrader",
       "Weight": 3,
       "Min Group Count": 0,
@@ -169,12 +151,6 @@
       "Weight": 3,
       "Min Group Count": 0,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityAfricanElephant",
-      "Weight": 12,
-      "Min Group Count": 3,
-      "Max Group Count": 5
     },
     {
       "Entity Class": "org.zawamod.entity.land.EntityBrownRat",
@@ -378,8 +354,8 @@
     },
     {
       "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
-      "Weight": 20,
-      "Min Group Count": 2,
+      "Weight": 5,
+      "Min Group Count": 1,
       "Max Group Count": 4
     },
     {

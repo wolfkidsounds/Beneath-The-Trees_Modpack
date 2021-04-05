@@ -21,10 +21,10 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "MAGICAL",
+    "COLD",
+    "MOUNTAIN",
     "HILLS",
     "DRY",
-    "MOUNTAIN",
-    "COLD",
     "WASTELAND"
   ],
   "BiomeManager Entries": {},
@@ -192,24 +192,6 @@
       "Max Group Count": 40
     },
     {
-      "Entity Class": "org.zawamod.entity.flying.EntityAlbatross",
-      "Weight": 18,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityAmurLeopard",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.flying.EntityAndeanCondor",
-      "Weight": 18,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
       "Entity Class": "org.zawamod.entity.land.EntityBlackRhinoceros",
       "Weight": 20,
       "Min Group Count": 1,
@@ -258,12 +240,6 @@
       "Max Group Count": 2
     },
     {
-      "Entity Class": "org.zawamod.entity.npc.EntityAnimalTrader",
-      "Weight": 3,
-      "Min Group Count": 0,
-      "Max Group Count": 1
-    },
-    {
       "Entity Class": "org.zawamod.entity.npc.EntityFeedTrader",
       "Weight": 3,
       "Min Group Count": 0,
@@ -274,12 +250,6 @@
       "Weight": 3,
       "Min Group Count": 0,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.flying.EntityBaldEagle",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 3
     },
     {
       "Entity Class": "org.zawamod.entity.land.EntityBrownRat",
@@ -447,8 +417,8 @@
     },
     {
       "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
-      "Weight": 20,
-      "Min Group Count": 2,
+      "Weight": 5,
+      "Min Group Count": 1,
       "Max Group Count": 4
     },
     {
