@@ -314,11 +314,6 @@
     "use_tropical_seasons": true,
     "disable_crops": false
   },
-  "conquest:red_desert": {
-    "enable_seasonal_effects": true,
-    "use_tropical_seasons": true,
-    "disable_crops": false
-  },
   "biomesoplenty:crag": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": false,
@@ -334,32 +329,12 @@
     "use_tropical_seasons": true,
     "disable_crops": false
   },
-  "climaticbiomesjbg:dry_scrub_hills": {
-    "enable_seasonal_effects": true,
-    "use_tropical_seasons": true,
-    "disable_crops": false
-  },
   "minecraft:mushroom_island": {
     "enable_seasonal_effects": false,
     "use_tropical_seasons": true,
     "disable_crops": false
   },
-  "climaticbiomesjbg:hot_mountain": {
-    "enable_seasonal_effects": true,
-    "use_tropical_seasons": true,
-    "disable_crops": false
-  },
   "biomesoplenty:mangrove": {
-    "enable_seasonal_effects": true,
-    "use_tropical_seasons": true,
-    "disable_crops": false
-  },
-  "traverse:mountainous_desert": {
-    "enable_seasonal_effects": true,
-    "use_tropical_seasons": true,
-    "disable_crops": false
-  },
-  "climaticbiomesjbg:subtropical_forest": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
     "disable_crops": false
@@ -377,11 +352,6 @@
   "biomesoplenty:white_beach": {
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
-    "disable_crops": false
-  },
-  "abyssalcraft:darklands_hills": {
-    "enable_seasonal_effects": false,
-    "use_tropical_seasons": false,
     "disable_crops": false
   },
   "minecraft:savanna": {
