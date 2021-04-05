@@ -27,6 +27,7 @@
             <Item>*.ffs_gui</Item>
             <Item>\music\</Item>
             <Item>\journeymap\</Item>
+            <Item>\build\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
