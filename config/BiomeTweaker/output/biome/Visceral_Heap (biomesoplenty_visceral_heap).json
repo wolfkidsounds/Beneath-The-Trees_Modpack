@@ -20,48 +20,12 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "NETHER",
     "HOT",
+    "NETHER",
     "WET"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityGouldianfinch",
-      "Weight": 5,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityHummingbird",
-      "Weight": 18,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityLyrebird",
-      "Weight": 8,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityParrot",
-      "Weight": 6,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityToucan",
-      "Weight": 6,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityBudgie",
-      "Weight": 6,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
     {
       "Entity Class": "com.progwml6.natura.entities.entity.passive.EntityImp",
       "Weight": 10,
@@ -162,8 +126,8 @@
     },
     {
       "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
-      "Weight": 20,
-      "Min Group Count": 2,
+      "Weight": 5,
+      "Min Group Count": 1,
       "Max Group Count": 4
     },
     {
@@ -225,7 +189,7 @@
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": false,
+  "Tweaked": true,
   "BOP Generators": {
     "PRE Generators": [
       {

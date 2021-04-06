@@ -20,9 +20,9 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "NETHER",
+    "DRY",
     "HOT",
-    "DRY"
+    "NETHER"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -165,7 +165,7 @@
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": false,
+  "Tweaked": true,
   "BOP Generators": {
     "PRE Generators": [
       {

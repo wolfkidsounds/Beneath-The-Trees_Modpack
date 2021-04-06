@@ -21,8 +21,8 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "WATER",
-    "FOREST",
-    "RARE"
+    "RARE",
+    "FOREST"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -273,78 +273,6 @@
       "Max Group Count": 4
     },
     {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityHummingbird",
-      "Weight": 18,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityKiwi",
-      "Weight": 8,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityLyrebird",
-      "Weight": 8,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityMagpie",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityOwl",
-      "Weight": 6,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPeafowl",
-      "Weight": 6,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPigeon",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityWoodpecker",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityCardinal",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityBluejay",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityRobin",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.passive.EntityDuck",
-      "Weight": 7,
-      "Min Group Count": 2,
-      "Max Group Count": 4
-    },
-    {
       "Entity Class": "nmd.primal.core.common.entities.living.EntityCanisCampestris",
       "Weight": 4,
       "Min Group Count": 1,
@@ -387,12 +315,6 @@
       "Max Group Count": 4
     },
     {
-      "Entity Class": "org.zawamod.entity.npc.EntityAnimalTrader",
-      "Weight": 3,
-      "Min Group Count": 0,
-      "Max Group Count": 1
-    },
-    {
       "Entity Class": "org.zawamod.entity.npc.EntityFeedTrader",
       "Weight": 3,
       "Min Group Count": 0,
@@ -403,24 +325,6 @@
       "Weight": 3,
       "Min Group Count": 0,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityAmericanBison",
-      "Weight": 20,
-      "Min Group Count": 3,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "org.zawamod.entity.flying.EntityBaldEagle",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityBeaver",
-      "Weight": 15,
-      "Min Group Count": 2,
-      "Max Group Count": 4
     },
     {
       "Entity Class": "org.zawamod.entity.land.EntityBrownRat",
@@ -600,33 +504,9 @@
     },
     {
       "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
-      "Weight": 20,
-      "Min Group Count": 2,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.neutral.EntityGhost",
-      "Weight": 65,
+      "Weight": 5,
       "Min Group Count": 1,
       "Max Group Count": 4
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntityShade",
-      "Weight": 55,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntitySkeletalKnight",
-      "Weight": 45,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntityGoon",
-      "Weight": 20,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     },
     {
       "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
@@ -832,7 +712,7 @@
     }
   ],
   "Spawn Biome": true,
-  "Tweaked": false,
+  "Tweaked": true,
   "BOP Generators": {
     "FLOWERS Generators": [
       {

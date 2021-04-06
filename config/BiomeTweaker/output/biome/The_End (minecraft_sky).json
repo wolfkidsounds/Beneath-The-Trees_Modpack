@@ -21,8 +21,8 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "DRY",
-    "COLD",
-    "END"
+    "END",
+    "COLD"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -43,12 +43,6 @@
       "Weight": 50,
       "Min Group Count": 1,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPenguinEmperor",
-      "Weight": 6,
-      "Min Group Count": 2,
-      "Max Group Count": 5
     }
   ],
   "Spawnable Monsters": [
@@ -56,12 +50,6 @@
       "Entity Class": "net.minecraft.entity.monster.EntityEnderman",
       "Weight": 10,
       "Min Group Count": 4,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.neutral.EntityWatcher",
-      "Weight": 5,
-      "Min Group Count": 2,
       "Max Group Count": 4
     },
     {
@@ -74,7 +62,7 @@
   "Spawnable Water Creatures": [],
   "Spawnable Cave Creatures": [],
   "Spawn Biome": false,
-  "Tweaked": false,
+  "Tweaked": true,
   "BOP Generators": {
     "FLOWERS Generators": [
       {

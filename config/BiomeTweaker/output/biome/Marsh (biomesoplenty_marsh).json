@@ -20,20 +20,14 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "LUSH",
-    "WET"
+    "WET",
+    "LUSH"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
     {
       "Entity Class": "epicsquid.mysticalworld.entity.EntitySprout",
       "Weight": 2,
-      "Min Group Count": 2,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.passive.EntityDuck",
-      "Weight": 7,
       "Min Group Count": 2,
       "Max Group Count": 4
     },
@@ -50,22 +44,10 @@
       "Max Group Count": 2
     },
     {
-      "Entity Class": "org.zawamod.entity.flying.EntityAlbatross",
-      "Weight": 18,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
       "Entity Class": "org.zawamod.entity.land.EntityAsianElephant",
       "Weight": 12,
       "Min Group Count": 3,
       "Max Group Count": 5
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityBengalTiger",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     },
     {
       "Entity Class": "org.zawamod.entity.land.EntityBlackSpiderMonkey",
@@ -134,12 +116,6 @@
       "Max Group Count": 4
     },
     {
-      "Entity Class": "org.zawamod.entity.npc.EntityAnimalTrader",
-      "Weight": 3,
-      "Min Group Count": 0,
-      "Max Group Count": 1
-    },
-    {
       "Entity Class": "org.zawamod.entity.npc.EntityFeedTrader",
       "Weight": 3,
       "Min Group Count": 0,
@@ -150,12 +126,6 @@
       "Weight": 3,
       "Min Group Count": 0,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityAfricanElephant",
-      "Weight": 12,
-      "Min Group Count": 3,
-      "Max Group Count": 5
     },
     {
       "Entity Class": "org.zawamod.entity.land.EntityBrownRat",
@@ -227,33 +197,9 @@
     },
     {
       "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
-      "Weight": 20,
-      "Min Group Count": 2,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.neutral.EntityGhost",
-      "Weight": 65,
+      "Weight": 5,
       "Min Group Count": 1,
       "Max Group Count": 4
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntityShade",
-      "Weight": 55,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntitySkeletalKnight",
-      "Weight": 45,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntityGoon",
-      "Weight": 20,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     },
     {
       "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
@@ -262,32 +208,13 @@
       "Max Group Count": 1
     }
   ],
-  "Spawnable Water Creatures": [
-    {
-      "Entity Class": "vibrantjourneys.entities.passive.EntityClam",
-      "Weight": 5,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    }
-  ],
+  "Spawnable Water Creatures": [],
   "Spawnable Cave Creatures": [
-    {
-      "Entity Class": "net.minecraft.entity.passive.EntityBat",
-      "Weight": 10,
-      "Min Group Count": 8,
-      "Max Group Count": 8
-    },
     {
       "Entity Class": "familiarfauna.entities.EntityDragonfly",
       "Weight": 1,
       "Min Group Count": 1,
       "Max Group Count": 2
-    },
-    {
-      "Entity Class": "familiarfauna.entities.EntitySnail",
-      "Weight": 1,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     },
     {
       "Entity Class": "ladysnake.lumen.common.entities.EntityFirefly",
@@ -302,32 +229,14 @@
       "Max Group Count": 40
     },
     {
-      "Entity Class": "vibrantjourneys.entities.passive.EntitySnail",
-      "Weight": 8,
-      "Min Group Count": 2,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.passive.EntityFly",
-      "Weight": 10,
-      "Min Group Count": 3,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.passive.EntityFirefly",
-      "Weight": 150,
-      "Min Group Count": 4,
-      "Max Group Count": 9
-    },
-    {
       "Entity Class": "vibrantjourneys.entities.passive.EntitySmallSpider",
-      "Weight": 5,
+      "Weight": 0,
       "Min Group Count": 1,
       "Max Group Count": 6
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": false,
+  "Tweaked": true,
   "BOP Generators": {
     "LILYPAD Generators": [
       {

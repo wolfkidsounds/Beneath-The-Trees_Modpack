@@ -49,48 +49,6 @@
       "Max Group Count": 7
     },
     {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityDuck",
-      "Weight": 10,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityFlamingo",
-      "Weight": 8,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPelican",
-      "Weight": 6,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntitySeagull",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntitySwan",
-      "Weight": 10,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityHeron",
-      "Weight": 6,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityBooby",
-      "Weight": 6,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
       "Entity Class": "org.zawamod.entity.flying.EntityAlbatross",
       "Weight": 18,
       "Min Group Count": 1,
@@ -106,12 +64,6 @@
       "Entity Class": "org.zawamod.entity.water.EntityHawksbillSeaTurtle",
       "Weight": 5,
       "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.npc.EntityAnimalTrader",
-      "Weight": 3,
-      "Min Group Count": 0,
       "Max Group Count": 1
     },
     {
@@ -226,33 +178,9 @@
     },
     {
       "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
-      "Weight": 20,
-      "Min Group Count": 2,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.neutral.EntityGhost",
-      "Weight": 65,
+      "Weight": 5,
       "Min Group Count": 1,
       "Max Group Count": 4
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntityShade",
-      "Weight": 55,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntitySkeletalKnight",
-      "Weight": 45,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.monster.EntityGoon",
-      "Weight": 20,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     },
     {
       "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
@@ -361,12 +289,6 @@
   ],
   "Spawnable Cave Creatures": [
     {
-      "Entity Class": "net.minecraft.entity.passive.EntityBat",
-      "Weight": 10,
-      "Min Group Count": 8,
-      "Max Group Count": 8
-    },
-    {
       "Entity Class": "drzhark.mocreatures.entity.ambient.MoCEntityCrab",
       "Weight": 8,
       "Min Group Count": 1,
@@ -379,38 +301,14 @@
       "Max Group Count": 2
     },
     {
-      "Entity Class": "vibrantjourneys.entities.passive.EntityFly",
-      "Weight": 10,
-      "Min Group Count": 3,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.passive.EntityFirefly",
-      "Weight": 150,
-      "Min Group Count": 4,
-      "Max Group Count": 9
-    },
-    {
       "Entity Class": "vibrantjourneys.entities.passive.EntitySmallSpider",
-      "Weight": 5,
+      "Weight": 0,
       "Min Group Count": 1,
       "Max Group Count": 6
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.passive.EntityStarfish",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.passive.EntityBeachStarfish",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 4
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": false,
+  "Tweaked": true,
   "BOP Generators": {
     "FLOWERS Generators": [
       {
