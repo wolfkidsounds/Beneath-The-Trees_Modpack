@@ -1,20 +1,21 @@
 # item Registry Analysis
 
-This file contains information about how mods are using the item registry. 24551
-out of 32000 ids available. 76.722% of this registry is still available. This
+This file contains information about how mods are using the item registry. 23847
+out of 32000 ids available. 74.522% of this registry is still available. This
 data is anonymous, and is not automatically submitted to any online service.
 
 
 | Mod Name                  | Entries | Utilization |
 |---------------------------|---------|-------------|
 | harvestcraft              | 1310    | 4.094%      |
+| primal                    | 726     | 2.269%      |
 | minecraft                 | 417     | 1.303%      |
 | mcwfurnitures             | 387     | 1.209%      |
-| quark                     | 385     | 1.203%      |
-| pvj                       | 357     | 1.116%      |
+| quark                     | 386     | 1.206%      |
+| pvj                       | 385     | 1.203%      |
 | zawa                      | 318     | 0.994%      |
 | ironagefurniture          | 314     | 0.981%      |
-| tinkerscompendium         | 299     | 0.934%      |
+| tinkerscompendium         | 255     | 0.797%      |
 | chisel                    | 253     | 0.791%      |
 | animania                  | 237     | 0.741%      |
 | mcwroofs                  | 218     | 0.681%      |
@@ -39,10 +40,8 @@ data is anonymous, and is not automatically submitted to any online service.
 | mcwwindows                | 50      | 0.156%      |
 | mcwbridges                | 50      | 0.156%      |
 | exoticbirds               | 50      | 0.156%      |
-| inspirations              | 50      | 0.156%      |
 | tcomplement               | 45      | 0.141%      |
 | dynamictreesbop           | 41      | 0.128%      |
-| traverse                  | 39      | 0.122%      |
 | ferdinandsflowers         | 37      | 0.116%      |
 | birdwmod                  | 35      | 0.109%      |
 | conarm                    | 35      | 0.109%      |
@@ -54,19 +53,23 @@ data is anonymous, and is not automatically submitted to any online service.
 | dynamictrees              | 22      | 0.069%      |
 | simpledifficulty          | 22      | 0.069%      |
 | vc                        | 22      | 0.069%      |
+| storagedrawers            | 22      | 0.069%      |
+| simpleoresamples          | 21      | 0.066%      |
 | customnpcs                | 20      | 0.063%      |
+| mystcraft                 | 20      | 0.063%      |
 | immersive_energy          | 19      | 0.059%      |
 | aquaculture               | 17      | 0.053%      |
 | engineersdoors            | 15      | 0.047%      |
-| climaticbiomesjbg         | 14      | 0.044%      |
 | storagenetwork            | 14      | 0.044%      |
+| weeping-angels            | 14      | 0.044%      |
+| enderskills               | 13      | 0.041%      |
+| moremystcraft             | 13      | 0.041%      |
 | immersivetech             | 12      | 0.038%      |
 | ftbquests                 | 12      | 0.038%      |
 | jaff                      | 11      | 0.034%      |
 | immersiveposts            | 11      | 0.034%      |
 | geolosys                  | 10      | 0.031%      |
 | engineerstools            | 10      | 0.031%      |
-| tinker_io                 | 10      | 0.031%      |
 | familiarfauna             | 9       | 0.028%      |
 | lumen                     | 9       | 0.028%      |
 | immersivepetroleum        | 9       | 0.028%      |
@@ -74,7 +77,6 @@ data is anonymous, and is not automatically submitted to any online service.
 | gardenstuff               | 8       | 0.025%      |
 | sereneseasons             | 7       | 0.022%      |
 | theoneprobe               | 7       | 0.022%      |
-| dttraverse                | 6       | 0.019%      |
 | jarm                      | 6       | 0.019%      |
 | locks                     | 6       | 0.019%      |
 | dynamictreestconstruct    | 6       | 0.019%      |
@@ -82,9 +84,12 @@ data is anonymous, and is not automatically submitted to any online service.
 | butterflies               | 4       | 0.013%      |
 | dynamictreesquark         | 4       | 0.013%      |
 | betterbuilderswands       | 4       | 0.013%      |
+| ctmortar                  | 4       | 0.013%      |
 | dynamictreesroots         | 3       | 0.009%      |
+| endercrop                 | 3       | 0.009%      |
 | openglider                | 3       | 0.009%      |
 | dynamictreesnaturesaura   | 3       | 0.009%      |
+| adfinders                 | 3       | 0.009%      |
 | comforts                  | 3       | 0.009%      |
 | alternatingflux           | 3       | 0.009%      |
 | eplus                     | 3       | 0.009%      |
@@ -92,20 +97,20 @@ data is anonymous, and is not automatically submitted to any online service.
 | itemfilters               | 2       | 0.006%      |
 | enderstorage              | 2       | 0.006%      |
 | antiqueatlas              | 2       | 0.006%      |
-| maille                    | 2       | 0.006%      |
+| pouchofunknown            | 1       | 0.003%      |
 | evilnotchlib              | 1       | 0.003%      |
+| gbook                     | 1       | 0.003%      |
 | dynamictreesmysticalworld | 1       | 0.003%      |
 | patchouli                 | 1       | 0.003%      |
 | tinkersaddons             | 1       | 0.003%      |
 | lostbooks                 | 1       | 0.003%      |
-| climaticbiomesdt          | 1       | 0.003%      |
 | serenetweaks              | 1       | 0.003%      |
+| pages                     | 1       | 0.003%      |
 | naturescompass            | 1       | 0.003%      |
 | naturalabsorption         | 1       | 0.003%      |
 | akashictome               | 1       | 0.003%      |
 | forge                     | 1       | 0.003%      |
 | wearablebackpacks         | 1       | 0.003%      |
 | baubles                   | 1       | 0.003%      |
-| stackable                 | 1       | 0.003%      |
 | oeintegration             | 1       | 0.003%      |
 | solcarrot                 | 1       | 0.003%      |

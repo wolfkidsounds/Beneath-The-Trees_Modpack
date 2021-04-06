@@ -1,7 +1,7 @@
 # entity Registry Analysis
 
 This file contains information about how mods are using the entity registry.
-67108148 out of 67108863 ids available. 99.999% of this registry is still
+67108107 out of 67108863 ids available. 99.999% of this registry is still
 available. This data is anonymous, and is not automatically submitted to any
 online service.
 
@@ -19,6 +19,8 @@ online service.
 | quark                 | 24      | <0.001%     |
 | roots                 | 22      | <0.001%     |
 | pvj                   | 19      | <0.001%     |
+| enderskills           | 18      | <0.001%     |
+| primal                | 15      | <0.001%     |
 | birdwmod              | 13      | <0.001%     |
 | immersiveintelligence | 11      | <0.001%     |
 | mysticalworld         | 11      | <0.001%     |
@@ -28,16 +30,18 @@ online service.
 | familiarfauna         | 6       | <0.001%     |
 | jaff                  | 5       | <0.001%     |
 | vc                    | 5       | <0.001%     |
+| weeping-angels        | 4       | <0.001%     |
 | biomesoplenty         | 3       | <0.001%     |
 | betterportals         | 3       | <0.001%     |
+| mystcraft             | 3       | <0.001%     |
 | dynamictreesbop       | 2       | <0.001%     |
+| moremystcraft         | 2       | <0.001%     |
 | dynamictreesnatura    | 2       | <0.001%     |
 | rustic                | 2       | <0.001%     |
 | fairylights           | 2       | <0.001%     |
 | natura                | 2       | <0.001%     |
 | naturesaura           | 2       | <0.001%     |
 | dynamictreesroots     | 1       | <0.001%     |
-| inspirations          | 1       | <0.001%     |
 | jarm                  | 1       | <0.001%     |
 | butterflies           | 1       | <0.001%     |
 | bibliocraft           | 1       | <0.001%     |

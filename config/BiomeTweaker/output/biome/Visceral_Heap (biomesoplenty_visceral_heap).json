@@ -20,17 +20,71 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "WET",
+    "NETHER",
     "HOT",
-    "NETHER"
+    "WET"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityGouldianfinch",
+      "Weight": 5,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityHummingbird",
+      "Weight": 18,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityLyrebird",
+      "Weight": 8,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityParrot",
+      "Weight": 6,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityToucan",
+      "Weight": 6,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityBudgie",
+      "Weight": 6,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
     {
       "Entity Class": "com.progwml6.natura.entities.entity.passive.EntityImp",
       "Weight": 10,
       "Min Group Count": 8,
       "Max Group Count": 12
+    },
+    {
+      "Entity Class": "nmd.primal.core.common.entities.living.EntityCanisCampestris",
+      "Weight": 4,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "nmd.primal.core.common.entities.living.EntityBlackBear",
+      "Weight": 3,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "nmd.primal.core.common.entities.living.EntityOvisAtre",
+      "Weight": 90,
+      "Min Group Count": 1,
+      "Max Group Count": 6
     }
   ],
   "Spawnable Monsters": [
@@ -108,8 +162,8 @@
     },
     {
       "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
-      "Weight": 5,
-      "Min Group Count": 1,
+      "Weight": 20,
+      "Min Group Count": 2,
       "Max Group Count": 4
     },
     {
@@ -141,6 +195,12 @@
       "Weight": 2,
       "Min Group Count": 1,
       "Max Group Count": 1
+    },
+    {
+      "Entity Class": "nmd.primal.core.common.entities.living.EntityNetherCreeper",
+      "Weight": 3,
+      "Min Group Count": 0,
+      "Max Group Count": 1
     }
   ],
   "Spawnable Water Creatures": [],
@@ -165,7 +225,7 @@
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": true,
+  "Tweaked": false,
   "BOP Generators": {
     "PRE Generators": [
       {

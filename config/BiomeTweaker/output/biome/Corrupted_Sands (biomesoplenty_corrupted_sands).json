@@ -20,11 +20,11 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "DENSE",
-    "SANDY",
+    "NETHER",
     "HOT",
+    "DENSE",
     "DRY",
-    "NETHER"
+    "SANDY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -77,10 +77,40 @@
       "Max Group Count": 40
     },
     {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityOstrich",
+      "Weight": 5,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityRoadrunner",
+      "Weight": 10,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityVulture",
+      "Weight": 8,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
       "Entity Class": "com.progwml6.natura.entities.entity.passive.EntityImp",
       "Weight": 10,
       "Min Group Count": 8,
       "Max Group Count": 12
+    },
+    {
+      "Entity Class": "nmd.primal.core.common.entities.living.EntityOvisAtre",
+      "Weight": 90,
+      "Min Group Count": 1,
+      "Max Group Count": 6
+    },
+    {
+      "Entity Class": "org.zawamod.entity.land.EntityAfricanLion",
+      "Weight": 8,
+      "Min Group Count": 2,
+      "Max Group Count": 4
     },
     {
       "Entity Class": "org.zawamod.entity.land.EntityBlackRhinoceros",
@@ -242,8 +272,8 @@
     },
     {
       "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
-      "Weight": 5,
-      "Min Group Count": 1,
+      "Weight": 20,
+      "Min Group Count": 2,
       "Max Group Count": 4
     },
     {
@@ -275,6 +305,12 @@
       "Weight": 2,
       "Min Group Count": 1,
       "Max Group Count": 1
+    },
+    {
+      "Entity Class": "nmd.primal.core.common.entities.living.EntityNetherCreeper",
+      "Weight": 3,
+      "Min Group Count": 0,
+      "Max Group Count": 1
     }
   ],
   "Spawnable Water Creatures": [],
@@ -287,7 +323,7 @@
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": true,
+  "Tweaked": false,
   "BOP Generators": {
     "PRE Generators": [
       {

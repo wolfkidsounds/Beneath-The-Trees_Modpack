@@ -9,7 +9,42 @@ automatically submitted to any online service.
 If a recipe has air in it as an ingredient or output it can cause many issues
 such as crashes and uncraftable recipes.
 
+Recipe: minecraft:wooden_sword Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:wooden_shovel Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:wooden_pickaxe Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:wooden_hoe Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:wooden_axe Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:torch Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:stone_sword Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:stick Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:spruce_planks Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:oak_planks Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
 Recipe: minecraft:lit_pumpkin Class: public class panda.pumpkincarving.FakeRecipe
+Recipe: minecraft:leather_leggings Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:leather_helmet Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:leather_chestplate Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:leather_boots Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:jungle_planks Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:iron_leggings Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:iron_helmet Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:iron_chestplate Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:iron_boots Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:golden_leggings Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:golden_helmet Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:golden_chestplate Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:golden_boots Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:diamond_leggings Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:diamond_helmet Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:diamond_chestplate Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:diamond_boots Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:dark_oak_planks Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:chiseled_stonebrick Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:chiseled_sandstone Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:chiseled_red_sandstone Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:chiseled_quartz_block Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:birch_planks Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:arrow Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
+Recipe: minecraft:acacia_planks Class: public class nmd.primal.core.common.crafting.handlers.irecipe.EmptyRecipe
 Recipe: immersiveengineering:revolver_loop Class: public class blusunrize.immersiveengineering.common.crafting.RecipeRevolver
 Recipe: immersiveengineering:jerrycan Class: public class blusunrize.immersiveengineering.common.crafting.RecipeJerrycan
 Recipe: immersiveengineering:stripcurtain_colour Class: public class blusunrize.immersiveengineering.common.crafting.RecipeRGBColouration
@@ -22,6 +57,7 @@ Recipe: exoticbirds:incubate_eggs Class: public class pavocado.exoticbirds.init.
 Recipe: immersiveengineering:tracer_powder_colour Class: public class blusunrize.immersiveengineering.common.crafting.RecipeRGBColouration
 Recipe: immersiveintelligence:small_crate_wooden Class: public class pl.pabilo8.immersiveintelligence.common.crafting.RecipeCrateConversion
 Recipe: immersiveintelligence:small_crate_metal Class: public class pl.pabilo8.immersiveintelligence.common.crafting.RecipeCrateConversion
+Recipe: mystcraft:internal/linkingbook Class: public class com.xcompwiz.mystcraft.data.RecipeLinkingbook
 Recipe: railcraft:cart_furnace_recipe Class: public static class mods.railcraft.common.util.crafting.CartDisassemblyRecipe$RailcraftVariant
 Recipe: railcraft:cart_hopper_recipe Class: public static class mods.railcraft.common.util.crafting.CartDisassemblyRecipe$RailcraftVariant
 Recipe: railcraft:prototype Class: public class mods.railcraft.common.util.crafting.PrototypeRecipe

@@ -21,9 +21,9 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "DENSE",
-    "WET",
+    "FOREST",
     "LUSH",
-    "FOREST"
+    "WET"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -286,6 +286,96 @@
       "Max Group Count": 4
     },
     {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityHummingbird",
+      "Weight": 18,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityKiwi",
+      "Weight": 8,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityLyrebird",
+      "Weight": 8,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityMagpie",
+      "Weight": 12,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityOwl",
+      "Weight": 6,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPeafowl",
+      "Weight": 6,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityPigeon",
+      "Weight": 12,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityWoodpecker",
+      "Weight": 12,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityCardinal",
+      "Weight": 12,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityBluejay",
+      "Weight": 12,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "pavocado.exoticbirds.entity.Birds.EntityRobin",
+      "Weight": 12,
+      "Min Group Count": 2,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "vibrantjourneys.entities.passive.EntityDuck",
+      "Weight": 7,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "nmd.primal.core.common.entities.living.EntityCanisCampestris",
+      "Weight": 4,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "nmd.primal.core.common.entities.living.EntityBlackBear",
+      "Weight": 3,
+      "Min Group Count": 0,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "org.zawamod.entity.flying.EntityAlbatross",
+      "Weight": 18,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
       "Entity Class": "org.zawamod.entity.land.EntityAmurLeopard",
       "Weight": 10,
       "Min Group Count": 1,
@@ -382,6 +472,12 @@
       "Max Group Count": 4
     },
     {
+      "Entity Class": "org.zawamod.entity.npc.EntityAnimalTrader",
+      "Weight": 3,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
       "Entity Class": "org.zawamod.entity.npc.EntityFeedTrader",
       "Weight": 3,
       "Min Group Count": 0,
@@ -392,6 +488,18 @@
       "Weight": 3,
       "Min Group Count": 0,
       "Max Group Count": 1
+    },
+    {
+      "Entity Class": "org.zawamod.entity.land.EntityAfricanElephant",
+      "Weight": 12,
+      "Min Group Count": 3,
+      "Max Group Count": 5
+    },
+    {
+      "Entity Class": "org.zawamod.entity.land.EntityAmericanBison",
+      "Weight": 20,
+      "Min Group Count": 3,
+      "Max Group Count": 5
     },
     {
       "Entity Class": "org.zawamod.entity.flying.EntityBaldEagle",
@@ -607,9 +715,33 @@
     },
     {
       "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
-      "Weight": 5,
+      "Weight": 20,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "vibrantjourneys.entities.neutral.EntityGhost",
+      "Weight": 65,
       "Min Group Count": 1,
       "Max Group Count": 4
+    },
+    {
+      "Entity Class": "vibrantjourneys.entities.monster.EntityShade",
+      "Weight": 55,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "vibrantjourneys.entities.monster.EntitySkeletalKnight",
+      "Weight": 45,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "vibrantjourneys.entities.monster.EntityGoon",
+      "Weight": 20,
+      "Min Group Count": 1,
+      "Max Group Count": 1
     },
     {
       "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
@@ -618,8 +750,21 @@
       "Max Group Count": 1
     }
   ],
-  "Spawnable Water Creatures": [],
+  "Spawnable Water Creatures": [
+    {
+      "Entity Class": "vibrantjourneys.entities.passive.EntityClam",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    }
+  ],
   "Spawnable Cave Creatures": [
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntityBat",
+      "Weight": 10,
+      "Min Group Count": 8,
+      "Max Group Count": 8
+    },
     {
       "Entity Class": "familiarfauna.entities.EntityDragonfly",
       "Weight": 1,
@@ -699,14 +844,32 @@
       "Max Group Count": 40
     },
     {
+      "Entity Class": "vibrantjourneys.entities.passive.EntitySnail",
+      "Weight": 8,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "vibrantjourneys.entities.passive.EntityFly",
+      "Weight": 10,
+      "Min Group Count": 3,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "vibrantjourneys.entities.passive.EntityFirefly",
+      "Weight": 150,
+      "Min Group Count": 4,
+      "Max Group Count": 9
+    },
+    {
       "Entity Class": "vibrantjourneys.entities.passive.EntitySmallSpider",
-      "Weight": 0,
+      "Weight": 5,
       "Min Group Count": 1,
       "Max Group Count": 6
     }
   ],
   "Spawn Biome": true,
-  "Tweaked": true,
+  "Tweaked": false,
   "BOP Generators": {
     "LILYPAD Generators": [
       {

@@ -21,10 +21,10 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "WATER",
-    "MOUNTAIN",
     "HOT",
-    "DEAD",
     "DRY",
+    "MOUNTAIN",
+    "DEAD",
     "WASTELAND"
   ],
   "BiomeManager Entries": {},
@@ -150,6 +150,12 @@
       "Max Group Count": 40
     },
     {
+      "Entity Class": "vibrantjourneys.entities.passive.EntityDuck",
+      "Weight": 7,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
       "Entity Class": "org.zawamod.entity.land.EntityRedKangaroo",
       "Weight": 12,
       "Min Group Count": 2,
@@ -249,9 +255,33 @@
     },
     {
       "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
-      "Weight": 5,
+      "Weight": 20,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "vibrantjourneys.entities.neutral.EntityGhost",
+      "Weight": 65,
       "Min Group Count": 1,
       "Max Group Count": 4
+    },
+    {
+      "Entity Class": "vibrantjourneys.entities.monster.EntityShade",
+      "Weight": 55,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "vibrantjourneys.entities.monster.EntitySkeletalKnight",
+      "Weight": 45,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "vibrantjourneys.entities.monster.EntityGoon",
+      "Weight": 20,
+      "Min Group Count": 1,
+      "Max Group Count": 1
     },
     {
       "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
@@ -362,9 +392,21 @@
       "Weight": 10,
       "Min Group Count": 1,
       "Max Group Count": 2
+    },
+    {
+      "Entity Class": "vibrantjourneys.entities.passive.EntityClam",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 3
     }
   ],
   "Spawnable Cave Creatures": [
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntityBat",
+      "Weight": 10,
+      "Min Group Count": 8,
+      "Max Group Count": 8
+    },
     {
       "Entity Class": "drzhark.mocreatures.entity.ambient.MoCEntityAnt",
       "Weight": 7,
@@ -414,14 +456,32 @@
       "Max Group Count": 2
     },
     {
+      "Entity Class": "vibrantjourneys.entities.passive.EntitySnail",
+      "Weight": 8,
+      "Min Group Count": 2,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "vibrantjourneys.entities.passive.EntityFly",
+      "Weight": 10,
+      "Min Group Count": 3,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "vibrantjourneys.entities.passive.EntityFirefly",
+      "Weight": 150,
+      "Min Group Count": 4,
+      "Max Group Count": 9
+    },
+    {
       "Entity Class": "vibrantjourneys.entities.passive.EntitySmallSpider",
-      "Weight": 0,
+      "Weight": 5,
       "Min Group Count": 1,
       "Max Group Count": 6
     }
   ],
   "Spawn Biome": false,
-  "Tweaked": true,
+  "Tweaked": false,
   "BOP Generators": {
     "FLOWERS Generators": [
       {
