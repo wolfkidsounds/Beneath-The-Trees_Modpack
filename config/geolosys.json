@@ -2,22 +2,22 @@
 	"ores": [
 		{
 			"blocks": [
-				"geolosys:ore_vanilla:0",
+				"minecraft:coal_ore:0",
 				100
 			],
 			"samples": [
 				"simpleoresamples:sampleblockcoal",
 				100
 			],
-			"yMin": 20,
+			"yMin": 30,
 			"yMax": 60,
-			"chance": 2,
-			"size": 125,
+			"chance": 100,
+			"size": 27,
 			"dimBlacklist": [
 				-1,
 				1
 			],
-			"density": 1.0,
+			"density": 0.8,
 			"biomes": [
 			],
 			"isWhitelist": false
@@ -33,8 +33,536 @@
 			],
 			"yMin": 20,
 			"yMax": 60,
-			"chance": 4,
-			"size": 250,
+			"chance": 40,
+			"size": 40,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"minecraft:gold_ore:0",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblockgold",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 30,
+			"size": 20,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"minecraft:lapis_ore:0",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblocklapis",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 20,
+			"size": 25,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"minecraft:diamond_ore:0",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblockdiamond",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 10,
+			"size": 30,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"minecraft:redstone_ore:0",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblockredstone",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 15,
+			"size": 35,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"minecraft:emerald_ore:0",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblockemerald",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 30,
+			"size": 10,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"biomesoplenty:gem_ore:1",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblockruby",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 5,
+			"size": 11,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"biomesoplenty:gem_ore:2",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblockperidot",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 10,
+			"size": 6,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"biomesoplenty:gem_ore:3",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblocktopaz",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 5,
+			"size": 11,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"biomesoplenty:gem_ore:4",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblocktanzanite",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 10,
+			"size": 6,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"biomesoplenty:gem_ore:5",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblockmalachite",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 10,
+			"size": 6,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"biomesoplenty:gem_ore:6",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblocksapphire",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 5,
+			"size": 11,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"biomesoplenty:gem_ore:7",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblockamber",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 5,
+			"size": 11,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"immersive_energy:ore:0",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblockthorium",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 30,
+			"size": 36,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"immersive_energy:ore:2",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblocktungsten",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 30,
+			"size": 36,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"immersiveengineering:ore:0",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblockcopper",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 50,
+			"size": 32,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"immersiveengineering:ore:1",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblockaluminum",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 20,
+			"size": 50,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"immersiveengineering:ore:2",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblocklead",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 10,
+			"size": 80,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"immersiveengineering:ore:3",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblocksilver",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 15,
+			"size": 50,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"immersiveengineering:ore:4",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblocknickel",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 20,
+			"size": 35,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"immersiveengineering:ore:5",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblockuranium",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 10,
+			"size": 30,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"immersiveintelligence:ore:0",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblockplatinum",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 5,
+			"size": 100,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"immersiveintelligence:ore:1",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblockzinc",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 15,
+			"size": 40,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"mysticalworld:amethyst_ore:0",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblockamethyst",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 5,
+			"size": 80,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"railcraft:ore_metal:1",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblocktin",
+				100
+			],
+			"yMin": 20,
+			"yMax": 60,
+			"chance": 30,
+			"size": 40,
 			"dimBlacklist": [
 				-1,
 				1
