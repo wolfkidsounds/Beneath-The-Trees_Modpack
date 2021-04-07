@@ -20,10 +20,10 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "COLD",
+    "DEAD",
     "SPARSE",
     "WASTELAND",
-    "DEAD",
+    "COLD",
     "WET"
   ],
   "BiomeManager Entries": {},
@@ -407,12 +407,6 @@
       {
         "ID": "waterside",
         "Name": "gravel"
-      }
-    ],
-    "TREE Generators": [
-      {
-        "ID": "weighted",
-        "Name": "trees"
       }
     ]
   },
