@@ -571,6 +571,28 @@
 			"biomes": [
 			],
 			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"minecraft:clay:0",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblockclay",
+				100
+			],
+			"yMin": 40,
+			"yMax": 70,
+			"chance": 20,
+			"size": 70,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
 		}
 	],
 	"stones": [
