@@ -28,7 +28,7 @@
 				100
 			],
 			"samples": [
-				"minecraft:iron_ore:0",
+				"simpleoresamples:sampleblockiron",
 				100
 			],
 			"yMin": 20,
