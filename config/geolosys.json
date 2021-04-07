@@ -6,13 +6,13 @@
 				100
 			],
 			"samples": [
-				"geolosys:ore_vanilla:0",
+				"simpleoresamples:sampleblockcoal",
 				100
 			],
 			"yMin": 20,
 			"yMax": 60,
 			"chance": 4,
-			"size": 250,
+			"size": 125,
 			"dimBlacklist": [
 				-1,
 				1
