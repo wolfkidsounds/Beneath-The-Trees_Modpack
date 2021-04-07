@@ -613,13 +613,13 @@
       "Entity Class": "ladysnake.lumen.common.entities.EntityFirefly",
       "Weight": 50,
       "Min Group Count": 0,
-      "Max Group Count": 40
+      "Max Group Count": 0
     },
     {
       "Entity Class": "ladysnake.lumen.common.entities.EntityLightningBug",
       "Weight": 50,
       "Min Group Count": 0,
-      "Max Group Count": 40
+      "Max Group Count": 0
     },
     {
       "Entity Class": "vibrantjourneys.entities.passive.EntitySmallSpider",

@@ -20,12 +20,12 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "MOUNTAIN",
-    "DEAD",
-    "WASTELAND",
     "WATER",
-    "DRY",
-    "HOT"
+    "HOT",
+    "MOUNTAIN",
+    "WASTELAND",
+    "DEAD",
+    "DRY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -147,7 +147,7 @@
       "Entity Class": "ladysnake.lumen.common.entities.EntityWillOWisp",
       "Weight": 50,
       "Min Group Count": 0,
-      "Max Group Count": 40
+      "Max Group Count": 0
     },
     {
       "Entity Class": "org.zawamod.entity.land.EntityRedKangaroo",

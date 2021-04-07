@@ -21,10 +21,10 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "COLD",
-    "SPARSE",
-    "DEAD",
-    "WASTELAND",
     "SNOWY",
+    "SPARSE",
+    "WASTELAND",
+    "DEAD",
     "WET"
   ],
   "BiomeManager Entries": {},
@@ -99,7 +99,7 @@
       "Entity Class": "ladysnake.lumen.common.entities.EntityWillOWisp",
       "Weight": 50,
       "Min Group Count": 0,
-      "Max Group Count": 40
+      "Max Group Count": 0
     },
     {
       "Entity Class": "nmd.primal.core.common.entities.living.EntityCanisCampestris",
@@ -368,13 +368,13 @@
       "Entity Class": "ladysnake.lumen.common.entities.EntityFirefly",
       "Weight": 50,
       "Min Group Count": 0,
-      "Max Group Count": 40
+      "Max Group Count": 0
     },
     {
       "Entity Class": "ladysnake.lumen.common.entities.EntityLightningBug",
       "Weight": 50,
       "Min Group Count": 0,
-      "Max Group Count": 40
+      "Max Group Count": 0
     },
     {
       "Entity Class": "vibrantjourneys.entities.passive.EntitySmallSpider",
