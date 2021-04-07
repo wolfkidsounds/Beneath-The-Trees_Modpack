@@ -1,7 +1,7 @@
 # block Registry Analysis
 
-This file contains information about how mods are using the block registry. -855
-out of 4096 ids available. -20.874% of this registry is still available. This
+This file contains information about how mods are using the block registry. -824
+out of 4096 ids available. -20.117% of this registry is still available. This
 data is anonymous, and is not automatically submitted to any online service.
 
 
@@ -9,7 +9,7 @@ data is anonymous, and is not automatically submitted to any online service.
 |---------------------------|---------|-------------|
 | quark                     | 444     | 10.840%     |
 | mcwfurnitures             | 378     | 9.229%      |
-| pvj                       | 357     | 8.716%      |
+| pvj                       | 318     | 7.764%      |
 | ironagefurniture          | 314     | 7.666%      |
 | minecraft                 | 254     | 6.201%      |
 | chisel                    | 249     | 6.079%      |
@@ -37,18 +37,18 @@ data is anonymous, and is not automatically submitted to any online service.
 | immersiveengineering      | 46      | 1.123%      |
 | ferdinandsflowers         | 38      | 0.928%      |
 | bibliocraft               | 37      | 0.903%      |
+| dynamictreesbop           | 35      | 0.854%      |
 | streams                   | 34      | 0.830%      |
 | comforts                  | 33      | 0.806%      |
-| dynamictreesbop           | 31      | 0.757%      |
 | immersiveintelligence     | 31      | 0.757%      |
 | tcomplement               | 31      | 0.757%      |
 | blockcraftery             | 30      | 0.732%      |
 | dynamictreesnatura        | 25      | 0.610%      |
 | immersiveposts            | 25      | 0.610%      |
+| simpleoresamples          | 25      | 0.610%      |
+| dynamictrees              | 25      | 0.610%      |
 | animania                  | 24      | 0.586%      |
-| dynamictrees              | 24      | 0.586%      |
 | ceramics                  | 23      | 0.562%      |
-| simpleoresamples          | 21      | 0.513%      |
 | immersivetech             | 15      | 0.366%      |
 | engineersdoors            | 15      | 0.366%      |
 | chiselsandbits            | 15      | 0.366%      |
@@ -61,8 +61,8 @@ data is anonymous, and is not automatically submitted to any online service.
 | dynamictreestconstruct    | 9       | 0.220%      |
 | immersivepetroleum        | 9       | 0.220%      |
 | enderskills               | 9       | 0.220%      |
-| storagedrawers            | 9       | 0.220%      |
 | customnpcs                | 9       | 0.220%      |
+| storagedrawers            | 8       | 0.195%      |
 | gardenstuff               | 7       | 0.171%      |
 | immersive_energy          | 7       | 0.171%      |
 | mocreatures               | 7       | 0.171%      |

@@ -1,7 +1,7 @@
 # entity Registry Analysis
 
 This file contains information about how mods are using the entity registry.
-67108107 out of 67108863 ids available. 99.999% of this registry is still
+67108108 out of 67108863 ids available. 99.999% of this registry is still
 available. This data is anonymous, and is not automatically submitted to any
 online service.
 
@@ -52,7 +52,6 @@ online service.
 | tumbleweed            | 1       | <0.001%     |
 | engineersdecor        | 1       | <0.001%     |
 | ironagefurniture      | 1       | <0.001%     |
-| aquaculture           | 1       | <0.001%     |
 | immersivepetroleum    | 1       | <0.001%     |
 | dynamictrees          | 1       | <0.001%     |
 | dynamictreesphc       | 1       | <0.001%     |

@@ -438,10 +438,6 @@ online service.
      - World Stripper
 1 - algorithmx2
      - Chisels & Bits
-1 - team metallurgy
-     - Aquaculture
-1 - zlainsama
-     - CleanView
 1 - angeline (@jellysquid)
      - Phosphor Lighting Engine
 1 - twistedgate

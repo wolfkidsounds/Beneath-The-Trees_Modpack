@@ -1,25 +1,25 @@
 # item Registry Analysis
 
-This file contains information about how mods are using the item registry. 23847
-out of 32000 ids available. 74.522% of this registry is still available. This
+This file contains information about how mods are using the item registry. 23945
+out of 32000 ids available. 74.828% of this registry is still available. This
 data is anonymous, and is not automatically submitted to any online service.
 
 
 | Mod Name                  | Entries | Utilization |
 |---------------------------|---------|-------------|
 | harvestcraft              | 1310    | 4.094%      |
-| primal                    | 726     | 2.269%      |
+| primal                    | 723     | 2.259%      |
 | minecraft                 | 417     | 1.303%      |
 | mcwfurnitures             | 387     | 1.209%      |
-| quark                     | 386     | 1.206%      |
-| pvj                       | 385     | 1.203%      |
+| quark                     | 385     | 1.203%      |
+| pvj                       | 347     | 1.084%      |
 | zawa                      | 318     | 0.994%      |
 | ironagefurniture          | 314     | 0.981%      |
 | tinkerscompendium         | 255     | 0.797%      |
 | chisel                    | 253     | 0.791%      |
 | animania                  | 237     | 0.741%      |
 | mcwroofs                  | 218     | 0.681%      |
-| natura                    | 199     | 0.622%      |
+| natura                    | 165     | 0.516%      |
 | railcraft                 | 163     | 0.509%      |
 | biomesoplenty             | 162     | 0.506%      |
 | tconstruct                | 145     | 0.453%      |
@@ -40,25 +40,24 @@ data is anonymous, and is not automatically submitted to any online service.
 | mcwwindows                | 50      | 0.156%      |
 | mcwbridges                | 50      | 0.156%      |
 | exoticbirds               | 50      | 0.156%      |
-| tcomplement               | 45      | 0.141%      |
-| dynamictreesbop           | 41      | 0.128%      |
+| dynamictreesbop           | 46      | 0.144%      |
 | ferdinandsflowers         | 37      | 0.116%      |
 | birdwmod                  | 35      | 0.109%      |
 | conarm                    | 35      | 0.109%      |
 | ceramics                  | 34      | 0.106%      |
+| tcomplement               | 33      | 0.103%      |
 | dynamictreesnatura        | 28      | 0.088%      |
 | blockcraftery             | 28      | 0.088%      |
 | chiselsandbits            | 27      | 0.084%      |
 | mowziesmobs               | 25      | 0.078%      |
+| simpleoresamples          | 25      | 0.078%      |
 | dynamictrees              | 22      | 0.069%      |
 | simpledifficulty          | 22      | 0.069%      |
 | vc                        | 22      | 0.069%      |
-| storagedrawers            | 22      | 0.069%      |
-| simpleoresamples          | 21      | 0.066%      |
 | customnpcs                | 20      | 0.063%      |
 | mystcraft                 | 20      | 0.063%      |
+| storagedrawers            | 20      | 0.063%      |
 | immersive_energy          | 19      | 0.059%      |
-| aquaculture               | 17      | 0.053%      |
 | engineersdoors            | 15      | 0.047%      |
 | storagenetwork            | 14      | 0.044%      |
 | weeping-angels            | 14      | 0.044%      |

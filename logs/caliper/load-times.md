@@ -7,7 +7,7 @@ online service.
 
 
 
-Signed Mods: 34 (14.000000000000002%)
+Signed Mods: 33 (13.0%)
 
 | Mod                                   | Total Time | Pre Init | Init | IMC  | Post Init | Valid Signature | File Name                                          |
 |---------------------------------------|------------|----------|------|------|-----------|-----------------|----------------------------------------------------|
@@ -82,7 +82,7 @@ Signed Mods: 34 (14.000000000000002%)
 | UniDict                               | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | UniDict-1.12.2-3.0.7.jar                           |
 | Just Enough HarvestCraft              | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | just-enough-harvestcraft-1.12.2-1.7.2.jar          |
 | FoamFixCore                           | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | minecraft.jar                                      |
-| CT-GUI                                | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CraftTweaker2-1.12-4.1.20.632.jar                  |
+| CT-GUI                                | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CraftTweaker2-1.12-4.1.20.634.jar                  |
 | Dropt                                 | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | dropt-1.12.2-1.18.0.jar                            |
 | EnderStorage                          | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | EnderStorage-1.12.2-2.4.6.137-universal.jar        |
 | Placebo                               | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Placebo-1.12.2-1.6.0.jar                           |
@@ -93,7 +93,7 @@ Signed Mods: 34 (14.000000000000002%)
 | Ambient Environment                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | AmbientEnvironment-1.0.2.jar                       |
 | Fast Leaf Decay                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | FastLeafDecay-v14.jar                              |
 | Mystical Lib                          | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | mysticallib-1.12.2-1.10.0.jar                      |
-| CraftTweaker2                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CraftTweaker2-1.12-4.1.20.632.jar                  |
+| CraftTweaker2                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CraftTweaker2-1.12-4.1.20.634.jar                  |
 | Garden Stuff                          | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | GardenStuff-1.12-2.1.1.jar                         |
 | Immersive Technology                  | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | MCTImmersiveTechnology-1.12.2-1.8.94.jar           |
 | Armory Expansion - Custom Materials   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | armoryexpansion-1.4.2.jar                          |
@@ -137,9 +137,8 @@ Signed Mods: 34 (14.000000000000002%)
 | Enchanting Plus                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | EnchantingPlus-1.12.2-5.0.179.jar                  |
 | Roots                                 | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Roots-1.12.2-3.0.33.jar                            |
 | Mystcraft JEI Plugin                  | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | mystcraft-jei-1.12.2-1.0.0.jar                     |
-| CraftPresence                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | CraftPresence-Forge-1.12.2-Release-1.7.6.jar       |
+| CraftPresence                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | CraftPresence-Forge-1.12.2-Release-1.8.0.jar       |
 | CT Mortar                             | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | ctmortar-1.12.2-1.0.2-1-g1210615.jar               |
-| CleanView                             | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | CleanView-1.12.2-v1c.jar                           |
 | RikMuld's Core                        | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | RikMuldsCore_1.3.3.jar                             |
 | FTB Backups                           | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | FTBBackups-1.1.0.1.jar                             |
 | Farseek                               | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Farseek-1.12-2.5.1.jar                             |
@@ -163,7 +162,7 @@ Signed Mods: 34 (14.000000000000002%)
 | Darkness                              | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | darkness-forge-1.12.x-0.4.2.jar                    |
 | Ender Crop                            | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | endercrop-1.12.2-1.6.0.jar                         |
 | Ender Skills                          | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | EnderSkills-1.12.2-1.8.1.2.jar                     |
-| Dynamic Trees BOP                     | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | DynamicTreesBOP-1.12.2-1.4.4.jar                   |
+| Dynamic Trees BOP                     | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | DynamicTreesBOP-1.12.2-1.5.1.jar                   |
 | Construct's Armory                    | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | conarm-1.12.2-1.2.5.10.jar                         |
 | FTB Utilities                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | FTBUtilities-5.4.1.131.jar                         |
 | Forgelin Continuous                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Forgelin-Continuous-1.4.30.3.jar                   |
@@ -213,7 +212,7 @@ Signed Mods: 34 (14.000000000000002%)
 | Better Hurt Timer                     | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | BetterHurtTimer-1.12.2-1.5.0.1.jar                 |
 | Nature's Aura                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | NaturesAura-18.1.jar                               |
 | ModWinder                             | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Ladylib-2.3.jar                                    |
-| CraftTweaker JEI Support              | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CraftTweaker2-1.12-4.1.20.632.jar                  |
+| CraftTweaker JEI Support              | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CraftTweaker2-1.12-4.1.20.634.jar                  |
 | RecipeStages                          | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | RecipeStages-1.1.3.jar                             |
 | Dynamic Trees PHC                     | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | DynamicTreesPHC-1.12.2-2.0.5.jar                   |
 | NetherPortalFix                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | NetherPortalFix_1.12.1-5.3.17.jar                  |
@@ -224,7 +223,6 @@ Signed Mods: 34 (14.000000000000002%)
 | Item Stages                           | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | ItemStages-1.12.2-2.0.49.jar                       |
 | Ambience                              | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Ambience+1.1-10.jar                                |
 | Stuff A Sock In It                    | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | StuffASockInIt-1.12.2-1.1.32.jar                   |
-| Aquaculture                           | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Aquaculture-1.12.2-1.6.8.jar                       |
 | Animania                              | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | animania-1.12.2-base-2.0.3.28.jar                  |
 | Surge                                 | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | Surge-1.12.2-2.0.79.jar                            |
 | The Birdwatching Mod                  | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | TheBirdwatchingMod-1.6.0.jar                       |

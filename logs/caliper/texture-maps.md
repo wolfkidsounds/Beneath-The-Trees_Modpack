@@ -11,7 +11,7 @@ anonymous, and is not automatically submitted to any online service.
 | Mod ID                  | Textures | Pixels   | Est. Size |
 |-------------------------|----------|----------|-----------|
 | tinkerscompendium       | 6124     | 14614016 | 55 MB     |
-| mystcraft               | 836      | 13187072 | 50 MB     |
+| mystcraft               | 827      | 13039616 | 49 MB     |
 | ltta                    | 2        | 2097152  | 8 MB      |
 | chisel                  | 2732     | 1459200  | 5 MB      |
 | immersiveengineering    | 568      | 1294848  | 4 MB      |
@@ -21,30 +21,30 @@ anonymous, and is not automatically submitted to any online service.
 | bibliocraft             | 130      | 563968   | 2 MB      |
 | vc                      | 104      | 499712   | 1 MB      |
 | harvestcraft            | 1789     | 457984   | 1 MB      |
-| primal                  | 1006     | 264448   | 1 MB      |
+| primal                  | 1002     | 263424   | 1 MB      |
 | immersivetech           | 49       | 252160   | 985 KB    |
 | minecraft               | 821      | 236800   | 925 KB    |
 | railcraft               | 696      | 182016   | 711 KB    |
 | zawa                    | 340      | 133888   | 523 KB    |
 | biomesoplenty           | 442      | 123136   | 481 KB    |
 | enderskills             | 99       | 117504   | 459 KB    |
-| natura                  | 347      | 108288   | 423 KB    |
 | immersiveintelligence   | 244      | 98304    | 384 KB    |
 | ferdinandsflowers       | 307      | 97792    | 382 KB    |
-| quark                   | 367      | 95488    | 373 KB    |
+| natura                  | 301      | 96512    | 377 KB    |
+| quark                   | 364      | 94720    | 370 KB    |
 | immersiveruins          | 8        | 88064    | 344 KB    |
 | bf_gen_leaves           | 75       | 76800    | 300 KB    |
 | rustic                  | 208      | 69888    | 273 KB    |
 | roots                   | 178      | 64512    | 252 KB    |
 | engineersdecor          | 186      | 60416    | 236 KB    |
-| pvj                     | 215      | 55040    | 215 KB    |
 | dynamictreesphc         | 104      | 54272    | 212 KB    |
-| storagedrawers          | 113      | 53504    | 209 KB    |
 | mowziesmobs             | 48       | 52992    | 207 KB    |
+| storagedrawers          | 111      | 52992    | 207 KB    |
 | betternether            | 200      | 51200    | 200 KB    |
 | mcwdoors                | 198      | 50688    | 198 KB    |
-| tcomplement             | 182      | 47360    | 185 KB    |
+| pvj                     | 197      | 50432    | 197 KB    |
 | animania                | 152      | 45056    | 176 KB    |
+| tcomplement             | 170      | 44288    | 173 KB    |
 | mocreatures             | 142      | 36352    | 142 KB    |
 | naturesaura             | 114      | 31232    | 122 KB    |
 | bettergrassandleaves    | 42       | 30528    | 119 KB    |
@@ -54,12 +54,12 @@ anonymous, and is not automatically submitted to any online service.
 | mcwroofs                | 80       | 21248    | 83 KB     |
 | mysticallib             | 24       | 20736    | 81 KB     |
 | simpledifficulty        | 73       | 20224    | 79 KB     |
-| aquaculture             | 75       | 19200    | 75 KB     |
 | sereneseasons           | 71       | 18176    | 71 KB     |
 | moremystcraft           | 18       | 17664    | 69 KB     |
 | immersiveposts          | 24       | 17664    | 69 KB     |
 | immersive_energy        | 28       | 16384    | 64 KB     |
 | bf_gen_reeds            | 4        | 16384    | 64 KB     |
+| dynamictreesbop         | 39       | 15872    | 62 KB     |
 | immersivepetroleum      | 38       | 15872    | 62 KB     |
 | exoticbirds             | 57       | 14592    | 57 KB     |
 | ceramics                | 56       | 14336    | 56 KB     |
@@ -67,7 +67,6 @@ anonymous, and is not automatically submitted to any online service.
 | enderstorage            | 52       | 13312    | 52 KB     |
 | fairylights             | 49       | 12544    | 49 KB     |
 | geolosys                | 48       | 12288    | 48 KB     |
-| dynamictreesbop         | 30       | 11520    | 45 KB     |
 | chiselsandbits          | 44       | 11264    | 44 KB     |
 | gbook                   | 3        | 10496    | 41 KB     |
 | engineerstools          | 15       | 9984     | 39 KB     |

@@ -12,3 +12,4 @@ anonymous, and is not automatically submitted to any online service.
 | Nether      | -1         | false |
 | Mystcraft   | 1210950779 | false |
 | Wyvern Lair | -17        | false |
+| Overworld   | 0          | true  |

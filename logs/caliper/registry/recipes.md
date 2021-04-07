@@ -1,31 +1,31 @@
 # recipes Registry Analysis
 
 This file contains information about how mods are using the recipes registry.
-67097777 out of 67108863 ids available. 99.983% of this registry is still
+67097940 out of 67108863 ids available. 99.984% of this registry is still
 available. This data is anonymous, and is not automatically submitted to any
 online service.
 
 
 | Mod Name                | Entries | Utilization |
 |-------------------------|---------|-------------|
-| primal                  | 1436    | 0.002%      |
+| primal                  | 1429    | 0.002%      |
 | ironagefurniture        | 1374    | 0.002%      |
 | harvestcraft            | 1274    | 0.002%      |
 | quark                   | 719     | 0.001%      |
-| railcraft               | 574     | <0.001%     |
-| minecraft               | 440     | <0.001%     |
+| railcraft               | 573     | <0.001%     |
+| minecraft               | 427     | <0.001%     |
 | mcwfurnitures           | 387     | <0.001%     |
 | bibliocraft             | 344     | <0.001%     |
-| immersiveengineering    | 311     | <0.001%     |
+| immersiveengineering    | 310     | <0.001%     |
 | tconstruct              | 286     | <0.001%     |
-| natura                  | 254     | <0.001%     |
-| ceramics                | 222     | <0.001%     |
 | mcwroofs                | 222     | <0.001%     |
-| ferdinandsflowers       | 211     | <0.001%     |
+| natura                  | 219     | <0.001%     |
+| ferdinandsflowers       | 210     | <0.001%     |
+| ceramics                | 206     | <0.001%     |
 | biomesoplenty           | 203     | <0.001%     |
 | dynamictreesphc         | 179     | <0.001%     |
-| pvj                     | 176     | <0.001%     |
-| unidict                 | 167     | <0.001%     |
+| unidict                 | 161     | <0.001%     |
+| pvj                     | 151     | <0.001%     |
 | tinkerscompendium       | 150     | <0.001%     |
 | zawa                    | 136     | <0.001%     |
 | rsgauges                | 134     | <0.001%     |
@@ -39,18 +39,17 @@ online service.
 | mcwdoors                | 72      | <0.001%     |
 | vc                      | 67      | <0.001%     |
 | comforts                | 63      | <0.001%     |
-| tcomplement             | 63      | <0.001%     |
 | mocreatures             | 58      | <0.001%     |
 | roots                   | 57      | <0.001%     |
 | naturesaura             | 54      | <0.001%     |
+| tcomplement             | 51      | <0.001%     |
 | chisel                  | 51      | <0.001%     |
 | mcwwindows              | 50      | <0.001%     |
 | mcwbridges              | 50      | <0.001%     |
-| dynamictreesbop         | 43      | <0.001%     |
-| aquaculture             | 41      | <0.001%     |
-| storagedrawers          | 34      | <0.001%     |
+| dynamictreesbop         | 46      | <0.001%     |
 | simpledifficulty        | 32      | <0.001%     |
 | blockcraftery           | 31      | <0.001%     |
+| storagedrawers          | 28      | <0.001%     |
 | dynamictreesnatura      | 26      | <0.001%     |
 | fairylights             | 24      | <0.001%     |
 | immersive_energy        | 23      | <0.001%     |
@@ -64,9 +63,9 @@ online service.
 | dynamictrees            | 14      | <0.001%     |
 | immersivepetroleum      | 14      | <0.001%     |
 | immersivetech           | 13      | <0.001%     |
-| engineerstools          | 13      | <0.001%     |
 | moremystcraft           | 12      | <0.001%     |
 | mystcraft               | 12      | <0.001%     |
+| engineerstools          | 11      | <0.001%     |
 | enderskills             | 10      | <0.001%     |
 | ctmortar                | 10      | <0.001%     |
 | eplus                   | 9       | <0.001%     |
