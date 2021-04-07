@@ -11,7 +11,7 @@
 			],
 			"yMin": 20,
 			"yMax": 60,
-			"chance": 4,
+			"chance": 2,
 			"size": 125,
 			"dimBlacklist": [
 				-1,
