@@ -1,7 +1,7 @@
 # item Registry Analysis
 
-This file contains information about how mods are using the item registry. 23945
-out of 32000 ids available. 74.828% of this registry is still available. This
+This file contains information about how mods are using the item registry. 23915
+out of 32000 ids available. 74.734% of this registry is still available. This
 data is anonymous, and is not automatically submitted to any online service.
 
 
@@ -57,6 +57,7 @@ data is anonymous, and is not automatically submitted to any online service.
 | customnpcs                | 20      | 0.063%      |
 | mystcraft                 | 20      | 0.063%      |
 | storagedrawers            | 20      | 0.063%      |
+| cookingforblockheads      | 19      | 0.059%      |
 | immersive_energy          | 19      | 0.059%      |
 | engineersdoors            | 15      | 0.047%      |
 | storagenetwork            | 14      | 0.044%      |
@@ -74,6 +75,7 @@ data is anonymous, and is not automatically submitted to any online service.
 | immersivepetroleum        | 9       | 0.028%      |
 | fairylights               | 8       | 0.025%      |
 | gardenstuff               | 8       | 0.025%      |
+| foodfunk                  | 8       | 0.025%      |
 | sereneseasons             | 7       | 0.022%      |
 | theoneprobe               | 7       | 0.022%      |
 | jarm                      | 6       | 0.019%      |
@@ -94,12 +96,14 @@ data is anonymous, and is not automatically submitted to any online service.
 | eplus                     | 3       | 0.009%      |
 | pumpkincarving            | 2       | 0.006%      |
 | itemfilters               | 2       | 0.006%      |
+| composter                 | 2       | 0.006%      |
 | enderstorage              | 2       | 0.006%      |
 | antiqueatlas              | 2       | 0.006%      |
 | pouchofunknown            | 1       | 0.003%      |
 | evilnotchlib              | 1       | 0.003%      |
 | gbook                     | 1       | 0.003%      |
 | dynamictreesmysticalworld | 1       | 0.003%      |
+| wumpleutil                | 1       | 0.003%      |
 | patchouli                 | 1       | 0.003%      |
 | tinkersaddons             | 1       | 0.003%      |
 | lostbooks                 | 1       | 0.003%      |
