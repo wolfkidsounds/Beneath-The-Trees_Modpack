@@ -7,7 +7,7 @@ online service.
 
 
 
-Signed Mods: 33 (13.0%)
+Signed Mods: 34 (13.0%)
 
 | Mod                                   | Total Time | Pre Init | Init | IMC  | Post Init | Valid Signature | File Name                                          |
 |---------------------------------------|------------|----------|------|------|-----------|-----------------|----------------------------------------------------|
@@ -25,6 +25,7 @@ Signed Mods: 33 (13.0%)
 | Better Foliage                        | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | BetterFoliage-MC1.12-2.3.1.jar                     |
 | Game Stages                           | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | GameStages-1.12.2-2.0.123.jar                      |
 | Mystcraft                             | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | mystcraft-1.12.2-0.13.7.06.jar                     |
+| Cooking for Blockheads                | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CookingForBlockheads_1.12.2-6.5.0.jar              |
 | FastWorkbench                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | FastWorkbench-1.12.2-1.7.3.jar                     |
 | FTB Library                           | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | FTBLib-5.4.7.2.jar                                 |
 | BiomeTweakerCore                      | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | minecraft.jar                                      |
@@ -79,7 +80,7 @@ Signed Mods: 33 (13.0%)
 | LadyLib                               | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Ladylib-2.3.jar                                    |
 | IvToolkit                             | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | minecraft.jar                                      |
 | Simple Storage Network                | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | SimpleStorageNetwork-1.12.2-1.8.1.jar              |
-| UniDict                               | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | UniDict-1.12.2-3.0.7.jar                           |
+| UniDict                               | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | UniDict-1.12.2-3.0.8.jar                           |
 | Just Enough HarvestCraft              | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | just-enough-harvestcraft-1.12.2-1.7.2.jar          |
 | FoamFixCore                           | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | minecraft.jar                                      |
 | CT-GUI                                | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CraftTweaker2-1.12-4.1.20.634.jar                  |
@@ -117,6 +118,7 @@ Signed Mods: 33 (13.0%)
 | FoamFix                               | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | foamfix-0.10.11-1.12.2.jar                         |
 | Smooth Font                           | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | SmoothFont-mc1.12.2-2.1.2.jar                      |
 | Locks                                 | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | locks-1.12.2-2.5.1.jar                             |
+| Canny Composter                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | composter-1.12.2-1.9.2.jar                         |
 | Baubles                               | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Baubles-1.12-1.5.2.jar                             |
 | Patchouli                             | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Patchouli-1.0-23.6.jar                             |
 | Mystical World                        | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | mysticalworld-1.12.2-1.9.5.jar                     |
@@ -124,6 +126,7 @@ Signed Mods: 33 (13.0%)
 | FPS Reducer                           | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | FpsReducer-mc1.12.2-1.18.jar                       |
 | Tinker's JEI                          | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | tinkersjei-1.2.jar                                 |
 | Forge Endertech                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | ForgeEndertech-1.12.2-4.5.5.0-build.0561.jar       |
+| Food Funk                             | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | foodfunk-1.12.2-4.9.6.jar                          |
 | Just A Raft Mod                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Just+A+Raft+Mod-1.1.2.jar                          |
 | Alternating Flux                      | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | alternatingflux-0.12.2-2.jar                       |
 | ReAuth                                | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | true            | reauth-3.6.0.jar                                   |
@@ -214,6 +217,7 @@ Signed Mods: 33 (13.0%)
 | ModWinder                             | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | Ladylib-2.3.jar                                    |
 | CraftTweaker JEI Support              | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | CraftTweaker2-1.12-4.1.20.634.jar                  |
 | RecipeStages                          | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | RecipeStages-1.1.3.jar                             |
+| Wumple Util Library                   | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | wumpleutil-1.12.2-2.12.9.jar                       |
 | Dynamic Trees PHC                     | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | DynamicTreesPHC-1.12.2-2.0.5.jar                   |
 | NetherPortalFix                       | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | NetherPortalFix_1.12.1-5.3.17.jar                  |
 | Client Tweaks                         | 0.0s       | 0.0s     | 0.0s | 0.0s | 0.0s      | false           | ClientTweaks_1.12.2-3.1.11.jar                     |
