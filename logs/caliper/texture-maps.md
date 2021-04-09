@@ -57,6 +57,7 @@ anonymous, and is not automatically submitted to any online service.
 | sereneseasons           | 71       | 18176    | 71 KB     |
 | moremystcraft           | 18       | 17664    | 69 KB     |
 | immersiveposts          | 24       | 17664    | 69 KB     |
+| foodfunk                | 8        | 17408    | 68 KB     |
 | immersive_energy        | 28       | 16384    | 64 KB     |
 | bf_gen_reeds            | 4        | 16384    | 64 KB     |
 | dynamictreesbop         | 39       | 15872    | 62 KB     |
@@ -67,6 +68,7 @@ anonymous, and is not automatically submitted to any online service.
 | enderstorage            | 52       | 13312    | 52 KB     |
 | fairylights             | 49       | 12544    | 49 KB     |
 | geolosys                | 48       | 12288    | 48 KB     |
+| cookingforblockheads    | 39       | 11520    | 45 KB     |
 | chiselsandbits          | 44       | 11264    | 44 KB     |
 | gbook                   | 3        | 10496    | 41 KB     |
 | engineerstools          | 15       | 9984     | 39 KB     |
@@ -93,6 +95,7 @@ anonymous, and is not automatically submitted to any online service.
 | alternatingflux         | 5        | 1856     | 7 KB      |
 | dynamictreestconstruct  | 7        | 1792     | 7 KB      |
 | tinkersaddons           | 5        | 1280     | 5 KB      |
+| composter               | 5        | 1280     | 5 KB      |
 | theoneprobe             | 5        | 1280     | 5 KB      |
 | butterflies             | 4        | 1024     | 4 KB      |
 | betterbuilderswands     | 4        | 1024     | 4 KB      |
@@ -112,6 +115,7 @@ anonymous, and is not automatically submitted to any online service.
 | pouchofunknown          | 1        | 256      | 1 KB      |
 | evilnotchlib            | 1        | 256      | 1 KB      |
 | forgeendertech          | 1        | 256      | 1 KB      |
+| wumpleutil              | 1        | 256      | 1 KB      |
 | ironagefurniture        | 1        | 256      | 1 KB      |
 | dynamictreesnaturesaura | 1        | 256      | 1 KB      |
 | lostbooks               | 1        | 256      | 1 KB      |
