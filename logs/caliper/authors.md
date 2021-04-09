@@ -32,6 +32,12 @@ online service.
      - FTB Quests
      - FTB Utilities
      - Item Filters
+5 - blaytheninth
+     - Client Tweaks
+     - Cooking for Blockheads
+     - KleeSlabs
+     - NetherPortalFix
+     - Waystones
 5 - vazkii
      - Akashic Tome
      - Ambience
@@ -48,11 +54,6 @@ online service.
      - MAGE
      - Tinkered Hegemony
      - Wearable Backpacks
-4 - blaytheninth
-     - Client Tweaks
-     - KleeSlabs
-     - NetherPortalFix
-     - Waystones
 4 - max hyper
      - Dynamic Trees for Natura
      - Dynamic Trees PHC
@@ -79,6 +80,10 @@ online service.
      - Chameleon
      - Garden Stuff
      - Storage Drawers
+3 - stormwind99
+     - Canny Composter
+     - Food Funk
+     - Wumple Util Library
 3 - knightminer
      - Ceramics
      - Tinkers' Construct
