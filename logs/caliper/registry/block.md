@@ -1,7 +1,7 @@
 # block Registry Analysis
 
-This file contains information about how mods are using the block registry. -824
-out of 4096 ids available. -20.117% of this registry is still available. This
+This file contains information about how mods are using the block registry. -847
+out of 4096 ids available. -20.679% of this registry is still available. This
 data is anonymous, and is not automatically submitted to any online service.
 
 
@@ -49,6 +49,7 @@ data is anonymous, and is not automatically submitted to any online service.
 | dynamictrees              | 25      | 0.610%      |
 | animania                  | 24      | 0.586%      |
 | ceramics                  | 23      | 0.562%      |
+| cookingforblockheads      | 15      | 0.366%      |
 | immersivetech             | 15      | 0.366%      |
 | engineersdoors            | 15      | 0.366%      |
 | chiselsandbits            | 15      | 0.366%      |
@@ -71,10 +72,12 @@ data is anonymous, and is not automatically submitted to any online service.
 | sereneseasons             | 5       | 0.122%      |
 | weeping-angels            | 5       | 0.122%      |
 | dynamictreesroots         | 4       | 0.098%      |
+| foodfunk                  | 4       | 0.098%      |
 | geolosys                  | 4       | 0.098%      |
 | dynamictreesquark         | 3       | 0.073%      |
 | engineerstools            | 3       | 0.073%      |
 | conarm                    | 3       | 0.073%      |
+| wumpleutil                | 3       | 0.073%      |
 | birdwmod                  | 2       | 0.049%      |
 | endercrop                 | 2       | 0.049%      |
 | dynamictreesmysticalworld | 2       | 0.049%      |
@@ -84,6 +87,7 @@ data is anonymous, and is not automatically submitted to any online service.
 | butterflies               | 1       | 0.024%      |
 | jaff                      | 1       | 0.024%      |
 | waystones                 | 1       | 0.024%      |
+| composter                 | 1       | 0.024%      |
 | alternatingflux           | 1       | 0.024%      |
 | vc                        | 1       | 0.024%      |
 | enderstorage              | 1       | 0.024%      |
