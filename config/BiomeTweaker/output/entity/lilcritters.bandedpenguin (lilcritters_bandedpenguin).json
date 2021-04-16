@@ -1,0 +1,6 @@
+
+{
+  "Name": "lilcritters.bandedpenguin",
+  "Registry ID": "lilcritters:bandedpenguin",
+  "Class": "com.github.mnesikos.lilcritters.entity.EntityBandedPenguin"
+}

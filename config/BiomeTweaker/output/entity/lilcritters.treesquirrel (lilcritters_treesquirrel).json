@@ -1,0 +1,6 @@
+
+{
+  "Name": "lilcritters.treesquirrel",
+  "Registry ID": "lilcritters:treesquirrel",
+  "Class": "com.github.mnesikos.lilcritters.entity.EntityTreeSquirrel"
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "lilcritters.raccoon",
+  "Registry ID": "lilcritters:raccoon",
+  "Class": "com.github.mnesikos.lilcritters.entity.EntityRaccoon"
+}
