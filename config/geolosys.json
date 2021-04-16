@@ -12,7 +12,7 @@
 			"yMin": 30,
 			"yMax": 60,
 			"chance": 100,
-			"size": 80,
+			"size": 20,
 			"dimBlacklist": [
 				-1,
 				1
@@ -100,7 +100,7 @@
 			"yMin": 20,
 			"yMax": 60,
 			"chance": 10,
-			"size": 80,
+			"size": 20,
 			"dimBlacklist": [
 				-1,
 				1
@@ -143,8 +143,8 @@
 			],
 			"yMin": 20,
 			"yMax": 60,
-			"chance": 30,
-			"size": 80,
+			"chance": 20,
+			"size": 20,
 			"dimBlacklist": [
 				-1,
 				1
@@ -166,7 +166,7 @@
 			"yMin": 20,
 			"yMax": 60,
 			"chance": 5,
-			"size": 80,
+			"size": 40,
 			"dimBlacklist": [
 				-1,
 				1
@@ -298,7 +298,7 @@
 			"yMin": 20,
 			"yMax": 60,
 			"chance": 5,
-			"size": 80,
+			"size": 40,
 			"dimBlacklist": [
 				-1,
 				1
@@ -363,7 +363,7 @@
 			],
 			"yMin": 20,
 			"yMax": 60,
-			"chance": 50,
+			"chance": 40,
 			"size": 80,
 			"dimBlacklist": [
 				-1,
@@ -518,7 +518,7 @@
 			"yMin": 20,
 			"yMax": 60,
 			"chance": 15,
-			"size": 80,
+			"size": 60,
 			"dimBlacklist": [
 				-1,
 				1
@@ -583,7 +583,29 @@
 			],
 			"yMin": 40,
 			"yMax": 70,
-			"chance": 20,
+			"chance": 30,
+			"size": 80,
+			"dimBlacklist": [
+				-1,
+				1
+			],
+			"density": 1.0,
+			"biomes": [
+			],
+			"isWhitelist": false
+		},
+		{
+			"blocks": [
+				"primal:ore_salt:0",
+				100
+			],
+			"samples": [
+				"simpleoresamples:sampleblocksalt",
+				100
+			],
+			"yMin": 40,
+			"yMax": 70,
+			"chance": 10,
 			"size": 80,
 			"dimBlacklist": [
 				-1,
