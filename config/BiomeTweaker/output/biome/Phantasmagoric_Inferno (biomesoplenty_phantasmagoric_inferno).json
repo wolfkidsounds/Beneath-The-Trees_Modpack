@@ -20,12 +20,12 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "NETHER",
     "HOT",
     "DRY",
-    "MAGICAL",
+    "WASTELAND",
     "SPOOKY",
-    "WASTELAND"
+    "MAGICAL",
+    "NETHER"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -54,12 +54,6 @@
       "Max Group Count": 3
     },
     {
-      "Entity Class": "drzhark.mocreatures.entity.passive.MoCEntitySnake",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
       "Entity Class": "ladysnake.lumen.common.entities.EntityPsiFirefly",
       "Weight": 50,
       "Min Group Count": 0,
@@ -76,18 +70,6 @@
       "Weight": 50,
       "Min Group Count": 0,
       "Max Group Count": 0
-    },
-    {
-      "Entity Class": "com.progwml6.natura.entities.entity.passive.EntityImp",
-      "Weight": 10,
-      "Min Group Count": 8,
-      "Max Group Count": 12
-    },
-    {
-      "Entity Class": "nmd.primal.core.common.entities.living.EntityOvisAtre",
-      "Weight": 90,
-      "Min Group Count": 1,
-      "Max Group Count": 6
     }
   ],
   "Spawnable Monsters": [
@@ -128,96 +110,6 @@
       "Max Group Count": 1
     },
     {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityGolem",
-      "Weight": 3,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityCaveOgre",
-      "Weight": 5,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityFireOgre",
-      "Weight": 6,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityFlameWraith",
-      "Weight": 5,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityGreenOgre",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityHellRat",
-      "Weight": 6,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityHorseMob",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityManticore",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityMiniGolem",
-      "Weight": 6,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityRat",
-      "Weight": 7,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityScorpion",
-      "Weight": 6,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntitySilverSkeleton",
-      "Weight": 6,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityWerewolf",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityWraith",
-      "Weight": 6,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityWWolf",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
       "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
       "Weight": 5,
       "Min Group Count": 1,
@@ -242,38 +134,14 @@
       "Max Group Count": 6
     },
     {
-      "Entity Class": "com.progwml6.natura.entities.entity.monster.EntityNitroCreeper",
-      "Weight": 8,
-      "Min Group Count": 4,
-      "Max Group Count": 6
-    },
-    {
       "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
       "Weight": 2,
       "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "nmd.primal.core.common.entities.living.EntityNetherCreeper",
-      "Weight": 3,
-      "Min Group Count": 0,
       "Max Group Count": 1
     }
   ],
   "Spawnable Water Creatures": [],
   "Spawnable Cave Creatures": [
-    {
-      "Entity Class": "drzhark.mocreatures.entity.ambient.MoCEntityAnt",
-      "Weight": 7,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "drzhark.mocreatures.entity.ambient.MoCEntityFly",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
     {
       "Entity Class": "ladysnake.lumen.common.entities.EntityEmber",
       "Weight": 50,
