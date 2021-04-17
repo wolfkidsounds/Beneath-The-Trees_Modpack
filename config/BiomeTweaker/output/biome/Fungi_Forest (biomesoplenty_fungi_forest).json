@@ -21,9 +21,9 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "HOT",
-    "DENSE",
     "MUSHROOM",
-    "NETHER"
+    "NETHER",
+    "DENSE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -82,6 +82,42 @@
       "Weight": 2,
       "Min Group Count": 1,
       "Max Group Count": 1
+    },
+    {
+      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityFireOgre",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityFlameWraith",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityHellRat",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityHorseMob",
+      "Weight": 8,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityManticore",
+      "Weight": 8,
+      "Min Group Count": 1,
+      "Max Group Count": 3
+    },
+    {
+      "Entity Class": "drzhark.mocreatures.entity.monster.MoCEntityScorpion",
+      "Weight": 6,
+      "Min Group Count": 1,
+      "Max Group Count": 3
     },
     {
       "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
