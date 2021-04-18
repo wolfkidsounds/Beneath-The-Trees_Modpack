@@ -1,0 +1,6 @@
+
+{
+  "Name": "minion",
+  "Registry ID": "coherentvillages:minion",
+  "Class": "net.theexceptionist.coherentvillages.main.entity.EntitySkeletonSummon"
+}

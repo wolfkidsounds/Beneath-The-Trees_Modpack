@@ -1,0 +1,6 @@
+
+{
+  "Name": "human_villager",
+  "Registry ID": "coherentvillages:human_villager",
+  "Class": "net.theexceptionist.coherentvillages.main.entity.EntityHumanVillager"
+}
