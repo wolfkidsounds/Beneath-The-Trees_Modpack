@@ -21,11 +21,11 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "HILLS",
-    "HOT",
-    "DRY",
-    "SPARSE",
     "RARE",
-    "SAVANNA"
+    "DRY",
+    "HOT",
+    "SAVANNA",
+    "SPARSE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -396,6 +396,18 @@
       "Weight": 5,
       "Min Group Count": 1,
       "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.theexceptionist.coherentvillages.main.entity.EntityWraith",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "net.theexceptionist.coherentvillages.main.entity.EntityLemure",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 2
     },
     {
       "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.barakoa.EntityBarakoana",

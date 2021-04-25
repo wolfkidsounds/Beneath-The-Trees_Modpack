@@ -20,8 +20,8 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "FOREST",
     "COLD",
+    "FOREST",
     "MAGICAL"
   ],
   "BiomeManager Entries": {
@@ -124,7 +124,14 @@
     }
   ],
   "Spawnable Water Creatures": [],
-  "Spawnable Cave Creatures": [],
+  "Spawnable Cave Creatures": [
+    {
+      "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.lantern.EntityLantern",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    }
+  ],
   "Spawn Biome": true,
   "Tweaked": true,
   "BOP Generators": {

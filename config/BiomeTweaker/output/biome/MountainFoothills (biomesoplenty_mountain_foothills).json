@@ -23,8 +23,8 @@
     "HILLS",
     "DRY",
     "SPARSE",
-    "MOUNTAIN",
-    "FOREST"
+    "FOREST",
+    "MOUNTAIN"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
