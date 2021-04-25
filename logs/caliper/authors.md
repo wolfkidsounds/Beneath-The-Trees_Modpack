@@ -14,8 +14,7 @@ online service.
      - Ore Stages
      - Stuff A Sock In It
      - Surge
-8 - jaredlll08
-     - Ambient Environment
+7 - jaredlll08
      - Clumps
      - Controlling
      - CraftTweaker2
@@ -23,18 +22,18 @@ online service.
      - MTLib
      - Ore Stages
      - Surge
-5 - blaytheninth
-     - Client Tweaks
-     - Cooking for Blockheads
-     - KleeSlabs
-     - NetherPortalFix
-     - Waystones
 5 - latvianmodder
      - FTB Backups
      - FTB Library
      - FTB Quests
      - FTB Utilities
      - Item Filters
+5 - blaytheninth
+     - Client Tweaks
+     - Cooking for Blockheads
+     - KleeSlabs
+     - NetherPortalFix
+     - Waystones
 5 - vazkii
      - Akashic Tome
      - Ambience
@@ -70,34 +69,18 @@ online service.
      - Chameleon
      - Garden Stuff
      - Storage Drawers
-3 - max hyper
-     - Dynamic Trees PHC
-     - Dynamic Trees for Quark
-     - Dynamic Trees for Tinkers' Construct
 3 - knightminer
      - Ceramics
      - Tinkers' Construct
      - Tinkers' Complement
-3 - adubbz
-     - Biomes O' Plenty
-     - Serene Seasons
-     - Tough As Nails
 3 - thefloydman
      - More Mystcraft
      - Myst Library
      - Pages
-3 - bre2el
-     - Smooth Font Core
-     - FPS Reducer
-     - Smooth Font
 3 - sketch macaw
      - Macaw's Doors
      - Macaw's Roofs
      - Macaw's Windows
-3 - forstride
-     - Biomes O' Plenty
-     - Serene Seasons
-     - Tough As Nails
 3 - boni
      - Mantle
      - Tinkers' Construct
@@ -106,6 +89,18 @@ online service.
      - ModWinder
      - LadyLib
      - Lumen
+3 - max hyper
+     - Dynamic Trees PHC
+     - Dynamic Trees for Quark
+     - Dynamic Trees for Tinkers' Construct
+3 - adubbz
+     - Biomes O' Plenty
+     - Serene Seasons
+     - Tough As Nails
+3 - forstride
+     - Biomes O' Plenty
+     - Serene Seasons
+     - Tough As Nails
 3 - wile
      - Engineer's Decor
      - Engineer's Tools
@@ -119,48 +114,24 @@ online service.
 2 - arekkuusu
      - Better Hurt Timer
      - Ender Skills
-2 - shetiphian
-     - Platforms
-     - ShetiPhian-Core
 2 - c4
      - Comforts
      - Construct's Armory
-2 - mcjty
-     - InControl
-     - The One Probe
-2 - lexmanos
-     - Forge Mod Loader
-     - Minecraft Forge
 2 - squeek
      - AppleCore
      - AppleSkin
-2 - lclc98
-     - Bookshelf
-     - Surge
-2 - shadowfacts
-     - Shadowfacts' Forgelin
-     - Forgelin Continuous
 2 - ferreusveritas
      - Dynamic Trees
      - Dynamic Trees PHC
-2 - minecreatr
-     - Chisel
-     - CTM
 2 - macaw's mods
      - Macaw's Bridges
      - Macaw's Furniture
 2 - pau101
      - Fairy Lights
      - Mowzie's Mobs
-2 - runemoro
-     - JustEnoughIDs
-     - VanillaFix
-2 - rick south
-     - Collective
-     - Nether Portal Spread
-2 - gendeathrow
-     - ModPack Basic Tools
-     - ModPack Utilities
+2 - copygirl
+     - BetterStorageToo
+     - Wearable Backpacks
 2 - mrriegel
      - InstantUnify
      - Simple Storage Network
@@ -170,6 +141,60 @@ online service.
 2 - elucent
      - Blockcraftery
      - Mystical Lib
+2 - progwml6
+     - Hunger Overhaul
+     - Mantle
+2 - xt9 (iterationfunk)
+     - Gamestage Books
+     - InWorldCrafting
+2 - pamela collins
+     - Pam's HarvestCraft
+     - Pam's Weee! Flowers
+2 - zombiehdgaming
+     - JustEnoughIDs
+     - VanillaFix
+2 - wolfie_waffle
+     - Rustic BOP Woods
+     - Campfire Spit
+2 - mezz
+     - Item Zoom
+     - Just Enough Items
+2 - alexbegt
+     - Hunger Overhaul
+     - Mantle
+2 - shetiphian
+     - Platforms
+     - ShetiPhian-Core
+2 - mcjty
+     - InControl
+     - The One Probe
+2 - lexmanos
+     - Forge Mod Loader
+     - Minecraft Forge
+2 - lclc98
+     - Bookshelf
+     - Surge
+2 - shadowfacts
+     - Shadowfacts' Forgelin
+     - Forgelin Continuous
+2 - minecreatr
+     - Chisel
+     - CTM
+2 - buuz135
+     - Despawning Spawners
+     - Jeivillagers
+2 - runemoro
+     - JustEnoughIDs
+     - VanillaFix
+2 - rick south
+     - Collective
+     - Nether Portal Spread
+2 - gendeathrow
+     - ModPack Basic Tools
+     - ModPack Utilities
+2 - bre2el
+     - Smooth Font Core
+     - Smooth Font
 2 - cpw
      - Forge Mod Loader
      - Minecraft Forge
@@ -179,37 +204,23 @@ online service.
 2 - tterrag
      - Chisel
      - CTM
-2 - tmtravlr
-     - Just a Few Fish
-     - Sound Filters
 2 - drullkus
      - Chisel
      - CTM
-2 - xt9 (iterationfunk)
-     - Gamestage Books
-     - InWorldCrafting
-2 - zombiehdgaming
-     - JustEnoughIDs
-     - VanillaFix
 2 - wanioncane
      - UniDict
      - WanionLib
 2 - superckl
      - BiomeTweakerCore
      - BiomeTweaker
-2 - mezz
-     - Item Zoom
-     - Just Enough Items
-1 - lothrazar
-     - Simple Storage Network
 1 - the-realest-stu
      - Rustic
+1 - del
+     - Valkyrien Skies Core
 1 - flaxbeard
      - Immersive Petroleum
 1 - elisee
      - CraftStudio API
-1 - kenkron
-     - Antique Atlas Overlay
 1 - lance5057
      - Tinkers' Compendium
 1 - way2muchnoise
@@ -224,32 +235,14 @@ online service.
      - Just Enough Effects
 1 - johni0702
      - Better Portals
-1 - octarine-noise (code)
-     - Better Foliage
-1 - alexbegt
-     - Mantle
-1 - ilexiconn
-     - LLibrary
-1 - max henkel
-     - Camera Mod
-1 - cda_gaming
-     - CraftPresence
 1 - elektrokill
      - UniDict
 1 - blusunrize
      - Immersive Engineering
-1 - vulpie
-     - Mystical World
-1 - martacus
-     - Mystical World
-1 - fry
-     - Minecraft Forge
 1 - chickenbones, covers1624
      - EnderStorage
-1 - techbrew
-     - JourneyMap
-1 - max otto von stirliz, mcreator
-     - Immersive Ruins
+1 - meldexun
+     - Entity Culling
 1 - jt9
      - Project: Vibrant Journeys
 1 - alexander01998
@@ -258,68 +251,32 @@ online service.
      - CraftStudio API
 1 - §6orecruncher§r
      - §3Dynamic Surroundings
-1 - yalter
-     - Mouse Tweaks
-1 - phylogeny
-     - Proportional Destruction Particles
-1 - crazy crafter
-     - Snow Accumulation
+1 - kormic911
+     - Wild Crops
 1 - nihiltres
      - Engineer's Doors
-1 - oitsjustjose
-     - Geolosys
-1 - noobanidus
-     - Mystical World
-1 - stanhebben
-     - CraftTweaker2
 1 - cheeserolls
      - Biomes O' Plenty
 1 - davoleo
      - Mystical World
-1 - wiiv
-     - Quark
-1 - razzleberryfox, purplicious_cow, cy4n, tschipp, zeamateis, timmypote, raptorfarian, vroulas, and thejurassicalien
-     - Animania
-1 - svennieke
-     - Just A Raft Mod
 1 - tfarecnim
      - Toughness bar
 1 - mangoose
      - Dynamic Trees BOP
 1 - therandomlabs
      - RandomTweaks
-1 - phenix246
-     - CraftStudio API
-1 - valerate
-     - Simple Ore Samples
-1 - heldplayer
-     - Mystcraft JEI Plugin
 1 - insomniakitten
      - Wearable Backpacks
-1 - poulpinou
-     - Dawn Of Time : Builder Edition
-1 - kalaxi
-     - Mystical World
 1 - gegy1000
      - LLibrary
-1 - dries007
-     - DebugServerInfo
-1 - covers1624
-     - CodeChicken Lib
-1 - exidex
-     - SwingThroughGrass
-1 - buuz135
-     - Despawning Spawners
+1 - therealp455w0rd
+     - p455w0rd's Library
 1 - meringue (textures)
      - Better Foliage
 1 - antibluequirk
      - Alternating Flux
-1 - copygirl
-     - Wearable Backpacks
 1 - cas_ual_ty
      - Duplicate Entity UUID Fix (DEUF)
-1 - snowshock35
-     - JEI Integration
 1 - kurtchekov
      - Immersive Technology
 1 - foxnekitsune
@@ -332,116 +289,60 @@ online service.
      - Better Nether
 1 - amnet
      - Biomes O' Plenty
-1 - razzleberryfox
-     - Decocraft
-1 - ewyboy
-     - World Stripper
-1 - algorithmx2
-     - Chisels & Bits
 1 - funwayguy
      - OreExcavation
 1 - bloodworkxgaming
      - OreExcavation Integration
-1 - angeline (@jellysquid)
-     - Phosphor Lighting Engine
-1 - twistedgate
-     - Immersive Posts
-1 - covertjaguar
-     - Railcraft
 1 - george kazanjian(soggymustache)
      - Butterfly Mod
+1 - the_weatherpony
+     - Mo' Villages
 1 - chaosthedude
      - Nature's Compass
-1 - azmalent
-     - Potion Descriptions
-1 - luwin
-     - No Recipe Book
 1 - bobmowzie
      - Mowzie's Mobs
-1 - wendall911
-     - Tinkers' Survival
-1 - cybercat5555
-     - Ender Skills
+1 - tonymacdonald1995
+     - Village Info
 1 - max hyper, harley o'connor
      - Dynamic Trees for Mystical World
-1 - cleverpanda714
-     - Pumpkin Carving
 1 - olafski
      - Fast Leaf Decay
 1 - §aorecruncher§r
      - §3OreLib Support Library
-1 - progwml6
-     - Mantle
-1 - incubesupreme
-     - CraftStudio API
-1 - gr8pefish
-     - Open Glider
-1 - pavocado
-     - Exotic Birds
-1 - timmypote
-     - CraftStudio API
 1 - mrapplexz
      - Just Enough HarvestCraft
-1 - possible_triangle
-     - Tinker's JEI
+1 - rubyjunk
+     - Valkyrien Skies Core
+1 - daporkchop_
+     - Valkyrien Skies Core
 1 - §6abastro§r
      - §3Dynamic Surroundings
-1 - river leviathan
-     - Lumen
-1 - tgstyle
-     - Immersive Technology
-1 - ipixeli
-     - LagMeter
 1 - rwtema
      - Diet Hopper
-1 - mysticdrew
-     - JourneyMap
-1 - firedog5
-     - Serene Tweaks
-1 - pabilo8
-     - Immersive Intelligence
-1 - mrbysco
-     - Just A Raft Mod
 1 - mrthomas20121
      - Bio Library
 1 - hunternif
      - Antique Atlas
-1 - pamela collins
-     - Pam's HarvestCraft
 1 - portablejim
      - Better Builder's Wands
-1 - thegoldenworld
-     - Dawn Of Time : Builder Edition
-1 - joseph 'nuchaz' sinclair
-     - BiblioCraft
+1 - vic nightfall
+     - BetterStorageToo
 1 - ted80
      - Biomes O' Plenty
 1 - 3dpinball
      - Just Enough Effects
-1 - player
-     - Forge Mod Loader
-1 - crimson twilight
-     - Immersive Energy
 1 - azanor
      - Baubles
 1 - asie
      - FoamFixCore
 1 - mysticpasta1
      - Lumen
-1 - wolfie_waffle
-     - Campfire Spit
-1 - chickenbones
-     - CodeChicken Lib
-1 - noppes
-     - CustomNPCs
 1 - goblinbob
      - Mo' Bends
 1 - technicianlp
      - ReAuth
 1 - ivorius
      - IvToolkit
-1 - lemons
-     - LemonLib
 1 - guyde
      - WaterSkin
 1 - pandize
@@ -454,12 +355,162 @@ online service.
      - Immersive Engineering
 1 - morethanhidden
      - Restricted Portals
+1 - blockynoob
+     - WaterSkin
+1 - lorexe
+     - Just Enough Pattern Banners
+1 - blockdaddy
+     - DrZhark's Mo'Creatures Mod
+1 - lothrazar
+     - Simple Storage Network
+1 - barteks2x
+     - Chunk Generation Limiter
+1 - kenkron
+     - Antique Atlas Overlay
+1 - octarine-noise (code)
+     - Better Foliage
+1 - ilexiconn
+     - LLibrary
+1 - max henkel
+     - Camera Mod
+1 - vulpie
+     - Mystical World
+1 - martacus
+     - Mystical World
+1 - fry
+     - Minecraft Forge
+1 - techbrew
+     - JourneyMap
+1 - max otto von stirliz, mcreator
+     - Immersive Ruins
+1 - yalter
+     - Mouse Tweaks
+1 - phylogeny
+     - Proportional Destruction Particles
+1 - crazy crafter
+     - Snow Accumulation
+1 - noobanidus
+     - Mystical World
+1 - stanhebben
+     - CraftTweaker2
+1 - parker8283
+     - Hunger Overhaul
+1 - wiiv
+     - Quark
+1 - razzleberryfox, purplicious_cow, cy4n, tschipp, zeamateis, timmypote, raptorfarian, vroulas, and thejurassicalien
+     - Animania
+1 - svennieke
+     - Just A Raft Mod
+1 - yungnickyoung
+     - YUNG's Better Caves
+1 - phenix246
+     - CraftStudio API
+1 - heldplayer
+     - Mystcraft JEI Plugin
+1 - poulpinou
+     - Dawn Of Time : Builder Edition
+1 - kalaxi
+     - Mystical World
+1 - dries007
+     - DebugServerInfo
+1 - covers1624
+     - CodeChicken Lib
+1 - exidex
+     - SwingThroughGrass
+1 - tehstoneman
+     - BetterStorageToo
+1 - snowshock35
+     - JEI Integration
+1 - razzleberryfox
+     - Decocraft
+1 - ewyboy
+     - World Stripper
+1 - algorithmx2
+     - Chisels & Bits
+1 - team metallurgy
+     - Aquaculture
+1 - iguana_man
+     - Hunger Overhaul
+1 - angeline (@jellysquid)
+     - Phosphor Lighting Engine
+1 - twistedgate
+     - Immersive Posts
+1 - covertjaguar
+     - Railcraft
+1 - triode_
+     - Valkyrien Skies Core
+1 - squeek502
+     - Hunger Overhaul
+1 - azmalent
+     - Potion Descriptions
+1 - luwin
+     - No Recipe Book
+1 - wendall911
+     - Tinkers' Survival
+1 - angercraft
+     - Better Signs
+1 - cybercat5555
+     - Ender Skills
+1 - cleverpanda714
+     - Pumpkin Carving
+1 - unnoen
+     - Unloader
+1 - incubesupreme
+     - CraftStudio API
+1 - someaddons
+     - performant Mod
+1 - gr8pefish
+     - Open Glider
+1 - pavocado
+     - Exotic Birds
+1 - timmypote
+     - CraftStudio API
+1 - possible_triangle
+     - Tinker's JEI
+1 - river leviathan
+     - Lumen
+1 - tgstyle
+     - Immersive Technology
+1 - ipixeli
+     - LagMeter
+1 - drzhark
+     - DrZhark's Mo'Creatures Mod
+1 - mysticdrew
+     - JourneyMap
+1 - trainerredstone7
+     - Chunky Excavators
+1 - firedog5
+     - Serene Tweaks
+1 - tmtravlr
+     - Just a Few Fish
+1 - pabilo8
+     - Immersive Intelligence
+1 - mrbysco
+     - Just A Raft Mod
+1 - bloodshot
+     - DrZhark's Mo'Creatures Mod
+1 - thegoldenworld
+     - Dawn Of Time : Builder Edition
+1 - joseph 'nuchaz' sinclair
+     - BiblioCraft
+1 - player
+     - Forge Mod Loader
+1 - crimson twilight
+     - Immersive Energy
+1 - chickenbones
+     - CodeChicken Lib
+1 - noppes
+     - CustomNPCs
+1 - lemons
+     - LemonLib
+1 - theexceptionist
+     - Coherent Villages Mod Beta
+1 - pigs_ftw
+     - Mo' Villages
 1 - jared
      - RecipeStages
 1 - lykrast
      - Just Enough Throwing In Fluids
-1 - blockynoob
-     - WaterSkin
 1 - melonslise
      - Locks
 1 - gollorum
@@ -468,5 +519,3 @@ online service.
      - Moar Tinkers
 1 - shyrik
      - Atlas Extras
-1 - lorexe
-     - Just Enough Pattern Banners

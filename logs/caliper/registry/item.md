@@ -1,7 +1,7 @@
 # item Registry Analysis
 
-This file contains information about how mods are using the item registry. 25534
-out of 32000 ids available. 79.794% of this registry is still available. This
+This file contains information about how mods are using the item registry. 25291
+out of 32000 ids available. 79.034% of this registry is still available. This
 data is anonymous, and is not automatically submitted to any online service.
 
 
@@ -13,15 +13,16 @@ data is anonymous, and is not automatically submitted to any online service.
 | quark                     | 352     | 1.100%      |
 | pvj                       | 347     | 1.084%      |
 | tinkerscompendium         | 255     | 0.797%      |
-| chisel                    | 253     | 0.791%      |
+| chisel                    | 249     | 0.778%      |
 | animania                  | 237     | 0.741%      |
 | mcwroofs                  | 218     | 0.681%      |
 | ironagefurniture          | 206     | 0.644%      |
-| railcraft                 | 163     | 0.509%      |
 | biomesoplenty             | 162     | 0.506%      |
-| dawnoftimebuilder         | 160     | 0.500%      |
+| railcraft                 | 162     | 0.506%      |
 | tconstruct                | 145     | 0.453%      |
 | rustic                    | 142     | 0.444%      |
+| dawnoftimebuilder         | 140     | 0.438%      |
+| mocreatures               | 131     | 0.409%      |
 | rsgauges                  | 122     | 0.381%      |
 | mysticalworld             | 120     | 0.375%      |
 | betternether              | 95      | 0.297%      |
@@ -36,22 +37,27 @@ data is anonymous, and is not automatically submitted to any online service.
 | mcwbridges                | 50      | 0.156%      |
 | exoticbirds               | 50      | 0.156%      |
 | dynamictreesbop           | 46      | 0.144%      |
+| weeeflowers               | 36      | 0.112%      |
 | conarm                    | 35      | 0.109%      |
 | ceramics                  | 34      | 0.106%      |
 | tcomplement               | 33      | 0.103%      |
+| rusticbopwoods            | 32      | 0.100%      |
+| coherentvillages          | 30      | 0.094%      |
+| vs_control                | 29      | 0.091%      |
 | blockcraftery             | 28      | 0.088%      |
 | chiselsandbits            | 27      | 0.084%      |
 | signpost                  | 25      | 0.078%      |
 | mowziesmobs               | 25      | 0.078%      |
-| simpleoresamples          | 25      | 0.078%      |
 | tinkersurvival            | 24      | 0.075%      |
 | dynamictrees              | 22      | 0.069%      |
+| betterstorage             | 21      | 0.066%      |
 | customnpcs                | 20      | 0.063%      |
 | mystcraft                 | 20      | 0.063%      |
 | storagedrawers            | 20      | 0.063%      |
 | toughasnails              | 20      | 0.063%      |
 | cookingforblockheads      | 19      | 0.059%      |
 | immersive_energy          | 19      | 0.059%      |
+| aquaculture               | 17      | 0.053%      |
 | extratan                  | 15      | 0.047%      |
 | engineersdoors            | 15      | 0.047%      |
 | storagenetwork            | 14      | 0.044%      |
@@ -62,7 +68,6 @@ data is anonymous, and is not automatically submitted to any online service.
 | ftbquests                 | 12      | 0.038%      |
 | jaff                      | 11      | 0.034%      |
 | immersiveposts            | 11      | 0.034%      |
-| geolosys                  | 10      | 0.031%      |
 | engineerstools            | 10      | 0.031%      |
 | lumen                     | 9       | 0.028%      |
 | immersivepetroleum        | 9       | 0.028%      |
@@ -74,6 +79,7 @@ data is anonymous, and is not automatically submitted to any online service.
 | locks                     | 6       | 0.019%      |
 | dynamictreestconstruct    | 6       | 0.019%      |
 | waystones                 | 5       | 0.016%      |
+| valkyrienskies            | 5       | 0.016%      |
 | butterflies               | 4       | 0.013%      |
 | dynamictreesquark         | 4       | 0.013%      |
 | betterbuilderswands       | 4       | 0.013%      |
@@ -86,6 +92,7 @@ data is anonymous, and is not automatically submitted to any online service.
 | alternatingflux           | 3       | 0.009%      |
 | eplus                     | 3       | 0.009%      |
 | pumpkincarving            | 2       | 0.006%      |
+| vs_world                  | 2       | 0.006%      |
 | itemfilters               | 2       | 0.006%      |
 | platforms                 | 2       | 0.006%      |
 | enderstorage              | 2       | 0.006%      |

@@ -1,7 +1,7 @@
 # block Registry Analysis
 
-This file contains information about how mods are using the block registry. -145
-out of 4096 ids available. -3.540% of this registry is still available. This
+This file contains information about how mods are using the block registry. -220
+out of 4096 ids available. -5.371% of this registry is still available. This
 data is anonymous, and is not automatically submitted to any online service.
 
 
@@ -11,7 +11,7 @@ data is anonymous, and is not automatically submitted to any online service.
 | mcwfurnitures             | 378     | 9.229%      |
 | pvj                       | 318     | 7.764%      |
 | minecraft                 | 254     | 6.201%      |
-| chisel                    | 249     | 6.079%      |
+| chisel                    | 245     | 5.981%      |
 | harvestcraft              | 223     | 5.444%      |
 | ironagefurniture          | 206     | 5.029%      |
 | mcwroofs                  | 199     | 4.858%      |
@@ -23,7 +23,7 @@ data is anonymous, and is not automatically submitted to any online service.
 | betternether              | 102     | 2.490%      |
 | immersiveruins            | 81      | 1.978%      |
 | engineersdecor            | 81      | 1.978%      |
-| railcraft                 | 79      | 1.929%      |
+| railcraft                 | 78      | 1.904%      |
 | tinkerscompendium         | 77      | 1.880%      |
 | mcwdoors                  | 66      | 1.611%      |
 | dynamictreesphc           | 60      | 1.465%      |
@@ -35,11 +35,13 @@ data is anonymous, and is not automatically submitted to any online service.
 | dynamictreesbop           | 35      | 0.854%      |
 | streams                   | 34      | 0.830%      |
 | comforts                  | 33      | 0.806%      |
+| rusticbopwoods            | 32      | 0.781%      |
+| weeeflowers               | 32      | 0.781%      |
 | immersiveintelligence     | 31      | 0.757%      |
 | tcomplement               | 31      | 0.757%      |
 | blockcraftery             | 30      | 0.732%      |
+| vs_control                | 25      | 0.610%      |
 | immersiveposts            | 25      | 0.610%      |
-| simpleoresamples          | 25      | 0.610%      |
 | dynamictrees              | 25      | 0.610%      |
 | animania                  | 24      | 0.586%      |
 | ceramics                  | 23      | 0.562%      |
@@ -59,12 +61,14 @@ data is anonymous, and is not automatically submitted to any online service.
 | customnpcs                | 9       | 0.220%      |
 | storagedrawers            | 8       | 0.195%      |
 | gardenstuff               | 7       | 0.171%      |
+| betterstorage             | 7       | 0.171%      |
 | immersive_energy          | 7       | 0.171%      |
+| mocreatures               | 7       | 0.171%      |
 | mowziesmobs               | 5       | 0.122%      |
 | sereneseasons             | 5       | 0.122%      |
 | weeping-angels            | 5       | 0.122%      |
-| geolosys                  | 4       | 0.098%      |
 | toughasnails              | 4       | 0.098%      |
+| valkyrienskies            | 4       | 0.098%      |
 | dynamictreesquark         | 3       | 0.073%      |
 | engineerstools            | 3       | 0.073%      |
 | conarm                    | 3       | 0.073%      |
@@ -75,7 +79,9 @@ data is anonymous, and is not automatically submitted to any online service.
 | eplus                     | 2       | 0.049%      |
 | serenetweaks              | 1       | 0.024%      |
 | butterflies               | 1       | 0.024%      |
+| vs_world                  | 1       | 0.024%      |
 | jaff                      | 1       | 0.024%      |
+| coherentvillages          | 1       | 0.024%      |
 | platforms                 | 1       | 0.024%      |
 | waystones                 | 1       | 0.024%      |
 | alternatingflux           | 1       | 0.024%      |

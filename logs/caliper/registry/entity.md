@@ -1,7 +1,7 @@
 # entity Registry Analysis
 
 This file contains information about how mods are using the entity registry.
-67108350 out of 67108863 ids available. 99.999% of this registry is still
+67108252 out of 67108863 ids available. 99.999% of this registry is still
 available. This data is anonymous, and is not automatically submitted to any
 online service.
 
@@ -9,6 +9,7 @@ online service.
 | Mod Name              | Entries | Utilization |
 |-----------------------|---------|-------------|
 | animania              | 155     | <0.001%     |
+| mocreatures           | 84      | <0.001%     |
 | minecraft             | 83      | <0.001%     |
 | exoticbirds           | 39      | <0.001%     |
 | railcraft             | 32      | <0.001%     |
@@ -21,6 +22,7 @@ online service.
 | mysticalworld         | 11      | <0.001%     |
 | lumen                 | 9       | <0.001%     |
 | immersiveengineering  | 9       | <0.001%     |
+| coherentvillages      | 9       | <0.001%     |
 | tconstruct            | 7       | <0.001%     |
 | jaff                  | 5       | <0.001%     |
 | weeping-angels        | 4       | <0.001%     |
@@ -32,8 +34,11 @@ online service.
 | moremystcraft         | 2       | <0.001%     |
 | rustic                | 2       | <0.001%     |
 | fairylights           | 2       | <0.001%     |
+| valkyrienskies        | 2       | <0.001%     |
 | jarm                  | 1       | <0.001%     |
+| p455w0rdslib          | 1       | <0.001%     |
 | butterflies           | 1       | <0.001%     |
+| vs_world              | 1       | <0.001%     |
 | platforms             | 1       | <0.001%     |
 | bibliocraft           | 1       | <0.001%     |
 | betternether          | 1       | <0.001%     |
@@ -44,6 +49,7 @@ online service.
 | engineersdecor        | 1       | <0.001%     |
 | ironagefurniture      | 1       | <0.001%     |
 | props                 | 1       | <0.001%     |
+| aquaculture           | 1       | <0.001%     |
 | immersivepetroleum    | 1       | <0.001%     |
 | dynamictrees          | 1       | <0.001%     |
 | dynamictreesphc       | 1       | <0.001%     |

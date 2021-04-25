@@ -7,22 +7,19 @@ automatically submitted to any online service.
 
 | Script Name                                      | Time  |
 |--------------------------------------------------|-------|
-| dev\hide_spawnEggs.zs                            | 574ms |
-| mods\storage_drawers\C_recipes_storageDrawers.zs | 49ms  |
-| loot\Z_loot_removeRecipes.zs                     | 26ms  |
-| loot\loot_betternether.zs                        | 10ms  |
-| mods\storage_drawers\A_oreDict_storageDrawers.zs | 8ms   |
-| loot\loot_mysticalWorld.zs                       | 3ms   |
+| dev\hide_spawnEggs.zs                            | 409ms |
+| mods\storage_drawers\C_recipes_storageDrawers.zs | 26ms  |
+| loot\Z_loot_removeRecipes.zs                     | 11ms  |
+| loot\loot_betternether.zs                        | 8ms   |
+| mods\storage_drawers\A_oreDict_storageDrawers.zs | 6ms   |
+| loot\loot_mysticalWorld.zs                       | 2ms   |
 | loot\loot_moCreatures.zs                         | 2ms   |
-| loot\loot_minecraft.zs                           | 2ms   |
-| loot\loot_naturesAura.zs                         | 2ms   |
-| loot\loot_harvestcraft.zs                        | 2ms   |
-| loot\loot_engineersTools.zs                      | 2ms   |
-| mods\storage_drawers\B_remove_storageDrawers.zs  | 2ms   |
-| loot\loot_jaff.zs                                | 1ms   |
+| loot\loot_immersiveEngery.zs                     | 2ms   |
 | loot\loot_immersiveEngineering.zs                | 1ms   |
-| loot\loot_roots.zs                               | 1ms   |
-| loot\loot_zawa.zs                                | 1ms   |
-| loot\loot_immersiveEngery.zs                     | 1ms   |
+| loot\loot_minecraft.zs                           | 1ms   |
 | loot\loot_railcraft.zs                           | 1ms   |
+| loot\loot_harvestcraft.zs                        | 1ms   |
 | oreGen\oreDict\oreDictionary.zs                  | 1ms   |
+| loot\loot_engineersTools.zs                      | 1ms   |
+| mods\storage_drawers\B_remove_storageDrawers.zs  | 1ms   |
+| loot\loot_jaff.zs                                | 0ms   |

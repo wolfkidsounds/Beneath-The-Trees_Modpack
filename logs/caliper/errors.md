@@ -47,3 +47,10 @@ Enchant: railcraft:smack Translation Key: enchantment.railcraft.smack.desc
 Enchant: jaff:roasting Translation Key: enchantment.jaff.roasting.desc
 Enchant: bibliocraft:bibliocraft.deathcompassench Translation Key: enchantment.bibliocraft.bibliocraft.deathcompassench.desc
 Enchant: bibliocraft:bibliocraft.readingench Translation Key: enchantment.bibliocraft.bibliocraft.readingench.desc
+Enchant: betterstorage:unlocking Translation Key: enchantment.betterstorage.unlocking.desc
+Enchant: betterstorage:lockpicking Translation Key: enchantment.betterstorage.lockpicking.desc
+Enchant: betterstorage:morphing Translation Key: enchantment.betterstorage.morphing.desc
+Enchant: betterstorage:persistance Translation Key: enchantment.betterstorage.persistance.desc
+Enchant: betterstorage:security Translation Key: enchantment.betterstorage.security.desc
+Enchant: betterstorage:shock Translation Key: enchantment.betterstorage.shock.desc
+Enchant: betterstorage:trigger Translation Key: enchantment.betterstorage.trigger.desc
