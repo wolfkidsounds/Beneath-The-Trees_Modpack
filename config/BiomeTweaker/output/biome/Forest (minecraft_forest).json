@@ -44,6 +44,18 @@
       "Max Group Count": 4
     },
     {
+      "Entity Class": "net.minecraft.entity.passive.EntityChicken",
+      "Weight": 10,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntityCow",
+      "Weight": 8,
+      "Min Group Count": 4,
+      "Max Group Count": 4
+    },
+    {
       "Entity Class": "net.minecraft.entity.passive.EntityWolf",
       "Weight": 5,
       "Min Group Count": 4,
@@ -120,18 +132,6 @@
       "Weight": 8,
       "Min Group Count": 2,
       "Max Group Count": 3
-    },
-    {
-      "Entity Class": "familiarfauna.entities.EntityDeer",
-      "Weight": 8,
-      "Min Group Count": 2,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "familiarfauna.entities.EntityTurkey",
-      "Weight": 10,
-      "Min Group Count": 3,
-      "Max Group Count": 4
     },
     {
       "Entity Class": "epicsquid.mysticalworld.entity.EntityDeer",
@@ -276,150 +276,6 @@
       "Weight": 8,
       "Min Group Count": 1,
       "Max Group Count": 4
-    },
-    {
-      "Entity Class": "com.ikerleon.birdwmod.entity.europe.EntityEurasianBullfinch",
-      "Weight": 15,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "com.ikerleon.birdwmod.entity.northamerica.EntityEasternBluebird",
-      "Weight": 15,
-      "Min Group Count": 1,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "com.ikerleon.birdwmod.entity.northamerica.EntityNorthernMockingbird",
-      "Weight": 15,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityGaur",
-      "Weight": 5,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityKoala",
-      "Weight": 20,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityOkapi",
-      "Weight": 5,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityTreeFrog",
-      "Weight": 25,
-      "Min Group Count": 2,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "org.zawamod.entity.npc.EntityAnimalTrader",
-      "Weight": 3,
-      "Min Group Count": 0,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.npc.EntityFeedTrader",
-      "Weight": 3,
-      "Min Group Count": 0,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.npc.EntityZooKeeper",
-      "Weight": 3,
-      "Min Group Count": 0,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityAmericanBison",
-      "Weight": 20,
-      "Min Group Count": 3,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "org.zawamod.entity.flying.EntityBaldEagle",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityBeaver",
-      "Weight": 15,
-      "Min Group Count": 2,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityBrownRat",
-      "Weight": 6,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityEchidna",
-      "Weight": 15,
-      "Min Group Count": 2,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "org.zawamod.entity.flying.EntityFrigate",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "org.zawamod.entity.flying.EntityGreatHornedOwl",
-      "Weight": 9,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityGrizzlyBear",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityKomodoDragon",
-      "Weight": 15,
-      "Min Group Count": 2,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityMoose",
-      "Weight": 15,
-      "Min Group Count": 2,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityPlatypus",
-      "Weight": 15,
-      "Min Group Count": 2,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityRattleSnake",
-      "Weight": 8,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityTasmanianDevil",
-      "Weight": 15,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "org.zawamod.entity.npc.EntityPoacher",
-      "Weight": 3,
-      "Min Group Count": 0,
-      "Max Group Count": 1
     }
   ],
   "Spawnable Monsters": [
@@ -575,9 +431,21 @@
     },
     {
       "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
-      "Weight": 20,
-      "Min Group Count": 2,
+      "Weight": 5,
+      "Min Group Count": 1,
       "Max Group Count": 4
+    },
+    {
+      "Entity Class": "net.theexceptionist.coherentvillages.main.entity.EntityWarg",
+      "Weight": 10,
+      "Min Group Count": 2,
+      "Max Group Count": 6
+    },
+    {
+      "Entity Class": "net.theexceptionist.coherentvillages.main.entity.EntityBjornserker",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 2
     },
     {
       "Entity Class": "com.bobmowzie.mowziesmobs.server.entity.grottol.EntityGrottol",
@@ -588,12 +456,6 @@
   ],
   "Spawnable Water Creatures": [],
   "Spawnable Cave Creatures": [
-    {
-      "Entity Class": "familiarfauna.entities.EntityButterfly",
-      "Weight": 1,
-      "Min Group Count": 2,
-      "Max Group Count": 4
-    },
     {
       "Entity Class": "drzhark.mocreatures.entity.ambient.MoCEntityAnt",
       "Weight": 7,
@@ -658,19 +520,13 @@
       "Entity Class": "ladysnake.lumen.common.entities.EntityFirefly",
       "Weight": 50,
       "Min Group Count": 0,
-      "Max Group Count": 40
+      "Max Group Count": 0
     },
     {
       "Entity Class": "ladysnake.lumen.common.entities.EntityLightningBug",
       "Weight": 50,
       "Min Group Count": 0,
-      "Max Group Count": 40
-    },
-    {
-      "Entity Class": "vibrantjourneys.entities.passive.EntitySmallSpider",
-      "Weight": 0,
-      "Min Group Count": 1,
-      "Max Group Count": 6
+      "Max Group Count": 0
     }
   ],
   "Spawn Biome": true,

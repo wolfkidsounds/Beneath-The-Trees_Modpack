@@ -16,12 +16,14 @@ Recipe: immersiveengineering:stripcurtain_colour Class: public class blusunrize.
 Recipe: antiqueatlas:atlas_clone Class: public class hunternif.mc.atlas.item.RecipeAtlasCloning
 Recipe: antiqueatlas:atlas_combine Class: public class hunternif.mc.atlas.item.RecipeAtlasCombining
 Recipe: akashictome:attachment Class: public class vazkii.akashictome.AttachementRecipe
+Recipe: dawnoftimebuilder:little_flag Class: public class org.dawnoftimebuilder.crafts.RecipeItemLittleFlag
 Recipe: eplus:table Class: public class net.minecraftforge.oredict.ShapedOreRecipe
 Recipe: eplus:shapeless_upgrade Class: public class shadows.placebo.util.FastShapelessRecipe
 Recipe: exoticbirds:incubate_eggs Class: public class pavocado.exoticbirds.init.RecipesBirdEggs
 Recipe: immersiveengineering:tracer_powder_colour Class: public class blusunrize.immersiveengineering.common.crafting.RecipeRGBColouration
 Recipe: immersiveintelligence:small_crate_wooden Class: public class pl.pabilo8.immersiveintelligence.common.crafting.RecipeCrateConversion
 Recipe: immersiveintelligence:small_crate_metal Class: public class pl.pabilo8.immersiveintelligence.common.crafting.RecipeCrateConversion
+Recipe: mystcraft:internal/linkingbook Class: public class com.xcompwiz.mystcraft.data.RecipeLinkingbook
 Recipe: railcraft:cart_furnace_recipe Class: public static class mods.railcraft.common.util.crafting.CartDisassemblyRecipe$RailcraftVariant
 Recipe: railcraft:cart_hopper_recipe Class: public static class mods.railcraft.common.util.crafting.CartDisassemblyRecipe$RailcraftVariant
 Recipe: railcraft:prototype Class: public class mods.railcraft.common.util.crafting.PrototypeRecipe
@@ -33,7 +35,7 @@ The version number @version@ is a placeholder. If a mod has this version number
 something went wrong in the build process.
 
 Mod: Open Glider File: OpenGlider-1.12.1-1.1.0.jar
-Mod: Tinkered Hegemony File: TinkeredHegemony-0.2.1.jar# Enchantment Descriptions
+Mod: Toughness bar File: toughnessbar-2.4.jar# Enchantment Descriptions
 
 Many mods have systems for showing descriptions for enchantments. Adding
 translations for these can improve mod compatibility.
@@ -45,4 +47,10 @@ Enchant: railcraft:smack Translation Key: enchantment.railcraft.smack.desc
 Enchant: jaff:roasting Translation Key: enchantment.jaff.roasting.desc
 Enchant: bibliocraft:bibliocraft.deathcompassench Translation Key: enchantment.bibliocraft.bibliocraft.deathcompassench.desc
 Enchant: bibliocraft:bibliocraft.readingench Translation Key: enchantment.bibliocraft.bibliocraft.readingench.desc
-Enchant: naturalabsorption:absorption Translation Key: enchantment.naturalabsorption.absorption.desc
+Enchant: betterstorage:unlocking Translation Key: enchantment.betterstorage.unlocking.desc
+Enchant: betterstorage:lockpicking Translation Key: enchantment.betterstorage.lockpicking.desc
+Enchant: betterstorage:morphing Translation Key: enchantment.betterstorage.morphing.desc
+Enchant: betterstorage:persistance Translation Key: enchantment.betterstorage.persistance.desc
+Enchant: betterstorage:security Translation Key: enchantment.betterstorage.security.desc
+Enchant: betterstorage:shock Translation Key: enchantment.betterstorage.shock.desc
+Enchant: betterstorage:trigger Translation Key: enchantment.betterstorage.trigger.desc

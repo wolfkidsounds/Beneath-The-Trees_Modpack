@@ -27,6 +27,9 @@
             <Item>*.ffs_gui</Item>
             <Item>\music\</Item>
             <Item>\journeymap\</Item>
+            <Item>*\build\</Item>
+            <Item>*\dev-mods\</Item>
+            <Item>*\LauncherExports\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -34,8 +37,8 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>C:\Users\Eric Witzel\Desktop\MINECRAFT\Woody-Days</Left>
-            <Right>C:\Users\Eric Witzel\curseforge\minecraft\Instances\BTT</Right>
+            <Left>F:\Minecraft Server (WOLFKID)\Beneath-The-Trees</Left>
+            <Right>C:\Users\Eric Witzel\curseforge\minecraft\Instances\Beneath The Woods</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

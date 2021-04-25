@@ -42,96 +42,6 @@
       "Weight": 2,
       "Min Group Count": 2,
       "Max Group Count": 4
-    },
-    {
-      "Entity Class": "com.ikerleon.birdwmod.entity.release160.EntityBrownBooby",
-      "Weight": 15,
-      "Min Group Count": 1,
-      "Max Group Count": 7
-    },
-    {
-      "Entity Class": "org.zawamod.entity.flying.EntityAlbatross",
-      "Weight": 18,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityFijiBandedIguana",
-      "Weight": 5,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.water.EntityHawksbillSeaTurtle",
-      "Weight": 5,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.npc.EntityAnimalTrader",
-      "Weight": 3,
-      "Min Group Count": 0,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.npc.EntityFeedTrader",
-      "Weight": 3,
-      "Min Group Count": 0,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.npc.EntityZooKeeper",
-      "Weight": 3,
-      "Min Group Count": 0,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "org.zawamod.entity.flying.EntityBaldEagle",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityBrownRat",
-      "Weight": 6,
-      "Min Group Count": 2,
-      "Max Group Count": 5
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityCoconutCrab",
-      "Weight": 15,
-      "Min Group Count": 2,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "org.zawamod.entity.flying.EntityFrigate",
-      "Weight": 12,
-      "Min Group Count": 2,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityGrizzlyBear",
-      "Weight": 10,
-      "Min Group Count": 1,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityKomodoDragon",
-      "Weight": 15,
-      "Min Group Count": 2,
-      "Max Group Count": 4
-    },
-    {
-      "Entity Class": "org.zawamod.entity.land.EntityMarineIguana",
-      "Weight": 14,
-      "Min Group Count": 2,
-      "Max Group Count": 3
-    },
-    {
-      "Entity Class": "org.zawamod.entity.npc.EntityPoacher",
-      "Weight": 3,
-      "Min Group Count": 0,
-      "Max Group Count": 1
     }
   ],
   "Spawnable Monsters": [
@@ -161,8 +71,8 @@
     },
     {
       "Entity Class": "me.swirtzly.angels.common.entities.EntityWeepingAngel",
-      "Weight": 20,
-      "Min Group Count": 2,
+      "Weight": 5,
+      "Min Group Count": 1,
       "Max Group Count": 4
     },
     {
@@ -256,12 +166,6 @@
       "Weight": 10,
       "Min Group Count": 1,
       "Max Group Count": 4
-    },
-    {
-      "Entity Class": "org.zawamod.entity.water.EntityCichlid",
-      "Weight": 20,
-      "Min Group Count": 2,
-      "Max Group Count": 5
     }
   ],
   "Spawnable Cave Creatures": [
