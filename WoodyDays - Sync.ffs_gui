@@ -27,6 +27,13 @@
             <Item>*.ffs_gui</Item>
             <Item>\music\</Item>
             <Item>\journeymap\</Item>
+            <Item>\patchouli_data.json</Item>
+            <Item>\realms_persistence.json</Item>
+            <Item>\usercache.json</Item>
+            <Item>\usernamecache.json</Item>
+            <Item>\.mixin.out\audit\</Item>
+            <Item>*\local\</Item>
+            <Item>*\logs\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
