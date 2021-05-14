@@ -28,5 +28,5 @@
 [Acid_Rain_Client_Settings]
 	#Remove the smoke particles emitted by the acid rain.
 	#Default is false.
-	RemoveParticles = false
+	RemoveParticles = true
 

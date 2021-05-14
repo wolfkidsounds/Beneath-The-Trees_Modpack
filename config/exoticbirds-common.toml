@@ -5,7 +5,7 @@
 		#A list of dimensions that no birds are able to spawn in
 		blacklistedSpawningDimensions = []
 		#Allow non-tamed birds to naturally despawn
-		allowDespawning = false
+		allowDespawning = true
 		#A list of biomes that no birds are able to spawn in
 		blacklistedSpawningBiomes = []
 
@@ -14,7 +14,7 @@
 		allowEggs = true
 		#How many ticks it takes for a bird to lay an egg
 		#Range: > 6000
-		eggLayRate = 12000
+		eggLayRate = 24000
 		#Allow chicken eggs to drop eggshell when broken
 		createVanillaEggshell = true
 		#Allow eggs from this mod to drop eggshell when broken
@@ -25,7 +25,7 @@
 		blacklistedNestGenBiomes = []
 		#How many nests, on average, should appear when generated (0 = disabled; 1 = few; 100+ = many)
 		#Range: > 0
-		nestGenRate = 8
+		nestGenRate = 1
 		#A list of dimensions that nests are not able to generate in
 		blacklistedNestGenDimensions = []
 		#Allow eggs to regenerate in nests

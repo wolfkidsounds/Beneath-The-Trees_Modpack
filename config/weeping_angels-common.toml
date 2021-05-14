@@ -3,11 +3,11 @@
 	#Config to toggle the generation of arms in snow biomes
 	arms = true
 	#Configure whether Catacombs Structures spawn. This will require a restart when changed.
-	genCatacombs = true
+	genCatacombs = false
 	#Configure whether Graveyard Structures spawn. This will require a restart when changed.
-	genGraveyard = true
+	genGraveyard = false
 	#Configure whether the mods ores spawn. This MAY require a restart when changed.
-	genOres = true
+	genOres = false
 
 [spawn]
 	#Note: A list of biomes where angels should spawn.
@@ -17,10 +17,10 @@
 	spawnType = "MONSTER"
 	#The maximum amount of angels per biome
 	#Range: 1 ~ 100
-	maximumSpawn = 1
+	maximumSpawn = 5
 	#The angel spawn spawn weight
 	#Range: 1 ~ 100
-	spawnWeight = 5
+	spawnWeight = 1
 	#The minimum amount of angels per biome
 	#Range: 1 ~ 100
 	minimumSpawn = 1
@@ -30,20 +30,20 @@
 	pickaxeOnly = true
 	#The damage dealt by an angel
 	#Range: 1.0 ~ 1.7976931348623157E308
-	damage = 8.0
+	damage = 10.0
 	#XP gained from angels
 	#Range: > 1
 	xpGained = 25
 	#Determines the range the angels will look for players within, personally, I'd stay under 100
 	#Range: 1 ~ 100
-	stalkRange = 65
+	stalkRange = 50
 	#The maximum range a angel can break blocks within
 	#Range: 1 ~ 120
 	blockBreakRange = 15
 	#If this is enabled, baby angels will blow out light items from the players hand
 	torchBlowOut = true
 	#if enabled, angels will freeze when they see one another. (Impacts performance a bit)
-	freezeOnAngel = false
+	freezeOnAngel = true
 	#If this is enabled, angels will break blocks (If gamerules allow)
 	blockBreaking = true
 	#Toggle seen sounds
@@ -57,16 +57,16 @@
 	damageType = "ANY_PICKAXE_AND_GENERATOR_ONLY"
 	#Determines the angels move speed
 	#Range: 0.1 ~ 1.7976931348623157E308
-	angelMovementSpeed = 0.5
+	angelMovementSpeed = 0.2
 
 [teleport]
 	#Note: This a list of dimensions that angels should NOT teleport you to.
 	notAllowedDimensions = ["minecraft:the_end"]
 	#Should Angels target creative players?
-	aggroCreative = true
+	aggroCreative = false
 	#The maximum range a user can be teleported by the Angels
 	#Range: > 1
-	teleportRange = 450
+	teleportRange = 150
 	#If this is enabled, angel teleporting can also tp the player to other dimensions
 	angelDimTeleport = true
 	#Teleport Type - STRUCTURES: Teleports you to Structures Only - DONT: No Teleporting, only damage - RANDOM: Anywhere
