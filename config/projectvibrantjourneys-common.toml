@@ -1,0 +1,44 @@
+
+#Project: Vibrant Journeys settings
+[Settings]
+
+	#Mob Spawn Settings
+	[Settings."Mob Spawns"]
+		#Tropical fish in jungles
+		jungleTropicalFish = true
+
+	#World Gen Settings
+	[Settings."World Gen"]
+		#Denser river grass
+		moreGrassInRivers = true
+		fallenTrees = true
+		seaOats = true
+		#Seagrass in lakes
+		moreSeagrass = true
+		barkMushrooms = true
+		netherNettles = true
+		glowcap = true
+		bushes = true
+		cobwebs = true
+		cattails = true
+
+		[Settings."World Gen".Groundcover]
+			iceChunks = true
+			#Groundcover Biome Blacklist, example: ["minecraft:plains", "minecraft:beach"]
+			groundcoverBlacklist = []
+			rocks = true
+			seashells = true
+			bones = true
+			twigs = true
+			# % chance of groundcover placement
+			#Range: 0 ~ 100
+			groundcoverChance = 100
+			pinecones = true
+			fallenLeaves = true
+			charredBones = true
+
+	#Biome Settings
+	[Settings.Biomes]
+		verdantSands = true
+		overgrownSpires = true
+

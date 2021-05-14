@@ -1,0 +1,13 @@
+[17:53:00.039][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[17:53:02.495][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+'aquaculture' at version '1.16.5-2.1.18'
+'crafttweaker' at version '7.1.0.283'
+'createtweaker' at version '1.0.0.12'
+'gamestages' at version '7.1.2'
+'immersiveengineering' at version '1.16.5-4.2.4-134'
+'immersivepetroleum' at version '3.2.0-3'
+'jeitweaker' at version '1.0.1.15'
+'recipestages' at version '2.0.0.14'
+[17:53:03.805][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[17:53:40.826][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
+[17:53:42.535][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
