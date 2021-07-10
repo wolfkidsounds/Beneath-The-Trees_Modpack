@@ -18,8 +18,8 @@ alternatives = [["aluminum", "aluminium", "bauxite"]]
 	harvest = true
 	#Unify drops when entities die
 	death = true
-	#Unify items in player's inventory when they change
-	change = true
 	#Unify every second items in player's inventory
 	second = false
+	#Unify items in player's inventory when they change
+	change = true
 

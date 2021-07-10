@@ -7,20 +7,20 @@
 "Dimension Whitelist" = ["minecraft:overworld"]
 
 [Features]
-	#Enable to generate vines in fungal, lush and mossy cave biomes
-	"Generate Vines" = true
-	#Enable to generate patches (varying heights of slabs and snow) in cave biomes.
-	"Generate Patches" = true
-	#Enable to generate puddles in lush, mossy muddy, dead coral cave biomes
-	"Generate Puddles" = true
 	#Enable to generate stone buttons in rocky cave biomes
 	"Generate Buttons" = true
+	#Enable to generate vines in fungal, lush and mossy cave biomes
+	"Generate Vines" = true
+	#Enable to generate puddles in lush, mossy muddy, dead coral cave biomes
+	"Generate Puddles" = true
 	#Enable to generate stairs in cave biomes. Slope Generation Chance must also be above 0 for stairs to generate.
 	"Generate Stairs" = true
-	#Enable to generate speleothems in cave biomes.
-	"Generate Speleothems" = true
 	#Enable to generate slabs in cave biomes. Slope Generation Chance must also be above 0 for slabs to generate.
 	"Generate Slabs" = true
+	#Enable to generate patches (varying heights of slabs and snow) in cave biomes.
+	"Generate Patches" = true
+	#Enable to generate speleothems in cave biomes.
+	"Generate Speleothems" = true
 
 [Frequencies]
 	#The chance of a slab or stairs generating normally in caves. Higher numbers increase the amount of slabs/stairs/slopes. Zero should stop generating them entirely.

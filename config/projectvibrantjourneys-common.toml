@@ -2,43 +2,61 @@
 #Project: Vibrant Journeys settings
 [Settings]
 
-	#Mob Spawn Settings
-	[Settings."Mob Spawns"]
-		#Tropical fish in jungles
-		jungleTropicalFish = false
-
 	#World Gen Settings
 	[Settings."World Gen"]
-		#Denser river grass
-		moreGrassInRivers = true
-		fallenTrees = true
 		seaOats = true
+		cattails = true
+		barkMushrooms = true
+		cobwebs = true
+		bushes = true
+		glowcap = true
+		netherNettles = true
+		shortGrass = true
+		beachGrass = true
+		fallenTrees = true
 		#Seagrass in lakes
 		moreSeagrass = true
-		barkMushrooms = true
-		netherNettles = true
-		glowcap = true
-		bushes = true
-		cobwebs = true
-		cattails = true
+		#Denser river grass
+		moreGrassInRivers = true
 
 		[Settings."World Gen".Groundcover]
-			iceChunks = true
-			#Groundcover Biome Blacklist, example: ["minecraft:plains", "minecraft:beach"]
-			groundcoverBlacklist = []
 			rocks = true
-			seashells = true
-			bones = true
 			twigs = true
+			fallenLeaves = true
+			bones = true
+			charredBones = true
+			iceChunks = true
+			pinecones = true
+			seashells = true
 			# % chance of groundcover placement
 			#Range: 0 ~ 100
-			groundcoverChance = 50
-			pinecones = true
-			fallenLeaves = true
-			charredBones = true
+			groundcoverChance = 100
+			#Groundcover Biome Blacklist, example: ["minecraft:plains", "minecraft:beach"]
+			groundcoverBlacklist = []
+
+	[Settings."Mob Settings"]
+
+		[Settings."Mob Settings"."Mob Toggles"]
+			"Enable Flies" = true
+			"Enable Fireflies" = true
+			"Enable Starfish" = true
+			"Enable Clams" = true
+			"Enable Snails" = true
+			"Enable Slugs" = true
+			"Enable Small Spiders" = true
+			"Enable Frogs" = true
+
+		[Settings."Mob Settings"."Misc Mob Settings"]
+			"Mute Flies" = false
+
+		[Settings."Mob Settings"."Vanilla Mob Settings"]
+			#Tropical fish in jungles
+			jungleTropicalFish = true
+			#Bats spawn outside at night
+			nightBats = true
 
 	#Biome Settings
 	[Settings.Biomes]
-		verdantSands = true
 		overgrownSpires = true
+		verdantSands = true
 
