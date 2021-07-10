@@ -3,7 +3,7 @@
 	#Config to toggle the generation of arms in snow biomes
 	arms = true
 	#Configure whether the mods ores spawn. This MAY require a restart when changed.
-	genOres = true
+	genOres = false
 	#Configure whether Graveyard Structures spawn. This will require a restart when changed.
 	genGraveyard = true
 	#Configure whether Catacombs Structures spawn. This will require a restart when changed.
@@ -44,15 +44,15 @@
 	#If this is enabled, baby angels will blow out light items from the players hand
 	torchBlowOut = true
 	#if enabled, angels will freeze when they see one another. (Impacts performance a bit)
-	freezeOnAngel = false
+	freezeOnAngel = true
 	#if enabled, Only pickaxes and generators will work on the angels
 	pickaxeOnly = true
 	#Determines the range the angels will look for players within, personally, I'd stay under 100
 	#Range: 1 ~ 100
-	stalkRange = 65
+	stalkRange = 50
 	#Determines the angels move speed
 	#Range: 0.1 ~ 1.7976931348623157E308
-	angelMovementSpeed = 0.2
+	angelMovementSpeed = 0.1
 	#If this is enabled, angels will break blocks (If gamerules allow)
 	blockBreaking = true
 	#The maximum range a angel can break blocks within

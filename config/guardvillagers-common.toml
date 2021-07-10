@@ -13,7 +13,7 @@
 #This makes Illagers run from polar bears, as anyone with common sense would.
 "Have Illagers have some common sense?" = true
 #This makes Guards run from polar bears, as anyone with common sense would.
-"Have Guards have some common sense?" = false
+"Have Guards have some common sense?" = true
 #This lets Guards open doors.
 "Have Guards open doors?" = true
 #This will make guards raise their shields all the time, on default they will only raise their shields under certain conditions
