@@ -1,3 +1,0 @@
-This is the Beneath The Trees modpack.
-
-The modpack is currently in an early alpha stage. Please report any bugs to the issue tracker on github.
