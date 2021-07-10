@@ -1,5 +1,5 @@
 version:2586
-autoJump:true
+autoJump:false
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -9,7 +9,7 @@ entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
 invertYMouse:false
-realmsNotifications:true
+realmsNotifications:false
 reducedDebugInfo:false
 snooperEnabled:false
 showSubtitles:false
@@ -33,8 +33,8 @@ graphicsMode:2
 ao:2
 biomeBlendRadius:4
 renderClouds:true
-resourcePacks:[]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","mod_resources","packmenu","quark:emote_resources"]
+incompatibleResourcePacks:["packmenu","quark:emote_resources"]
 lastServer:
 lang:en_us
 chatVisibility:0
