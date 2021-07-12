@@ -30,7 +30,7 @@ ofRainSplash:true
 ofLagometer:false
 ofShowFps:false
 ofAutoSaveTicks:4000
-ofBetterGrass:3
+ofBetterGrass:2
 ofConnectedTextures:2
 ofWeather:true
 ofSky:true
@@ -43,7 +43,7 @@ ofTime:0
 ofAaLevel:0
 ofAfLevel:1
 ofProfiler:false
-ofBetterSnow:false
+ofBetterSnow:true
 ofSwampColors:true
 ofRandomEntities:true
 ofCustomFonts:true
@@ -51,7 +51,7 @@ ofCustomColors:true
 ofCustomItems:true
 ofCustomSky:true
 ofShowCapes:true
-ofNaturalTextures:false
+ofNaturalTextures:true
 ofEmissiveTextures:true
 ofLazyChunkLoading:true
 ofRenderRegions:true
