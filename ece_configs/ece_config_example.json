@@ -1,0 +1,34 @@
+{
+  "blood": [
+    {
+      "name": "minecraft:cow",
+      "whitelist": true,
+      "onlyDrop": false,
+      "overwriteOriginalDrop": false,
+      "drops": [
+        {
+          "name": "minecraft:iron_ingot",
+          "minAmount": 1,
+          "maxAmount": 3,
+          "chance": 30
+        }
+      ]
+    }
+  ],
+  "harvest": [
+    {
+      "name": "minecraft:slime",
+      "whitelist": true,
+      "onlyDrop": false,
+      "overwriteOriginalDrop": true,
+      "drops": [
+        {
+          "name": "minecraft:iron_ingot",
+          "minAmount": 1,
+          "maxAmount": 3,
+          "chance": 30
+        }
+      ]
+    }
+  ]
+}

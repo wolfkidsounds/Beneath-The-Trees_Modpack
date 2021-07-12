@@ -6,9 +6,9 @@
 	#Whether to add local marker for the spot where the player died.
 	autoDeathMarker = true
 	#Whether to add global markers for NPC villages.
-	autoVillageMarkers = true
+	autoVillageMarkers = false
 	#Whether to add global markers for Nether Portals.
-	autoNetherPortalMarkers = true
+	autoNetherPortalMarkers = false
 	#Player will need to craft atlas item to use atlas.
 	itemNeeded = true
 
@@ -31,21 +31,21 @@
 	#Note that this will not force faraway chunks to load, unless force_chunk_loading is enabled.
 	#Lower value gives better performance.
 	#Range: > 0
-	scanRadius = 11
+	scanRadius = 6
 	#Force loading of chunks within scan radius even if it exceeds regular chunk loading distance.
 	#Enabling this may SEVERELY decrease performance!
 	forceChunkLoading = false
 	#Time in seconds between two scans of the area.
 	#Higher value gives better performance.
 	#Range: 0.0 ~ 2.147483647E9
-	newScanInterval = 1.0
+	newScanInterval = 2.0
 	#Whether to rescan chunks in the area that have been previously mapped. This is useful in case of changes in coastline (including small ponds of water and lava), or if land disappears completely (for sky worlds).
 	#Disable for better performance.
 	doRescan = true
 	#The number of area scans between full rescans.
 	#Higher value gives better performance.
 	#Range: 1 ~ 1000
-	rescanRate = 4
+	rescanRate = 8
 	#The maximum number of markers a particular atlas can hold.
 	#Range: > 0
 	markerLimit = 1024
@@ -110,7 +110,7 @@
 	borderY = 0.05
 	#If true, the minimap will show the map of an atlas only while it is held.
 	#If false, the minimap will show the map of the first atlas in the hotbar.
-	requiresHold = true
+	requiresHold = false
 	#Set true to enable minimap
-	enabled = false
+	enabled = true
 

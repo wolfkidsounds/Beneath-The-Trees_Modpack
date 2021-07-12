@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "wolfkidsounds",
+      "uniqueId": "87dd8c4a-e438-4dc3-8770-a3b24746589f"
+    },
+    "time": 1626014392296,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/tZAama0rj8"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "wolfkidsounds",
+      "uniqueId": "87dd8c4a-e438-4dc3-8770-a3b24746589f"
+    },
+    "time": 1626012424685,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/R4S8u7kcm2"
+    }
+  }
+]

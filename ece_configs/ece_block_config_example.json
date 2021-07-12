@@ -1,0 +1,17 @@
+{
+  "blood": [
+    {
+      "name": "minecraft:stone",
+      "isWhitelist": true,
+      "drops": [
+        {
+          "name": "minecraft:iron_ingot",
+          "minAmount": 1,
+          "maxAmount": 2,
+          "chance": 40
+        }
+      ]
+    }
+  ],
+  "harvest": []
+}
