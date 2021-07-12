@@ -1,0 +1,16 @@
+{
+  "blood": [
+    {
+      "name": "minecraft:nether_wart",
+      "isWhitelist": true,
+      "allowBonemeal": true
+    }
+  ],
+  "harvest": [
+    {
+      "name": "minecraft:wheat",
+      "isWhitelist": true,
+      "allowBonemeal": false
+    }
+  ]
+}
