@@ -16,7 +16,7 @@ nVidia = false
 	saturationThreshold = 0.1
 
 [shortGrass]
-	enabled = true
+	enabled = false
 	grassEnabled = true
 	myceliumEnabled = true
 	snowEnabled = true
@@ -40,7 +40,7 @@ nVidia = false
 	snowEnabled = false
 
 [roundLogs]
-	enabled = true
+	enabled = false
 	plantsOnly = true
 	#Range: 0.0 ~ 0.5
 	radiusSmall = 0.25
@@ -141,11 +141,11 @@ nVidia = false
 	#Range: 0.25 ~ 1.5
 	size = 0.75
 	#Range: 0.001 ~ 1.0
-	chance = 0.02
+	chance = 0.04
 	#Range: 0.01 ~ 1.0
 	perturb = 0.25
 	#Range: 1.0 ~ 15.0
-	lifetime = 5.0
+	lifetime = 10.0
 	opacityHack = true
 
 [risingSoul]
