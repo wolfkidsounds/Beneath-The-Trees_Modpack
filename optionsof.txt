@@ -62,7 +62,7 @@ ofDynamicLights:2
 ofScreenshotSize:1
 ofCustomEntityModels:true
 ofCustomGuis:true
-ofShowGlErrors:true
+ofShowGlErrors:false
 ofFastMath:true
 ofFastRender:false
 ofTranslucentBlocks:0
