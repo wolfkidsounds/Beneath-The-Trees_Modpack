@@ -33,7 +33,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:4
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","quark:emote_resources","file/Better Leaves Add-on V2.3-1.16.zip","file/FreshAnimations_v1.3.zip","file/New Ores 1.16.5 Version 3.zip","file/TZP 1.16.zip","file/Vanilla_Additions_Dark_GUI_Add-On_1.2.zip","file/xali\u0027s Enchanted Books v0.6.zip"]
+resourcePacks:["vanilla","mod_resources","file/xali\u0027s Enchanted Books v0.6.zip","file/New Ores 1.16.5 Version 3.zip","file/Vanilla_Additions_1.8.4.zip","file/Better dogs V1.13.zip","file/TZP 1.16.zip","file/Stay_True_1.16.zip","file/Abnormal Bushy Leaves - 2.zip","file/Better Leaves Add-on V2.3-1.16.zip","file/FreshAnimations_v1.3.zip","file/Vanilla_Additions_Dark_GUI_Add-On_1.2.zip"]
 incompatibleResourcePacks:["quark:emote_resources"]
 lastServer:
 lang:en_us
@@ -136,9 +136,9 @@ key_sndctrl.text.quickvolumemenu.open:key.keyboard.v:CONTROL
 key_sndctrl.text.soundconfig.open:key.keyboard.i:CONTROL
 key_key.astikorcarts.desc:key.keyboard.r
 key_key.backpack:key.keyboard.b
+key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_placebo.toggleWings:key.keyboard.keypad.8
 key_placebo.toggleTrails:key.keyboard.keypad.9
-key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_Piston Pushcart Up:key.keyboard.space
 key_Piston Pushcart Down:key.keyboard.left.control
 key_key.next_image:key.keyboard.down
@@ -150,16 +150,14 @@ key_key.lower_ship_sail:key.keyboard.j
 key_key.higher_ship_sail:key.keyboard.k
 key_key.endergetic.booflo_vest:key.keyboard.space
 key_key.endergetic.booflo_slam:key.keyboard.x
-key_walljump.key.walljump:key.keyboard.left.shift
 key_key.storagenetwork.remote:key.keyboard.i
+key_walljump.key.walljump:key.keyboard.left.shift
 key_key.toastcontrol.clear:key.keyboard.j
 key_keybinds.show_wounds:key.keyboard.h
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
-key_quark.keybind.change_hotbar:key.keyboard.z
 key_quark.keybind.lock_rotation:key.keyboard.k
-key_quark.keybind.back:key.mouse.4
 key_quark.emote.no:key.keyboard.unknown
 key_quark.emote.yes:key.keyboard.unknown
 key_quark.emote.wave:key.keyboard.unknown
@@ -178,19 +176,21 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
+key_quark.keybind.transfer_insert:key.keyboard.unknown
+key_quark.keybind.transfer_extract:key.keyboard.unknown
+key_quark.keybind.shift_lock:key.keyboard.unknown
 key_key.inventoryhud.toggle:key.keyboard.i
 key_key.inventoryhud.openconfig:key.keyboard.o
 key_key.inventoryhud.togglepot:key.keyboard.unknown
 key_key.inventoryhud.togglearm:key.keyboard.unknown
 key_key.inventoryhud.toggleall:key.keyboard.unknown
+key_quark.keybind.change_hotbar:key.keyboard.z
+key_create.keyinfo.toolmenu:key.keyboard.left.alt
+key_quark.keybind.autorun:key.keyboard.caps.lock
 key_quark.keybind.sort_player:key.keyboard.unknown
 key_quark.keybind.sort_container:key.keyboard.unknown
-key_quark.keybind.transfer_insert:key.keyboard.unknown
-key_quark.keybind.transfer_extract:key.keyboard.unknown
-key_quark.keybind.shift_lock:key.keyboard.unknown
-key_quark.keybind.autorun:key.keyboard.caps.lock
 key_quark.keybind.camera_mode:key.keyboard.f12
-key_create.keyinfo.toolmenu:key.keyboard.left.alt
+key_quark.keybind.back:key.mouse.4
 key_key.craftingtweaks.rotate:key.keyboard.unknown
 key_key.craftingtweaks.rotate_counter_clockwise:key.keyboard.unknown
 key_key.craftingtweaks.balance:key.keyboard.unknown
