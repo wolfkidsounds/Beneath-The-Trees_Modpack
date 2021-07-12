@@ -8,18 +8,18 @@
     "enableTextToSpeech": false,
     "maxHealthForRender": 40,
     "maxHeartsPerLine": 10,
-    "fluldMode": "NONE",
-    "reachDistance": 0.0
+    "fluldMode": "NONE"
   },
   "overlay": {
     "overlayPosX": 0.5,
-    "overlayPosY": 0.99,
+    "overlayPosY": 0.95,
+    "overlayScale": 1.0,
     "overlayAnchorX": 0.5,
     "overlayAnchorY": 0.0,
     "overlaySquare": false,
     "flipMainHand": false,
     "color": {
-      "alpha": 50,
+      "alpha": 0,
       "themes": [
         {
           "id": "waila:dark",
