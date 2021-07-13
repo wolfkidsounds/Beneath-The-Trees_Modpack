@@ -2,7 +2,7 @@
 [bns]
 	#Renders iChunUtil's GUIs (Boxes & Stuff) in a Minecraft Style instead. 1 = Vanilla Style, 2 = Texture Pack Style
 	#Range: 0 ~ 2
-	guiMinecraftStyle = 0
+	guiMinecraftStyle = 2
 	#How much padding to add to the docked windows
 	#Range: 0 ~ 50
 	guiDockPadding = 0
