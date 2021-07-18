@@ -117,9 +117,6 @@ displayTooLargePackets = true
 	#Set the max login timeout during connection in ticks. 20 ticks = 1 sec, default = 120 seconds
 	#Range: 600 ~ 20000
 	logintimeout = 2400
-	#Set the watchdog timeout for the integrated server in miliseconds, -1 Disables it. 1 second = 1000 miliseconds, default = 180000
-	#Range: -1 ~ 500000
-	singlePlayerWatchDogTimeout = 180000
 	#Set the amount of items at which too many stacked items report their position. Default = 100 items
 	#Range: 2 ~ 1000
 	maxItems = 100
@@ -132,4 +129,7 @@ displayTooLargePackets = true
 	printWorldSaves = false
 	#Enable various debugging error logs, like chunkloading etc. , default = false
 	debugOptionsEnabled = false
+	#Set the watchdog timeout for the integrated server in miliseconds, -1 Disables it. 1 second = 1000 miliseconds, default = 180000
+	#Range: -1 ~ 500000
+	singlePlayerWatchDogTimeout = 180000
 
