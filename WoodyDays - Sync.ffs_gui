@@ -41,6 +41,8 @@
             <Item>*\dumps\</Item>
             <Item>\config\spark\</Item>
             <Item>*\OptiFine_1.16.5_HD_U_G8.jar</Item>
+            <Item>*\chardata.properties</Item>
+            <Item>*\screenshots\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
