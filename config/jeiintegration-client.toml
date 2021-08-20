@@ -4,9 +4,9 @@
 	# Configure tooltip for burn time.
 	burnTimeTooltipMode = "disabled"
 	# Configure tooltip for durability.
-	durabilityTooltipMode = "enabled"
+	durabilityTooltipMode = "disabled"
 	# Configure tooltip for hunger and saturation.
-	foodTooltipMode = "enabled"
+	foodTooltipMode = "disabled"
 	# Configure tooltip for max stack size.
 	maxStackSizeTooltipMode = "disabled"
 	# Configure tooltip for NBT data.
