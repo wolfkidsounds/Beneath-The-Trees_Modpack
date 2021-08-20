@@ -2,7 +2,7 @@
 ["Ore Generation Settings"]
 	#determines if default copper ore should generate.
 	#Note: this doesn't disable the generation of modded copper ore
-	generateCopperOre = false
+	generateCopperOre = true
 	#determines if tuff blobs should generate between y0 - y16
 	generateTuffBlobs = true
 	#determines if deepslate blobs should generate between y0 - y16
