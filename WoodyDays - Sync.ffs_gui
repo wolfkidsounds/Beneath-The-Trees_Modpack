@@ -6,8 +6,16 @@
         <IgnoreTimeShift/>
     </Compare>
     <Synchronize>
-        <Variant>Mirror</Variant>
-        <DetectMovedFiles>false</DetectMovedFiles>
+        <Variant>Custom</Variant>
+        <CustomDirections>
+            <LeftOnly>left</LeftOnly>
+            <RightOnly>left</RightOnly>
+            <LeftNewer>left</LeftNewer>
+            <RightNewer>left</RightNewer>
+            <Different>right</Different>
+            <Conflict>left</Conflict>
+        </CustomDirections>
+        <DetectMovedFiles>true</DetectMovedFiles>
         <DeletionPolicy>RecycleBin</DeletionPolicy>
         <VersioningFolder Style="Replace"/>
     </Synchronize>
