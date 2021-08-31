@@ -33,8 +33,8 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:4
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","file/Infernal Resources.zip","file/Stay_True_1.16.zip","file/Vanilla_Additions_1.8.4.zip","file/New Ores 1.16.5 Version 3.zip","file/Better dogs V1.13.zip","file/TZP 1.16.zip","file/Better-Leaves-5.2-§31.13+§o.zip","file/Better Leaves Add-on V2.3-1.16.zip","file/FreshAnimations_v1.3.zip","quark:emote_resources","file/Luminous1.2.zip","file/Jaden\u0027s Nether Expansion v1.0.0.zip","file/Quark Programmer Art.zip","file/xali\u0027s Enchanted Books v0.7.zip","file/Creatures+1.8.zip","file/Crops-3D_MC1.16.5_v1.0.0.zip","file/Human Villagers v9.zip","file/STONEBORN - 1.16.5 - V2.1.zip","file/Water+Improved.zip","file/Waterlogged-v1.0.zip"]
-incompatibleResourcePacks:["quark:emote_resources","file/xali\u0027s Enchanted Books v0.7.zip"]
+resourcePacks:["vanilla","mod_resources","file/Infernal Resources.zip","file/Stay_True_1.16.zip","file/Vanilla_Additions_1.8.4.zip","file/New Ores 1.16.5 Version 3.zip","file/Better dogs V1.13.zip","file/TZP 1.16.zip","file/Better Leaves Add-on V2.3-1.16.zip","file/FreshAnimations_v1.3.zip","quark:emote_resources","file/Luminous1.2.zip","file/Jaden\u0027s Nether Expansion v1.0.0.zip","file/Quark Programmer Art.zip","file/xali\u0027s Enchanted Books v0.7.zip","file/Creatures+1.8.zip","file/Crops-3D_MC1.16.5_v1.0.0.zip","file/Human Villagers v9.zip","file/STONEBORN - 1.16.5 - V2.1.zip","file/Water+Improved.zip","file/Waterlogged-v1.0.zip","file/Better-Leaves-6.0-1.13+§6.zip"]
+incompatibleResourcePacks:["quark:emote_resources","file/xali\u0027s Enchanted Books v0.7.zip","file/Better-Leaves-6.0-1.13+§6.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -101,10 +101,10 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_of.key.zoom:key.keyboard.c
-key_key.enchdesc.show:key.keyboard.left.shift
 key_key.village_employment.evoker_attack:key.keyboard.v
 key_key.village_employment.ravager_forward_control:key.keyboard.w
 key_key.village_employment.ravager_backward_control:key.keyboard.s
+key_key.enchdesc.show:key.keyboard.left.shift
 key_key.ftbchunks.map:key.keyboard.m
 key_key.itemzoom.toggle:key.keyboard.z:SHIFT
 key_key.itemzoom.hold:key.keyboard.unknown
@@ -118,20 +118,14 @@ key_key.carry.desc:key.keyboard.left.shift
 key_key.immersiveengineering.magnetEquip:key.keyboard.s
 key_key.immersiveengineering.railgunZoom:key.mouse.middle
 key_key.immersiveengineering.chemthrowerSwitch:key.keyboard.unknown
-key_Strip World:key.keyboard.delete
-key_Dress World:key.keyboard.insert
-key_Open Config:key.keyboard.home
-key_Add Block:key.keyboard.page.up
-key_Remove Block:key.keyboard.page.down
-key_Cycle Profile:key.keyboard.end
 key_key.curios.open.desc:key.keyboard.g
 key_key.togglecleanview:key.keyboard.unknown
 key_key.veinmining.activate.desc:key.keyboard.unknown
 key_sndctrl.text.quickvolumemenu.open:key.keyboard.v:CONTROL
 key_sndctrl.text.soundconfig.open:key.keyboard.i:CONTROL
 key_key.cofh.mode_change_increment:key.keyboard.v
-key_key.astikorcarts.desc:key.keyboard.r
 key_key.backpack:key.keyboard.b
+key_key.astikorcarts.desc:key.keyboard.r
 key_placebo.toggleWings:key.keyboard.keypad.8
 key_placebo.toggleTrails:key.keyboard.keypad.9
 key_key.ftbquests.quests:key.keyboard.unknown
@@ -141,18 +135,18 @@ key_key.lower_ship_sail:key.keyboard.j
 key_key.higher_ship_sail:key.keyboard.k
 key_key.endergetic.booflo_vest:key.keyboard.space
 key_key.endergetic.booflo_slam:key.keyboard.x
-key_key.storagenetwork.remote:key.keyboard.i
 key_key.toastcontrol.clear:key.keyboard.j
+key_key.storagenetwork.remote:key.keyboard.i
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
-key_key.epicfight.show_tooltip:key.keyboard.p
-key_key.epicfight.switch_mode:key.keyboard.r
-key_key.epicfight.dodge:key.keyboard.left.shift
-key_key.epicfight.weapon_special_skill:key.mouse.left
+key_quark.keybind.transfer_insert:key.keyboard.unknown
+key_quark.keybind.transfer_extract:key.keyboard.unknown
+key_quark.keybind.shift_lock:key.keyboard.unknown
+key_quark.keybind.sort_player:key.keyboard.unknown
+key_quark.keybind.sort_container:key.keyboard.unknown
+key_quark.keybind.camera_mode:key.keyboard.f12
 key_quark.keybind.change_hotbar:key.keyboard.z
-key_quark.keybind.lock_rotation:key.keyboard.k
-key_quark.keybind.autorun:key.keyboard.caps.lock
 key_quark.emote.no:key.keyboard.unknown
 key_quark.emote.yes:key.keyboard.unknown
 key_quark.emote.wave:key.keyboard.unknown
@@ -171,13 +165,13 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
-key_quark.keybind.transfer_insert:key.keyboard.unknown
-key_quark.keybind.transfer_extract:key.keyboard.unknown
-key_quark.keybind.shift_lock:key.keyboard.unknown
 key_quark.keybind.back:key.mouse.4
-key_quark.keybind.sort_player:key.keyboard.unknown
-key_quark.keybind.sort_container:key.keyboard.unknown
-key_quark.keybind.camera_mode:key.keyboard.f12
+key_quark.keybind.autorun:key.keyboard.caps.lock
+key_key.epicfight.show_tooltip:key.keyboard.p
+key_key.epicfight.switch_mode:key.keyboard.r
+key_key.epicfight.dodge:key.keyboard.left.shift
+key_key.epicfight.weapon_special_skill:key.mouse.left
+key_quark.keybind.lock_rotation:key.keyboard.k
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_key.craftingtweaks.rotate:key.keyboard.unknown
 key_key.craftingtweaks.rotate_counter_clockwise:key.keyboard.unknown
