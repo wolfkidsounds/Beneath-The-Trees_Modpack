@@ -1,29 +1,29 @@
 
-[custom_weaponry]
-
-	[custom_weaponry.sample]
-		registry_name = "modid:registryname"
-		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, KNUCKLE, LONGSWORD, DAGGER, BOW, CROSSBOW
-		weapon_type = "SWORD"
-		impact = 0.5
-		armor_ignorance = 0.0
-		hit_at_once = 1
-
-[custom_armor]
-
-	[custom_armor.sample]
-		registry_name = "modid:registryname"
-		weight = 0.0
-		stun_armor = 0.0
-
 [custom_entity]
 
 	[custom_entity.sample]
 		type_name = "modid:type_name"
-		texture_location = "modid:texture_location"
+		impact = 0.5
+		max_strikes = 1
+		armor_negation = 0.0
 		#Allowed Values: ZOMBIE, SKELETON, CREEPER, SPIDER, VINDICATOR
 		ai_type = "ZOMBIE"
+		texture_location = "modid:texture_location"
+
+[custom_weaponry]
+
+	[custom_weaponry.sample]
+		armor_ignorance = 0.0
+		hit_at_once = 1
 		impact = 0.5
-		armor_negation = 0.0
-		max_strikes = 1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, TACHI, LONGSWORD, DAGGER, BOW, CROSSBOW, TRIDENT
+		weapon_type = "SWORD"
+		registry_name = "modid:registryname"
+
+[custom_armor]
+
+	[custom_armor.sample]
+		stun_armor = 0.0
+		weight = 0.0
+		registry_name = "modid:registryname"
 
