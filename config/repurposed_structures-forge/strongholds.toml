@@ -14,7 +14,7 @@
 	# Minimum Y height that Nether stronghold's starting point can spawn at.
 	# Note: Strongholds will spawn between min and max y height set in config.
 	#Range: 0 ~ 255
-	netherStrongholdMinHeight = 10
+	netherStrongholdMinHeight = 5
 	#
 	# Maximum Y height that Nether stronghold's starting point can spawn at.
 	# Note: Strongholds will spawn between min and max y height set in config.

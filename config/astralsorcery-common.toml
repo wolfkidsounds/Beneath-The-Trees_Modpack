@@ -37,18 +37,6 @@
 		#Range: 1 ~ 512
 		separation = 4
 
-	[worldgen.rock_crystal]
-		#Set this to false to disable this worldgen feature.
-		enabled = true
-		#Set this to true to let this feature generate in any biome.
-		everyBiome = true
-		#Set this to true to let this feature generate in any world. (Does NOT work for structures!)
-		everyWorld = false
-		#Sets the categories to generate this feature in. Available categories: none,taiga,extreme_hills,jungle,mesa,plains,savanna,icy,the_end,beach,forest,ocean,desert,river,swamp,mushroom,nether
-		biomeCategoryNames = []
-		#Sets the worlds to generate this feature in. (Does NOT work for structures!)
-		worldNames = ["overworld"]
-
 	[worldgen.aquamarine]
 		#Set this to false to disable this worldgen feature.
 		enabled = true
@@ -60,6 +48,18 @@
 		biomeCategoryNames = []
 		#Sets the worlds to generate this feature in. (Does NOT work for structures!)
 		worldNames = ["overworld"]
+
+	[worldgen.marble]
+		#Set this to false to disable this worldgen feature.
+		enabled = true
+		#Set this to true to let this feature generate in any biome.
+		everyBiome = true
+		#Set this to true to let this feature generate in any world. (Does NOT work for structures!)
+		everyWorld = true
+		#Sets the categories to generate this feature in. Available categories: none,taiga,extreme_hills,jungle,mesa,plains,savanna,icy,the_end,beach,forest,ocean,desert,river,swamp,mushroom,nether
+		biomeCategoryNames = []
+		#Sets the worlds to generate this feature in. (Does NOT work for structures!)
+		worldNames = []
 
 	[worldgen.small_shrine]
 		#Set this to false to disable this worldgen feature.
@@ -79,18 +79,6 @@
 		#Range: 1 ~ 512
 		separation = 4
 
-	[worldgen.marble]
-		#Set this to false to disable this worldgen feature.
-		enabled = true
-		#Set this to true to let this feature generate in any biome.
-		everyBiome = true
-		#Set this to true to let this feature generate in any world. (Does NOT work for structures!)
-		everyWorld = true
-		#Sets the categories to generate this feature in. Available categories: none,taiga,extreme_hills,jungle,mesa,plains,savanna,icy,the_end,beach,forest,ocean,desert,river,swamp,mushroom,nether
-		biomeCategoryNames = []
-		#Sets the worlds to generate this feature in. (Does NOT work for structures!)
-		worldNames = []
-
 	[worldgen.glow_flower]
 		#Set this to false to disable this worldgen feature.
 		enabled = true
@@ -100,6 +88,18 @@
 		everyWorld = false
 		#Sets the categories to generate this feature in. Available categories: none,taiga,extreme_hills,jungle,mesa,plains,savanna,icy,the_end,beach,forest,ocean,desert,river,swamp,mushroom,nether
 		biomeCategoryNames = ["icy", "extreme_hills"]
+		#Sets the worlds to generate this feature in. (Does NOT work for structures!)
+		worldNames = ["overworld"]
+
+	[worldgen.rock_crystal]
+		#Set this to false to disable this worldgen feature.
+		enabled = true
+		#Set this to true to let this feature generate in any biome.
+		everyBiome = true
+		#Set this to true to let this feature generate in any world. (Does NOT work for structures!)
+		everyWorld = false
+		#Sets the categories to generate this feature in. Available categories: none,taiga,extreme_hills,jungle,mesa,plains,savanna,icy,the_end,beach,forest,ocean,desert,river,swamp,mushroom,nether
+		biomeCategoryNames = []
 		#Sets the worlds to generate this feature in. (Does NOT work for structures!)
 		worldNames = ["overworld"]
 

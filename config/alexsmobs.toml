@@ -93,10 +93,10 @@
 	voidWormSummonable = true
 	#Whether seagulls should steal food out of players' hotbar slots.
 	seagullStealing = true
-	#Whether the Clinging Potion effect should flip the screen. Warning: may cause nausea.
-	clingingFlipEffect = false
 	#List of items that seagulls cannot take from players.
 	seagullStealingBlacklist = []
+	#Whether the Clinging Potion effect should flip the screen. Warning: may cause nausea.
+	clingingFlipEffect = false
 
 	[general.spawning]
 		#Spawn Weight, added to a pool of other mobs for each biome. Higher number = higher chance of spawning. 0 = disable spawn

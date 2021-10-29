@@ -4,7 +4,7 @@
     "shiftForDetails": false,
     "displayMode": "TOGGLE",
     "hideFromDebug": true,
-    "showItem": true,
+    "iconMode": "TOP",
     "enableTextToSpeech": false,
     "maxHealthForRender": 40,
     "maxHeartsPerLine": 10,

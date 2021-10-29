@@ -65,7 +65,7 @@
 	# Controls how often Mineshafts will spawn. 0 for no Mineshafts and 1000 for max spawnrate.
 	# Adds End themed Mineshafts to End biomes outside the Enderdragon island.
 	#Range: 0.0 ~ 1000.0
-	endMineshaftSpawnrate = 40.0
+	endMineshaftSpawnrate = 60.0
 	#
 	# Controls how often Mineshafts will spawn. 0 for no Mineshafts and 1000 for max spawnrate.
 	# Adds Nether themed Mineshafts to non-crimson and non-warped Nether biomes.
