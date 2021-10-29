@@ -59,9 +59,7 @@
       "spawnRate": 7.0,
       "biomeBlacklist": [],
       "biomeWhitelist": [
-        "mountains",
-        "wooded_mountains",
-        "gravelly_mountains"
+        "MOUNTAIN"
       ]
     },
     {
@@ -133,9 +131,7 @@
       "spawnRate": 5.0,
       "biomeBlacklist": [],
       "biomeWhitelist": [
-        "mountains",
-        "wooded_mountains",
-        "gravelly_mountains"
+        "MOUNTAIN"
       ]
     }
   ]

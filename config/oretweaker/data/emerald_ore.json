@@ -9,9 +9,7 @@
       "spawnRate": 5.0,
       "biomeBlacklist": [],
       "biomeWhitelist": [
-        "minecraft:mountains",
-        "minecraft:wooded_mountains",
-        "minecraft:gravelly_mountains"
+        "MOUNTAIN"
       ]
     }
   ]
