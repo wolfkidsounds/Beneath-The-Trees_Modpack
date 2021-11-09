@@ -55,6 +55,7 @@
             <Item>*\manifest.json</Item>
             <Item>*\modlist.html</Item>
             <Item>*\reauth.toml</Item>
+            <Item>\config\jei\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
