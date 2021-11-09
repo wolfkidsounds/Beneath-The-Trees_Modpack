@@ -33,8 +33,8 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:7
 renderClouds:true
-resourcePacks:[]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","mod_resources","file/Infernal Resources.zip","file/Vanilla_Additions_1.8.4.zip","file/Jaden\u0027s Nether Expansion v1.0.0.zip","file/Stay_True_1.16.zip","file/Waterlogged-v1.0.zip","file/New Ores 1.16.5 Version 3.zip","file/Better Leaves Add-on V2.3-1.16.zip","file/xali\u0027s Enchanted Books v0.8.zip","file/§b§lHuman Villagers §cv10.0.zip","file/FreshAnimations_v1.3.zip","file/Luminous1.2.zip","file/EmbellishedStone.zip","file/§6French§0⠀§6Fonts§0⠀§8(1.16-1.17).zip"]
+incompatibleResourcePacks:["file/xali\u0027s Enchanted Books v0.8.zip","file/§b§lHuman Villagers §cv10.0.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -103,12 +103,12 @@ key_key.hotbar.9:key.keyboard.9
 key_key.village_employment.evoker_attack:key.keyboard.v
 key_key.village_employment.ravager_forward_control:key.keyboard.w
 key_key.village_employment.ravager_backward_control:key.keyboard.s
-key_key.ftbchunks.map:key.keyboard.m
-key_key.ftbchunks.minimap.zoomIn:key.keyboard.equal
-key_key.ftbchunks.minimap.zoomOut:key.keyboard.minus
 key_key.charm.openCraftingTable:key.keyboard.v
 key_key.charm.openEnderChest:key.keyboard.b
+key_key.ftbchunks.map:key.keyboard.m
 key_key.enchdesc.show:key.keyboard.left.shift
+key_key.ftbchunks.minimap.zoomIn:key.keyboard.equal
+key_key.ftbchunks.minimap.zoomOut:key.keyboard.minus
 key_key.itemzoom.toggle:key.keyboard.z:SHIFT
 key_key.itemzoom.hold:key.keyboard.unknown
 key_key.itemzoom.zoom.in:key.keyboard.unknown
@@ -129,11 +129,11 @@ key_Cycle Profile:key.keyboard.end
 key_placebo.toggleWings:key.keyboard.keypad.8
 key_placebo.toggleTrails:key.keyboard.keypad.9
 key_key.curios.open.desc:key.keyboard.g
-key_key.astralsorcery.disable_perk_abilities:key.keyboard.v
 key_key.ship_sail:key.keyboard.r
 key_key.ship_inventory:key.keyboard.i
 key_key.lower_ship_sail:key.keyboard.j
 key_key.higher_ship_sail:key.keyboard.k
+key_key.astralsorcery.disable_perk_abilities:key.keyboard.v
 key_key.togglecleanview:key.keyboard.unknown
 key_key.veinmining.activate.desc:key.keyboard.unknown
 key_key.storagenetwork.remote:key.keyboard.i
@@ -143,10 +143,10 @@ key_sndctrl.text.soundconfig.open:key.keyboard.i:CONTROL
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
-key_key.endergetic.booflo_vest:key.keyboard.space
-key_key.endergetic.booflo_slam:key.keyboard.x
 key_key.astikorcarts.desc:key.keyboard.r
 key_key.backpack:key.keyboard.b
+key_key.endergetic.booflo_vest:key.keyboard.space
+key_key.endergetic.booflo_slam:key.keyboard.x
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_key.paraglider.paragliderSettings:key.keyboard.p:CONTROL
