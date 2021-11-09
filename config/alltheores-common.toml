@@ -3,7 +3,7 @@
 	#Enable Aluminum Worldgen
 	aluminum = true
 	#Enable Copper Worldgen
-	copper = true
+	copper = false
 	#Enable Lead Worldgen
 	lead = true
 	#Enable Nickel Worldgen
@@ -15,7 +15,7 @@
 	#Enable Silver Worldgen
 	silver = true
 	#Enable Tin Worldgen
-	tin = true
+	tin = false
 	#Enable Uranium Worldgen
 	uranium = false
 	#Enable Zinc Worldgen
@@ -32,10 +32,10 @@
 		aluminum_max_y = 70
 		#Aluminum deposit size
 		#Range: 1 ~ 64
-		aluminum_deposit_size = 7
+		aluminum_deposit_size = 30
 		#Aluminum veins per chunk
 		#Range: 1 ~ 64
-		aluminum_vein_count = 10
+		aluminum_vein_count = 2
 
 	[spawntuning.copper]
 		#Copper bottom Y level for spawn
@@ -46,10 +46,10 @@
 		copper_max_y = 60
 		#Copper deposit size
 		#Range: 1 ~ 64
-		copper_deposit_size = 7
+		copper_deposit_size = 40
 		#Copper veins per chunk
 		#Range: 1 ~ 64
-		copper_vein_count = 10
+		copper_vein_count = 2
 
 	[spawntuning.zinc]
 		#Zinc bottom Y level for spawn
@@ -60,10 +60,10 @@
 		zinc_max_y = 60
 		#Zinc deposit size
 		#Range: 1 ~ 64
-		zinc_deposit_size = 7
+		zinc_deposit_size = 30
 		#Zinc veins per chunk
 		#Range: 1 ~ 64
-		zinc_vein_count = 10
+		zinc_vein_count = 2
 
 	[spawntuning.lead]
 		#Lead bottom Y level for spawn
@@ -74,10 +74,10 @@
 		lead_max_y = 40
 		#Lead deposit size
 		#Range: 1 ~ 64
-		lead_deposit_size = 7
+		lead_deposit_size = 30
 		#Lead veins per chunk
 		#Range: 1 ~ 64
-		lead_vein_count = 8
+		lead_vein_count = 2
 
 	[spawntuning.nickel]
 		#Nickel bottom Y level for spawn
@@ -88,10 +88,10 @@
 		nickel_max_y = 25
 		#Nickel deposit size
 		#Range: 1 ~ 64
-		nickel_deposit_size = 6
+		nickel_deposit_size = 30
 		#Nickel veins per chunk
 		#Range: 1 ~ 64
-		nickel_vein_count = 4
+		nickel_vein_count = 2
 
 	[spawntuning.osmium]
 		#Osmium bottom Y level for spawn
@@ -102,10 +102,10 @@
 		osmium_max_y = 40
 		#Osmium deposit size
 		#Range: 1 ~ 64
-		osmium_deposit_size = 7
+		osmium_deposit_size = 30
 		#Osmium veins per chunk
 		#Range: 1 ~ 64
-		osmium_vein_count = 8
+		osmium_vein_count = 2
 
 	[spawntuning.platinum]
 		#Platinum bottom Y level for spawn
@@ -116,10 +116,10 @@
 		platinum_max_y = 25
 		#Platinum deposit size
 		#Range: 1 ~ 64
-		platinum_deposit_size = 3
+		platinum_deposit_size = 30
 		#Platinum veins per chunk
 		#Range: 1 ~ 64
-		platinum_vein_count = 6
+		platinum_vein_count = 2
 
 	[spawntuning.silver]
 		#Silver bottom Y level for spawn
@@ -130,10 +130,10 @@
 		silver_max_y = 40
 		#Silver deposit size
 		#Range: 1 ~ 64
-		silver_deposit_size = 8
+		silver_deposit_size = 30
 		#Silver veins per chunk
 		#Range: 1 ~ 64
-		silver_vein_count = 8
+		silver_vein_count = 2
 
 	[spawntuning.tin]
 		#Tin bottom Y level for spawn
@@ -144,10 +144,10 @@
 		tin_max_y = 60
 		#Tin deposit size
 		#Range: 1 ~ 64
-		tin_deposit_size = 7
+		tin_deposit_size = 30
 		#Tin veins per chunk
 		#Range: 1 ~ 64
-		tin_vein_count = 10
+		tin_vein_count = 2
 
 	[spawntuning.uranium]
 		#Uranium bottom Y level for spawn
@@ -158,8 +158,8 @@
 		uranium_max_y = 25
 		#Uranium deposit size
 		#Range: 1 ~ 64
-		uranium_deposit_size = 4
+		uranium_deposit_size = 30
 		#Uranium veins per chunk
 		#Range: 1 ~ 64
-		uranium_vein_count = 6
+		uranium_vein_count = 2
 
