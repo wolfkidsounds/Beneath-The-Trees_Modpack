@@ -1,0 +1,22 @@
+
+["Vanilla Seed Options"]
+	#Decrease chance of drops of wheat seeds from grass, 100 is vanilla default drop rate, <100 is the x% of default (1 is 1% of default rate)
+	#Range: 1 ~ 100
+	"Drop Rate Change" = 1
+
+["Dead Bush Drops"]
+	#Decrease chance of drops from all dead bush blocks, 100 is vanilla default drop rate, <100 is the x% of default (1 is 1% of default rate)
+	#Range: 1 ~ 100
+	"Drop Rate Change" = 100
+
+["Mod Compat Options"]
+	#Decrease chance of drops of modded seeds from grass, 100 is vanilla default drop rate, <100 is the x% of default (1 is 1% of default rate)
+	#Range: 1 ~ 100
+	"Drop Rate Change" = 100
+	#Mod Compat - Planttech2: Allow Planttech2's guidebook to drop?
+	"True/False" = true
+
+["Debugging Options"]
+	#Should debug messages be printed to the logs/server console?
+	"True/False" = false
+
