@@ -9,17 +9,17 @@
 	#Enable Nickel Worldgen
 	nickel = true
 	#Enable Osmium Worldgen
-	osmium = true
+	osmium = false
 	#Enable Platinum Worldgen
-	platinum = true
+	platinum = false
 	#Enable Silver Worldgen
 	silver = true
 	#Enable Tin Worldgen
 	tin = true
 	#Enable Uranium Worldgen
-	uranium = true
+	uranium = false
 	#Enable Zinc Worldgen
-	zinc = true
+	zinc = false
 
 [spawntuning]
 
@@ -88,10 +88,10 @@
 		nickel_max_y = 25
 		#Nickel deposit size
 		#Range: 1 ~ 64
-		nickel_deposit_size = 7
+		nickel_deposit_size = 6
 		#Nickel veins per chunk
 		#Range: 1 ~ 64
-		nickel_vein_count = 8
+		nickel_vein_count = 4
 
 	[spawntuning.osmium]
 		#Osmium bottom Y level for spawn
@@ -127,10 +127,10 @@
 		silver_min_y = 1
 		#Silver top Y level for spawn
 		#Range: 1 ~ 254
-		silver_max_y = 25
+		silver_max_y = 40
 		#Silver deposit size
 		#Range: 1 ~ 64
-		silver_deposit_size = 5
+		silver_deposit_size = 8
 		#Silver veins per chunk
 		#Range: 1 ~ 64
 		silver_vein_count = 8
