@@ -5,8 +5,8 @@
       "filler": "minecraft:stone",
       "minY": 4,
       "maxY": 32,
-      "maxVeinSize": 10,
-      "spawnRate": 2.5,
+      "maxVeinSize": 1,
+      "spawnRate": 5.0,
       "biomeBlacklist": [],
       "biomeWhitelist": [
         "MOUNTAIN"
