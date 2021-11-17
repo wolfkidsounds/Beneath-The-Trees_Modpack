@@ -1,9 +1,0 @@
-
-[brewKettle]
-	#Set the Brew Kettle processing time in ticks.
-	#Range: 20 ~ 24000
-	DefaultProcessingTime = 600
-	#Set the light level for the brew kettle when it is lit. Setting to 0 uses neighbor light level.
-	#Range: 0 ~ 15
-	LitLightLevel = 15
-

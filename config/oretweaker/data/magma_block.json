@@ -6,7 +6,7 @@
       "minY": 26,
       "maxY": 36,
       "maxVeinSize": 10,
-      "spawnRate": 8.0,
+      "spawnRate": 15.0,
       "biomeBlacklist": [],
       "biomeWhitelist": []
     }
