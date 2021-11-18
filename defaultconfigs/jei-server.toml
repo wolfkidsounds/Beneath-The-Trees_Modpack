@@ -3,7 +3,7 @@
 	#Enable Cheat Mode for Operators (/op)
 	enableCheatModeForOp = true
 	#Enable Cheat Mode for users in Creative Mode
-	enableCheatModeForCreative = true
+	enableCheatModeForCreative = false
 	#Enable Cheat Mode for users who can use /give
 	enableCheatModeForGive = false
 
