@@ -42,7 +42,7 @@ customization {
   textcolor = #93ebd0
   action = addtext
   actionid = 44d71759-afec-40f0-8e87-40d5035246141637247978181
-  y = 28
+  y = 36
   scale = 2.0
   alignment = left
   value = Beneath The Trees
@@ -55,7 +55,7 @@ customization {
   width = 545
   action = addtexture
   actionid = fe36c83b-66d2-49ca-88e0-0277d74e785a1637248126387
-  y = 67
+  y = 83
   height = 100
 }
 
