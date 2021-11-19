@@ -27,7 +27,7 @@
 	#Hurt entity when clicked and there is no ambient sound to play.
 	"Hurt Entity" = false
 	#Blacklist to prevent certain entities form rendering. Problematic entities will be added automatically upon being detected.
-	"Entity Blacklist" = ["minecraft:ender_dragon", "minecraft:evoker_fangs", "minecraft:falling_block", "minecraft:area_effect_cloud", "minecraft:item", "minecraft:fishing_bobber", "minecraft:magma_cube", "minecraft:player", "minecraft:hoglin"]
+	"Entity Blacklist" = ["minecraft:ender_dragon", "minecraft:evoker_fangs", "minecraft:falling_block", "minecraft:area_effect_cloud", "minecraft:item", "minecraft:fishing_bobber", "minecraft:magma_cube", "minecraft:player", "minecraft:hoglin", "minecraft:blaze"]
 	#When to show reload button on main menu. By default requires the control key to be pressed.
 	#Allowed Values: NEVER, RIGHT_CONTROL, RIGHT_ALWAYS, LEFT_CONTROL, LEFT_ALWAYS
 	"Reload Button" = "RIGHT_ALWAYS"
