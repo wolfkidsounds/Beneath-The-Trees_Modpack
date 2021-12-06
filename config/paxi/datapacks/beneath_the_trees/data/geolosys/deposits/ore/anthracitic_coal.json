@@ -1,10 +1,9 @@
-{
-  "type": "geolosys:deposit_layer",
+{                                                      
+  "type": "geolosys:deposit_dense",
   "config": {
     "yMin": 2,
     "yMax": 10,
-    "radius": 12,
-    "depth": 16,
+    "size": 24,
     "dimensions": {
       "isBlacklist": false,
       "filter": [

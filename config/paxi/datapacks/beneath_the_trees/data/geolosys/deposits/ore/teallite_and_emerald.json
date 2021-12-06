@@ -1,38 +1,30 @@
-{
-  "type": "geolosys:deposit_dike",
+{                                                      
+  "type": "geolosys:deposit_dense",                    
   "config": {
-    "blocks": [
-      {
-        "block": "geolosys:teallite_ore",
-        "chance": 0.6
-      },
-      {
-        "block": "geolosys:beryl_ore",
-        "chance": 0.4
-      }
-    ],
-    "samples": [
-      {
-        "block": "geolosys:teallite_ore_sample",
-        "chance": 1.0
-      }
-    ],
-    "yMin": 8,
-    "yMax": 43,
-    "baseRadius": 36,
-    "biomes": {
-      "isBlacklist": false,
-      "filter": [
-        "RIVER",
-        "HOT"
-      ]
-    },
-    "dimensions": {
-      "isBlacklist": false,
+    "yMin": 5,                                         
+    "yMax": 30,                                        
+    "size": 60,                                        
+    "dimensions": {                                    
+      "isBlacklist": false,                            
       "filter": [
         "overworld"
       ]
     },
-    "generationWeight": 2
+    "blockStateMatchers": [
+      "minecraft:stone"
+    ],       
+    "blocks": [{
+      "block": "geolosys:teallite_ore",
+      "chance": 0.6
+    },
+    {
+      "block": "geolosys:beryl_ore",
+      "chance": 0.4
+    }],
+    "samples": [{                                      
+      "block": "geolosys:teallite_ore_sample",
+      "chance": 1.0
+    }],
+    "generationWeight": 4                          
   }
 }

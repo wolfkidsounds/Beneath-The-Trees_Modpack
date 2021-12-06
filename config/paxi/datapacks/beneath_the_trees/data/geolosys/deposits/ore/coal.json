@@ -1,5 +1,5 @@
 {
-  "type": "geolosys:deposit_sparse",
+  "type": "geolosys:deposit_dense",
   "config": {
     "yMin": 8,
     "yMax": 78,
