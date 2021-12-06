@@ -19,11 +19,7 @@
     "blocks": [
       {
         "block": "geolosys:platinum_ore",
-        "chance": 0.67
-      },
-      {
-        "block": null,
-        "chance": 0.33
+        "chance": 1.0
       }
     ],
     "samples": [

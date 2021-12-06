@@ -13,11 +13,7 @@
     "blocks": [
       {
         "block": "geolosys:bauxite_ore",
-        "chance": 0.9
-      },
-      {
-        "block": null,
-        "chance": 0.1
+        "chance": 1.0
       }
     ],
     "samples": [

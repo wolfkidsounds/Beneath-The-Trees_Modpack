@@ -13,11 +13,7 @@
     "blocks": [
       {
         "block": "geolosys:kimberlite_ore",
-        "chance": 0.5
-      },
-      {
-        "block": null,
-        "chance": 0.5
+        "chance": 1.0
       }
     ],
     "samples": [

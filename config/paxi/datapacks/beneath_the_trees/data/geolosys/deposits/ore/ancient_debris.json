@@ -20,11 +20,7 @@
     "blocks": [
       {
         "block": "geolosys:ancient_debris_ore",
-        "chance": 0.6
-      },
-      {
-        "block": null,
-        "chance": 0.4
+        "chance": 1.0
       }
     ],
     "samples": [

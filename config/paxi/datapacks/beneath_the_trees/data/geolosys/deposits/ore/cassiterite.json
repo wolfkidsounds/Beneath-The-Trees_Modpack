@@ -22,11 +22,7 @@
     "blocks": [
       {
         "block": "geolosys:cassiterite_ore",
-        "chance": 0.75
-      },
-      {
-        "block": null,
-        "chance": 0.25
+        "chance": 1.0
       }
     ],
     "samples": [

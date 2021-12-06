@@ -3,7 +3,6 @@
   "config": {
     "yMin": 40,
     "yMax": 70,
-    "radius": 3,
     "depth": 4,
     "dimensions": {
       "isBlacklist": false,
@@ -14,11 +13,7 @@
     "blocks": [
       {
         "block": "geolosys:lignite_ore",
-        "chance": 0.85
-      },
-      {
-        "block": null,
-        "chance": 0.15
+        "chance": 1.0
       }
     ],
     "samples": [

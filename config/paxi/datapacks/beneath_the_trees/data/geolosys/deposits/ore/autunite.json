@@ -4,11 +4,11 @@
     "blocks": [
       {
         "block": "geolosys:autunite_ore",
-        "chance": 0.85
+        "chance": 0.9
       },
       {
         "block": "minecraft:granite",
-        "chance": 0.15
+        "chance": 0.1
       }
     ],
     "samples": [
@@ -19,7 +19,6 @@
     ],
     "yMin": 8,
     "yMax": 33,
-    "spread": 6,
     "size": 24,
     "biomes": {
       "isBlacklist": false,

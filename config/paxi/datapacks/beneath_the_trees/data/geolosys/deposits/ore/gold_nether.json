@@ -20,11 +20,7 @@
     "blocks": [
       {
         "block": "geolosys:nether_gold_ore",
-        "chance": 0.30
-      },
-      {
-        "block": null,
-        "chance": 0.70
+        "chance": 1.0
       }
     ],
     "samples": [

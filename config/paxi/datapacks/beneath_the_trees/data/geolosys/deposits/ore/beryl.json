@@ -19,11 +19,7 @@
     "blocks": [
       {
         "block": "geolosys:beryl_ore",
-        "chance": 0.45
-      },
-      {
-        "block": null,
-        "chance": 0.55
+        "chance": 1.0
       }
     ],
     "samples": [

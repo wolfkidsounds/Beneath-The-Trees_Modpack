@@ -4,7 +4,6 @@
     "yMin": 10,
     "yMax": 24,
     "size": 30,
-    "spread": 24,
     "biomes": {
       "isBlacklist": false,
       "filter": [
