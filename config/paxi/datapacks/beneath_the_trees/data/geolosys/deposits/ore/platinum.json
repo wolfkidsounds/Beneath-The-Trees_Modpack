@@ -3,7 +3,7 @@
   "config": {
     "yMin": 12,
     "yMax": 25,
-    "baseRadius": 4,
+    "baseRadius": 70,
     "biomes": {
       "isBlacklist": false,
       "filter": [

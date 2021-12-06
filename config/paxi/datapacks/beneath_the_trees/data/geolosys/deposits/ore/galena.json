@@ -3,7 +3,7 @@
   "config": {
     "yMin": 16,
     "yMax": 50,
-    "size": 32,
+    "size": 80,
     "biomes": {
       "isBlacklist": false,
       "filter": [

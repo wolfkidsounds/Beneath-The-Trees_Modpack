@@ -19,7 +19,7 @@
     ],
     "yMin": 8,
     "yMax": 33,
-    "size": 24,
+    "size": 36,
     "biomes": {
       "isBlacklist": false,
       "filter": [

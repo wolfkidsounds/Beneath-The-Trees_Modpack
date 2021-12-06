@@ -3,7 +3,7 @@
   "config": {
     "yMin": 40,
     "yMax": 70,
-    "depth": 4,
+    "depth": 16,
     "dimensions": {
       "isBlacklist": false,
       "filter": [
