@@ -1,6 +1,10 @@
 {
-  "type": "geolosys:deposit_dense",
+  "type": "geolosys:deposit_layer",
   "config": {
+    "yMin": 12,
+    "yMax": 44,
+    "radius": 12,
+    "depth": 16,
     "blocks": [
       {
         "block": "geolosys:malachite_ore",
@@ -21,9 +25,6 @@
         "chance": 0.6
       }
     ],
-    "yMin": 12,
-    "yMax": 44,
-    "size": 80,
     "dimensions": {
       "isBlacklist": false,
       "filter": [

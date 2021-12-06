@@ -1,10 +1,10 @@
 {
-  "type": "geolosys:deposit_sparse",
+  "type": "geolosys:deposit_layer",
   "config": {
     "yMin": 16,
     "yMax": 50,
-    "size": 32,
-    "spread": 32,
+    "radius": 35,
+    "depth": 16,
     "biomes": {
       "isBlacklist": false,
       "filter": [

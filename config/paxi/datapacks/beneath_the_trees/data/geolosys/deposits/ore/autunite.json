@@ -1,6 +1,16 @@
 {
-  "type": "geolosys:deposit_sparse",
+  "type": "geolosys:deposit_layer",
   "config": {
+    "yMin": 8,
+    "yMax": 33,
+    "radius": 24,
+    "depth": 6,
+    "dimensions": {
+      "isBlacklist": false,
+      "filter": [
+        "overworld"
+      ]
+    },
     "blocks": [
       {
         "block": "geolosys:autunite_ore",
@@ -17,22 +27,13 @@
         "chance": 1.0
       }
     ],
-    "yMin": 8,
-    "yMax": 33,
-    "spread": 6,
-    "size": 24,
     "biomes": {
       "isBlacklist": false,
       "filter": [
         "MOUNTAIN"
       ]
     },
-    "dimensions": {
-      "isBlacklist": false,
-      "filter": [
-        "overworld"
-      ]
-    },
+    
     "generationWeight": 4
   }
 }

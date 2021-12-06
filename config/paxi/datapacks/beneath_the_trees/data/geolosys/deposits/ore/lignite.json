@@ -14,11 +14,7 @@
     "blocks": [
       {
         "block": "geolosys:lignite_ore",
-        "chance": 0.85
-      },
-      {
-        "block": null,
-        "chance": 0.15
+        "chance": 1.0
       }
     ],
     "samples": [

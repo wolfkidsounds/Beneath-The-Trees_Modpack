@@ -3,8 +3,8 @@
   "config": {
     "yMin": 30,
     "yMax": 50,
-    "radius": 4,
-    "depth": 5,
+    "radius": 8,
+    "depth": 10,
     "dimensions": {
       "isBlacklist": false,
       "filter": [
@@ -14,11 +14,7 @@
     "blocks": [
       {
         "block": "geolosys:bituminous_coal_ore",
-        "chance": 0.55
-      },
-      {
-        "block": null,
-        "chance": 0.45
+        "chance": 1.0
       }
     ],
     "samples": [

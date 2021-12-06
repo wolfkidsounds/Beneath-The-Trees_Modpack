@@ -1,9 +1,10 @@
 {
-  "type": "geolosys:deposit_dense",
+  "type": "geolosys:deposit_layer",
   "config": {
     "yMin": 48,
     "yMax": 65,
-    "size": 25,
+    "radius": 25,
+    "depth": 6,
     "dimensions": {
       "isBlacklist": false,
       "filter": [
@@ -13,11 +14,7 @@
     "blocks": [
       {
         "block": "geolosys:bauxite_ore",
-        "chance": 0.9
-      },
-      {
-        "block": null,
-        "chance": 0.1
+        "chance": 1.0
       }
     ],
     "samples": [

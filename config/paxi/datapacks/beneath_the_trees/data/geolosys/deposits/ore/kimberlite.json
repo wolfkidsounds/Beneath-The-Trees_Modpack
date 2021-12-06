@@ -1,9 +1,10 @@
 {
-  "type": "geolosys:deposit_dike",
+  "type": "geolosys:deposit_layer",
   "config": {
     "yMin": 3,
     "yMax": 16,
-    "baseRadius": 3,
+    "radius": 3,
+    "depth": 12,
     "dimensions": {
       "isBlacklist": false,
       "filter": [
@@ -13,11 +14,7 @@
     "blocks": [
       {
         "block": "geolosys:kimberlite_ore",
-        "chance": 0.5
-      },
-      {
-        "block": null,
-        "chance": 0.5
+        "chance": 1.0
       }
     ],
     "samples": [

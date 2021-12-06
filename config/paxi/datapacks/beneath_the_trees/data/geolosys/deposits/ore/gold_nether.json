@@ -1,9 +1,10 @@
 {
-  "type": "geolosys:deposit_dense",
+  "type": "geolosys:deposit_layer",
   "config": {
     "yMin": 10,
     "yMax": 40,
-    "size": 35,
+    "radius": 35,
+    "depth": 6,
     "blockStateMatchers": [
       "minecraft:netherrack",
       "minecraft:basalt",
@@ -20,11 +21,7 @@
     "blocks": [
       {
         "block": "geolosys:nether_gold_ore",
-        "chance": 0.30
-      },
-      {
-        "block": null,
-        "chance": 0.70
+        "chance": 1.0
       }
     ],
     "samples": [

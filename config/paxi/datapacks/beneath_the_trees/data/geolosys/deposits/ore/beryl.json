@@ -1,9 +1,10 @@
 {
-  "type": "geolosys:deposit_dike",
+  "type": "geolosys:deposit_layer",
   "config": {
     "yMin": 4,
     "yMax": 32,
-    "baseRadius": 2,
+    "radius": 8,
+    "depth": 10,
     "biomes": {
       "isBlacklist": false,
       "filter": [
@@ -19,11 +20,7 @@
     "blocks": [
       {
         "block": "geolosys:beryl_ore",
-        "chance": 0.45
-      },
-      {
-        "block": null,
-        "chance": 0.55
+        "chance": 1.0
       }
     ],
     "samples": [
