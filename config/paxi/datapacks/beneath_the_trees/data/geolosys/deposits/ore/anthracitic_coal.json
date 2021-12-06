@@ -1,9 +1,10 @@
-{                                                      
-  "type": "geolosys:deposit_dense",
+{
+  "type": "geolosys:deposit_layer",
   "config": {
     "yMin": 2,
     "yMax": 10,
-    "size": 24,
+    "radius": 3,
+    "depth": 4,
     "dimensions": {
       "isBlacklist": false,
       "filter": [
@@ -13,7 +14,11 @@
     "blocks": [
       {
         "block": "geolosys:anthracite_coal_ore",
-        "chance": 1.0
+        "chance": 0.65
+      },
+      {
+        "block": null,
+        "chance": 0.35
       }
     ],
     "samples": [

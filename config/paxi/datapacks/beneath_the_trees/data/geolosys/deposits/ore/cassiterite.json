@@ -3,7 +3,7 @@
   "config": {
     "yMin": 44,
     "yMax": 68,
-    "size": 48,
+    "size": 24,
     "density": 1.0,
     "biomes": {
       "isBlacklist": false,
@@ -22,7 +22,11 @@
     "blocks": [
       {
         "block": "geolosys:cassiterite_ore",
-        "chance": 1.0
+        "chance": 0.75
+      },
+      {
+        "block": null,
+        "chance": 0.25
       }
     ],
     "samples": [

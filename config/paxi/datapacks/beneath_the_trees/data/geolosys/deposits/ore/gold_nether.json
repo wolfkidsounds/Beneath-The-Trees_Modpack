@@ -3,7 +3,7 @@
   "config": {
     "yMin": 10,
     "yMax": 40,
-    "size": 70,
+    "size": 35,
     "blockStateMatchers": [
       "minecraft:netherrack",
       "minecraft:basalt",
@@ -20,7 +20,11 @@
     "blocks": [
       {
         "block": "geolosys:nether_gold_ore",
-        "chance": 1.0
+        "chance": 0.30
+      },
+      {
+        "block": null,
+        "chance": 0.70
       }
     ],
     "samples": [

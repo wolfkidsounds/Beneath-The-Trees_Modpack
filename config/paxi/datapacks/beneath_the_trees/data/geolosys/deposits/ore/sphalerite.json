@@ -1,26 +1,28 @@
-{                                                      
-  "type": "geolosys:deposit_dense",                    
+{
+  "type": "geolosys:deposit_sparse",
   "config": {
-    "yMin": 5,                                         
-    "yMax": 30,                                        
-    "size": 60,                                        
-    "dimensions": {                                    
-      "isBlacklist": false,                            
+    "yMin": 37,
+    "yMax": 46,
+    "spread": 48,
+    "size": 28,
+    "dimensions": {
+      "isBlacklist": false,
       "filter": [
         "overworld"
       ]
     },
-    "blockStateMatchers": [
-      "minecraft:stone"
-    ],       
-    "blocks": [{                                       
-      "block": "geolosys:sphalerite_ore",
-      "chance": 1.0
-    }],
-    "samples": [{                                      
-      "block": "geolosys:sphalerite_ore_sample",
-      "chance": 1.0
-    }],
-    "generationWeight": 6                              
+    "blocks": [
+      {
+        "block": "geolosys:sphalerite_ore",
+        "chance": 1.0
+      }
+    ],
+    "samples": [
+      {
+        "block": "geolosys:sphalerite_ore_sample",
+        "chance": 1.0
+      }
+    ],
+    "generationWeight": 5
   }
 }

@@ -1,9 +1,9 @@
-{                                                      
-  "type": "geolosys:deposit_dense",                    
+{
+  "type": "geolosys:deposit_dike",
   "config": {
     "yMin": 32,
     "yMax": 60,
-    "size": 24,
+    "baseRadius": 2,
     "dimensions": {
       "isBlacklist": false,
       "filter": [
