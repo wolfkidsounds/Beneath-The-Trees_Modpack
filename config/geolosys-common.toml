@@ -15,7 +15,7 @@
 [prospecting]
 	#Maximum samples that can generate with each pluton within a chunk
 	#Range: 1 ~ 256
-	maxSamplesPerChunk = 32
+	maxSamplesPerChunk = 16
 	#The upper limit of RNG for generating any pluton in a given chunk.
 	#Larger values indicate further distance between plutons.
 	#Range: > 1
@@ -36,7 +36,7 @@
 	#Range: > 1
 	proPickDiameter = 5
 	#Give players a Field Manual if they haven't gotten one
-	giveManual = true
+	giveManual = false
 
 #Mod-Compat Settings
 [compat]
