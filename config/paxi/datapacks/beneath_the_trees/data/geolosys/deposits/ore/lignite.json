@@ -1,28 +1,27 @@
-{
-  "type": "geolosys:deposit_layer",
+{                                                      
+  "type": "geolosys:deposit_dense",
   "config": {
     "yMin": 40,
     "yMax": 70,
-    "radius": 3,
-    "depth": 4,
+    "size": 20,
     "dimensions": {
       "isBlacklist": false,
       "filter": [
         "overworld"
       ]
     },
-    "blocks": [
-      {
-        "block": "geolosys:lignite_ore",
-        "chance": 1.0
-      }
-    ],
-    "samples": [
-      {
-        "block": "geolosys:lignite_ore_sample",
-        "chance": 1.0
-      }
-    ],
+    "biomes": {
+      "isBlacklist": false,
+      "filter": [  ]
+    },
+    "blocks": [{
+      "block": "geolosys:lignite_ore",
+      "chance": 1.0
+    }],
+    "samples": [{
+      "block": "geolosys:lignite_ore_sample",
+      "chance": 1.0
+    }],
     "generationWeight": 7
   }
 }

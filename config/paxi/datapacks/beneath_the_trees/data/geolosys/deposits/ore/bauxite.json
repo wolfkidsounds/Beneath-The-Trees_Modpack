@@ -3,7 +3,7 @@
   "config": {
     "yMin": 48,
     "yMax": 65,
-    "radius": 25,
+    "radius": 30,
     "depth": 6,
     "dimensions": {
       "isBlacklist": false,

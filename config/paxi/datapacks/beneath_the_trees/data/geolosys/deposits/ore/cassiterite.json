@@ -3,8 +3,8 @@
   "config": {
     "yMin": 44,
     "yMax": 68,
-    "radius": 24,
-    "depth": 8,
+    "radius": 50,
+    "depth": 10,
     "biomes": {
       "isBlacklist": false,
       "filter": [

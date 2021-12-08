@@ -1,34 +1,25 @@
-{
-  "type": "geolosys:deposit_layer",
+{                                                      
+  "type": "geolosys:deposit_dense",
   "config": {
     "yMin": 12,
     "yMax": 25,
-    "radius": 12,
-    "depth": 16,
-    "biomes": {
-      "isBlacklist": false,
-      "filter": [
-        "MOUNTAIN"
-      ]
-    },
+    "size": 40,
     "dimensions": {
       "isBlacklist": false,
-      "filter": [
-        "overworld"
-      ]
+      "filter": [ "overworld" ]
     },
-    "blocks": [
-      {
-        "block": "geolosys:platinum_ore",
-        "chance": 1.0
-      }
-    ],
-    "samples": [
-      {
-        "block": "geolosys:platinum_ore_sample",
-        "chance": 1.0
-      }
-    ],
+    "biomes": {
+      "isBlacklist": false,
+      "filter": [ "MOUNTAIN" ]
+    },
+    "blocks": [{
+      "block": "geolosys:platinum_ore",
+      "chance": 1.0
+    }],
+    "samples": [{
+      "block": "geolosys:platinum_ore_sample",
+      "chance": 1.0
+    }],
     "generationWeight": 4
   }
 }

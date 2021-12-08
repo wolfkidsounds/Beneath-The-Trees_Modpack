@@ -1,28 +1,25 @@
-{
-  "type": "geolosys:deposit_layer",
+{                                                      
+  "type": "geolosys:deposit_dense",
   "config": {
     "yMin": 37,
     "yMax": 46,
-    "radius": 24,
-    "depth": 32,
+    "size": 30,
     "dimensions": {
       "isBlacklist": false,
-      "filter": [
-        "overworld"
-      ]
+      "filter": [ "overworld" ]
     },
-    "blocks": [
-      {
-        "block": "geolosys:sphalerite_ore",
-        "chance": 1.0
-      }
-    ],
-    "samples": [
-      {
-        "block": "geolosys:sphalerite_ore_sample",
-        "chance": 1.0
-      }
-    ],
-    "generationWeight": 5
+    "biomes": {
+      "isBlacklist": true,
+      "filter": [ ]
+    },
+    "blocks": [{
+      "block": "geolosys:sphalerite_ore",
+      "chance": 1.0
+    }],
+    "samples": [{
+      "block": "geolosys:sphalerite_ore_sample",
+      "chance": 1.0
+    }],
+    "generationWeight": 2
   }
 }
