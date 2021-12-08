@@ -3,8 +3,8 @@
   "config": {
     "yMin": 10,
     "yMax": 40,
-    "radius": 35,
-    "depth": 6,
+    "radius": 40,
+    "depth": 8,
     "blockStateMatchers": [
       "minecraft:netherrack",
       "minecraft:basalt",

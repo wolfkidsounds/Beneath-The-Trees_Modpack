@@ -3,7 +3,7 @@
   "config": {
     "yMin": 12,
     "yMax": 25,
-    "size": 40,
+    "size": 60,
     "dimensions": {
       "isBlacklist": false,
       "filter": [ "overworld" ]
