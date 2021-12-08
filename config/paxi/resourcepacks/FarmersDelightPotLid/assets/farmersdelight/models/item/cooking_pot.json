@@ -1,0 +1,96 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "farmersdelight:block/cooking_pot",
+		"particle": "farmersdelight:block/cooking_pot"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 10, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 6, 5], "texture": "#0"},
+				"east": {"uv": [6, 0, 12, 5], "texture": "#0"},
+				"south": {"uv": [0, 0, 6, 5], "texture": "#0"},
+				"west": {"uv": [6, 0, 12, 5], "texture": "#0"},
+				"up": {"uv": [6, 11, 0, 5], "texture": "#0"},
+				"down": {"uv": [12, 5, 6, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "handle right",
+			"from": [14, 7, 5],
+			"to": [16, 9, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 8, 8]},
+			"faces": {
+				"north": {"uv": [4, 11, 5, 12], "texture": "#0"},
+				"east": {"uv": [1, 12, 4, 13], "texture": "#0"},
+				"south": {"uv": [0, 11, 1, 12], "texture": "#0"},
+				"west": {"uv": [0, 0, 1.5, 0.5], "texture": "#0"},
+				"up": {"uv": [1, 11, 4, 12], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [1, 12, 4, 13], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"name": "handle left",
+			"from": [0, 7, 5],
+			"to": [2, 9, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"east": {"uv": [0, 0, 3, 1], "texture": "#0"},
+				"south": {"uv": [4, 11, 5, 12], "texture": "#0"},
+				"west": {"uv": [1, 12, 4, 13], "texture": "#0"},
+				"up": {"uv": [1, 11, 4, 12], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [1, 12, 4, 13], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 10, 3],
+			"to": [13, 11, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 18, 11]},
+			"faces": {
+				"north": {"uv": [6.5, 0.5, 11.5, 1], "texture": "#0"},
+				"east": {"uv": [11, 0.5, 11.5, 5.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [6.5, 5, 11.5, 5.5], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [6.5, 0.5, 7, 5.5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [6.5, 0.5, 11.5, 5.5], "texture": "#0"},
+				"down": {"uv": [6.5, 0.5, 11.5, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 11, 7],
+			"to": [9, 12, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 19, 11]},
+			"faces": {
+				"north": {"uv": [1.5, 12, 2.5, 12.5], "texture": "#0"},
+				"east": {"uv": [2.5, 12, 3.5, 12.5], "texture": "#0"},
+				"south": {"uv": [1.5, 12, 2.5, 12.5], "texture": "#0"},
+				"west": {"uv": [2.5, 12, 3.5, 12.5], "texture": "#0"},
+				"up": {"uv": [2, 11, 3, 12], "texture": "#0"},
+				"down": {"uv": [2, 11, 3, 12], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 0, 8],
+			"children": [0, 1, 2]
+		},
+		{
+			"name": "cooking_pot",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "podlid",
+					"origin": [8, 0, 8],
+					"children": [3, 4]
+				}
+			]
+		}
+	]
+}
