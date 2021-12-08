@@ -1,0 +1,33 @@
+{                                                      
+  "type": "geolosys:deposit_dense",
+  "config": {
+    "yMin": 12,
+    "yMax": 44,
+    "size": 45,
+    "dimensions": {
+      "isBlacklist": false,
+      "filter": [ "overworld" ]
+    },
+    "biomes": {
+      "isBlacklist": true,
+      "filter": [  ]
+    },
+    "blocks": [{
+      "block": "geolosys:malachite_ore",
+      "chance": 0.4
+    },
+    {
+      "block": "geolosys:azurite_ore",
+      "chance": 0.6
+    }],
+    "samples": [{
+      "block": "geolosys:malachite_ore_sample",
+      "chance": 0.4
+    },
+    {
+      "block": "geolosys:azurite_ore_sample",
+      "chance": 0.6
+    }],
+    "generationWeight": 4
+  }
+}

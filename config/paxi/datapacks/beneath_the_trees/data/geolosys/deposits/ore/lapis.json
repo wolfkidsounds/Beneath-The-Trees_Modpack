@@ -1,0 +1,29 @@
+{                                                      
+  "type": "geolosys:deposit_dense",
+  "config": {
+    "yMin": 10,
+    "yMax": 24,
+    "size": 45,
+    "dimensions": {
+      "isBlacklist": false,
+      "filter": [ "overworld" ]
+    },
+    "biomes": {
+      "isBlacklist": false,
+      "filter": [ "SANDY" ]
+    },
+    "blocks": [
+      {
+        "block": "geolosys:lapis_ore",
+        "chance": 1.0
+      }
+    ],
+    "samples": [
+      {
+        "block": "geolosys:lapis_ore_sample",
+        "chance": 1.0
+      }
+    ],
+    "generationWeight": 5
+  }
+}

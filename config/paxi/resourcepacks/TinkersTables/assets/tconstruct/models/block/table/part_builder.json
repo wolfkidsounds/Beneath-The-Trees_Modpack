@@ -1,0 +1,19 @@
+{
+  "loader": "tconstruct:table",
+  "parent": "tconstruct:block/table/table",
+	"textures": {
+		"top": "tconstruct:blocks/chest/partbuilder_top",	
+		"side": "tconstruct:blocks/chest/partbuilder_side",
+		"drawer": "tconstruct:blocks/chest/partbuilder_drawer",
+		"particle": "tconstruct:blocks/chest/partbuilder_top",
+		"leg": "blocks/planks_oak"
+	},
+	"retextured": [
+		"leg", "legBottom" 
+	],
+  "items": [
+    { "center": [  4.5, 17.5,     4.5 ], "size": 3 },
+    { "center": [  4.5, 16.3125, 11.5 ], "size": 5, "x": 270 },
+    { "center": [ 11.5, 17.5,     4.5 ], "size": 3 }
+  ]
+}

@@ -1,0 +1,25 @@
+{                                                      
+  "type": "geolosys:deposit_dense",
+  "config": {
+    "yMin": 4,
+    "yMax": 32,
+    "size": 24,
+    "dimensions": {
+      "isBlacklist": false,
+      "filter": [ "overworld" ]
+    },
+    "biomes": {
+      "isBlacklist": false,
+      "filter": [ "MOUNTAIN" ]
+    },
+    "blocks": [{
+      "block": "geolosys:beryl_ore",
+      "chance": 1.0
+    }],
+    "samples": [{
+      "block": "geolosys:beryl_ore_sample",
+      "chance": 1.0
+    }],
+    "generationWeight": 2
+  }
+}

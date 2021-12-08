@@ -1,0 +1,25 @@
+{                                                      
+  "type": "geolosys:deposit_dense",
+  "config": {
+    "yMin": 2,
+    "yMax": 10,
+    "size": 30,
+    "dimensions": {
+      "isBlacklist": false,
+      "filter": [ "overworld" ]
+    },
+    "biomes": {
+      "isBlacklist": true,
+      "filter": [  ]
+    },
+    "blocks": [{
+      "block": "geolosys:anthracite_coal_ore",
+      "chance": 1.0
+    }],
+    "samples": [{
+      "block": "geolosys:anthracite_coal_ore_sample",
+      "chance": 1.0
+    }],
+    "generationWeight": 4
+  }
+}

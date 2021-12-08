@@ -1,0 +1,29 @@
+{                                                      
+  "type": "geolosys:deposit_dense",
+  "config": {
+    "yMin": 8,
+    "yMax": 43,
+    "size": 30,
+    "dimensions": {
+      "isBlacklist": false,
+      "filter": [ "overworld" ]
+    },
+    "biomes": {
+      "isBlacklist": false,
+      "filter": [ "RIVER", "HOT" ]
+    },
+    "blocks": [{
+      "block": "geolosys:teallite_ore",
+      "chance": 0.8
+    },
+    {
+      "block": "geolosys:beryl_ore",
+      "chance": 0.2
+    }],
+    "samples": [{
+      "block": "geolosys:teallite_ore_sample",
+      "chance": 1.0
+    }],
+    "generationWeight": 2
+  }
+}
