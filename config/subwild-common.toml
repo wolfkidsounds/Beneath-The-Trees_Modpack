@@ -2,7 +2,7 @@
 "Expensive Scan" = true
 #The amount of non-solid blocks in front of a cave wall at which stairs and slabs spawn at a reduced rate to avoid high density narrow caves
 #Range: 0 ~ 16
-"Slope Threshold" = 3
+"Slope Threshold" = 4
 #The dimensions in which cave biomes will generate in
 "Dimension Whitelist" = ["minecraft:overworld"]
 
@@ -41,7 +41,7 @@
 [Frequencies]
 	#The chance of a slab or stairs generating normally in caves. Higher numbers increase the amount of slabs/stairs/slopes. Zero should stop generating them entirely.
 	#Range: 0 ~ 8
-	"Slope Generation Chance" = 3
+	"Slope Generation Chance" = 4
 	#The chance of a slab or stairs generating when within the Slope Threshold. Should be lower than the Slope Generation Chance.
 	#Range: 0 ~ 7
 	"Slope Threshold Generation Chance" = 2
