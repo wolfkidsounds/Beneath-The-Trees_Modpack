@@ -1,28 +1,25 @@
-{
-  "type": "geolosys:deposit_layer",
+{                                                      
+  "type": "geolosys:deposit_dense",
   "config": {
     "yMin": 5,
     "yMax": 12,
-    "radius": 50,
-    "depth": 8,
+    "size": 50,
     "dimensions": {
       "isBlacklist": false,
-      "filter": [
-        "overworld"
-      ]
+      "filter": [ "overworld" ]
     },
-    "blocks": [
-      {
-        "block": "geolosys:cinnabar_ore",
-        "chance": 1.0
-      }
-    ],
-    "samples": [
-      {
-        "block": "geolosys:cinnabar_ore_sample",
-        "chance": 1.0
-      }
-    ],
+    "biomes": {
+      "isBlacklist": true,
+      "filter": [  ]
+    },
+    "blocks": [{
+      "block": "geolosys:cinnabar_ore",
+      "chance": 1.0
+    }],
+    "samples": [{
+      "block": "geolosys:cinnabar_ore_sample",
+      "chance": 1.0
+    }],
     "generationWeight": 4
   }
 }

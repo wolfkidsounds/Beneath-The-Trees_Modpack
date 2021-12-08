@@ -1,28 +1,25 @@
-{
-  "type": "geolosys:deposit_layer",
+{                                                      
+  "type": "geolosys:deposit_dense",
   "config": {
     "yMin": 6,
     "yMax": 29,
-    "radius": 30,
-    "depth": 6,
+    "size": 30,
     "dimensions": {
       "isBlacklist": false,
-      "filter": [
-        "overworld"
-      ]
+      "filter": [ "overworld" ]
     },
-    "blocks": [
-      {
-        "block": "geolosys:quartz_ore",
-        "chance": 1.0
-      }
-    ],
-    "samples": [
-      {
-        "block": "geolosys:quartz_ore_sample",
-        "chance": 1.0
-      }
-    ],
+    "biomes": {
+      "isBlacklist": true,
+      "filter": [  ]
+    },
+    "blocks": [{
+      "block": "geolosys:quartz_ore",
+      "chance": 1.0
+    }],
+    "samples": [{
+      "block": "geolosys:quartz_ore_sample",
+      "chance": 1.0
+    }],
     "generationWeight": 6
   }
 }

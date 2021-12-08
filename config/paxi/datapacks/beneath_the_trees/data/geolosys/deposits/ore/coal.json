@@ -8,6 +8,10 @@
       "isBlacklist": false,
       "filter": [ "overworld" ]
     },
+    "biomes": {
+      "isBlacklist": true,
+      "filter": [  ]
+    },
     "blocks": [{
       "block": "geolosys:coal_ore",
       "chance": 1.0
