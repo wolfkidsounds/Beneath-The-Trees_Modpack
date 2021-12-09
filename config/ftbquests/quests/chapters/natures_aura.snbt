@@ -1,0 +1,10 @@
+{
+	id: "119711C01D263A2E"
+	group: "6C6F16E3D6C37D19"
+	order_index: 4
+	filename: "natures_aura"
+	title: "Natures Aura"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}
