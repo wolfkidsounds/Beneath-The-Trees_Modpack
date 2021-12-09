@@ -271,10 +271,10 @@
   },
   "island_biome_toggles": {
     "biomesoplenty:origin_valley": {
-      "enabled": true
+      "enabled": false
     },
     "biomesoplenty:rainbow_hills": {
-      "enabled": true
+      "enabled": false
     },
     "biomesoplenty:tropics": {
       "enabled": true

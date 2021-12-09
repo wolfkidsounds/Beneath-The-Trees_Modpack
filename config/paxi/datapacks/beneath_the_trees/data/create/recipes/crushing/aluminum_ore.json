@@ -1,0 +1,32 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:ores/aluminum"
+    }
+  ],
+  "results": [
+    {
+      "item": "immersiveengineering:dust_lead",
+      "count": 2
+    },
+    {
+      "item": "immersiveengineering:dust_silver",
+      "chance": 0.1
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 300,
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ores/aluminum",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}
