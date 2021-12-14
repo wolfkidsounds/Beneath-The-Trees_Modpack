@@ -1,0 +1,18 @@
+{
+    "type":"immersiveengineering:crusher",
+    "secondaries":[{
+        "chance":0.15,
+        "output":{
+            "tag":"forge:dusts/sulfur"},
+            "conditions":[{
+                "value":{
+                    "tag":"forge:dusts/sulfur",
+                    "type":"forge:tag_empty"},
+                    "type":"forge:not"}]}],
+                    "result":{
+                        "count":4,
+                        "base_ingredient":{
+                            "item":"geolosys:lignite_coal"}},
+                            "input":{
+                                "item":"geolosys:lignite_coal_ore"},
+                                "energy":6000}

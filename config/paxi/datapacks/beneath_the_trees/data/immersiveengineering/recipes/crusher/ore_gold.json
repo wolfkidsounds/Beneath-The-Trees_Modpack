@@ -1,0 +1,11 @@
+{
+    "type":"immersiveengineering:crusher",
+    "secondaries":[],
+    "result":{
+        "count":4,
+        "base_ingredient":{
+            "tag":"forge:dusts/gold"}},
+            "input":{
+                "tag":"forge:ores/gold"},
+                "energy":6000
+}
