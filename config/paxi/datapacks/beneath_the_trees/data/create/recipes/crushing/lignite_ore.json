@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "geolosys:lignite_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "geolosys:lignite_coal",
+      "count": 2
+    },
+    {
+      "item": "immersiveengineering:dust_sulfur",
+      "chance": 0.15
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 300
+}

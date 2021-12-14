@@ -2,22 +2,32 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "minecraft:emerald_ore"
+      "tag": "forge:ores/emerald"
     }
   ],
   "results": [
     {
       "item": "minecraft:emerald",
-      "count": 2
+      "count": 1
     },
     {
       "item": "minecraft:emerald",
-      "chance": 0.25
+      "count": 1,
+      "chance": 0.2
     },
     {
       "item": "minecraft:cobblestone",
       "chance": 0.125
     }
   ],
-  "processingTime": 500
+  "processingTime": 500,
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ores/emerald",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
 }

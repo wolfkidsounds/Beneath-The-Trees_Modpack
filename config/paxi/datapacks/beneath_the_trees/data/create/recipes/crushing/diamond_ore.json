@@ -12,12 +12,22 @@
     },
     {
       "item": "createaddition:diamond_grit",
-      "chance": 0.3
+      "chance": 0.5,
+      "count": 2
     },
     {
       "item": "minecraft:cobblestone",
       "chance": 0.125
     }
   ],
-  "processingTime": 500
+  "processingTime": 500,
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ores/diamond",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
 }

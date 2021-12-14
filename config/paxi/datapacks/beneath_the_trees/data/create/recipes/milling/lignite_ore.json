@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "geolosys:lignite_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "geolosys:lignite_coal"
+    }
+  ],
+  "processingTime": 300
+}

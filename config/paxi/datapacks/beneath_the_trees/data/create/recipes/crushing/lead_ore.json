@@ -7,12 +7,12 @@
   ],
   "results": [
     {
-      "item": "create:crushed_lead_ore"
+      "item": "immersiveengineering:dust_lead",
+      "count": 2
     },
     {
-      "item": "create:crushed_lead_ore",
-      "count": 2,
-      "chance": 0.3
+      "item": "immersiveengineering:dust_silver", 
+      "chance": 0.1
     },
     {
       "item": "minecraft:cobblestone",

@@ -2,13 +2,13 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "tag": "forge:ores/coal"
+      "item": "geolosys:coal_ore"
     }
   ],
   "results": [
     {
       "item": "minecraft:coal",
-      "count": 4
+      "count": 2
     },
     {
       "item": "immersiveengineering:dust_sulfur",

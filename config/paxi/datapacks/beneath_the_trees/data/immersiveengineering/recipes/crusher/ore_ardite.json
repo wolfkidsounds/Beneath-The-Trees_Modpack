@@ -1,0 +1,23 @@
+{
+    "type":"immersiveengineering:crusher",
+    "secondaries":[],
+    "result":{
+        "count":4,
+        "base_ingredient":{
+            "tag":"forge:dusts/ardite"}},
+    "conditions":[{
+        "value":
+        {
+            "tag":"forge:dusts/ardite",
+            "type":"forge:tag_empty"},
+            "type":"forge:not"},
+        {
+        "value":
+        {
+            "tag":"forge:ores/ardite",
+            "type":"forge:tag_empty"},
+            "type":"forge:not"}],
+            "input":{
+                "tag":"forge:ores/ardite"},
+                "energy":6000
+}

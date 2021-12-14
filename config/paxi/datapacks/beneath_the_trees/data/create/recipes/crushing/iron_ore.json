@@ -7,12 +7,13 @@
   ],
   "results": [
     {
-      "item": "create:crushed_iron_ore"
+      "item": "immersiveengineering:dust_iron",
+      "count": 2
     },
     {
-      "item": "create:crushed_iron_ore",
-      "count": 2,
-      "chance": 0.3
+      "item": "immersiveengineering:dust_nickel",
+      "count": 1,
+      "chance": 0.1
     },
     {
       "item": "minecraft:cobblestone",

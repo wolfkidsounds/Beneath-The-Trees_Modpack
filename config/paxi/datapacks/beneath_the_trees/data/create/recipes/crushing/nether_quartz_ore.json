@@ -2,7 +2,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "minecraft:nether_quartz_ore"
+      "tag": "forge:ores/quartz"
     }
   ],
   "results": [
@@ -11,14 +11,22 @@
       "count": 2
     },
     {
-      "item": "minecraft:quartz",
-      "count": 4,
-      "chance": 0.5
+      "item": "immersiveengineering:dust_sulfur",
+      "chance": 0.25
     },
     {
       "item": "minecraft:netherrack",
       "chance": 0.125
     }
   ],
-  "processingTime": 350
+  "processingTime": 350,
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ores/quartz",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
 }

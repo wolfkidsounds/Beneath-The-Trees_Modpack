@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "geolosys:bituminous_coal_ore"
+      }
+    ],
+    "results": [
+      {
+        "item": "geolosys:bituminous_coal"
+      }
+    ],
+    "processingTime": 300
+  }
