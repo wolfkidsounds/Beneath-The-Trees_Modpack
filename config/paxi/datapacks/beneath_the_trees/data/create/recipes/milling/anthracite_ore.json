@@ -1,0 +1,14 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "geolosys:anthracite_coal_ore"
+      }
+    ],
+    "results": [
+      {
+        "item": "geolosys:anthracite_coal"
+      }
+    ],
+    "processingTime": 300
+  }
