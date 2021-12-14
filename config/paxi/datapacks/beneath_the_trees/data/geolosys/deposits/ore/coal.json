@@ -3,7 +3,7 @@
   "config": {
     "yMin": 8,
     "yMax": 78,
-    "size": 75,
+    "size": 110,
     "dimensions": {
       "isBlacklist": false,
       "filter": [ "overworld" ]
@@ -12,14 +12,42 @@
       "isBlacklist": true,
       "filter": [  ]
     },
-    "blocks": [{
+    "blocks": [
+    {
       "block": "geolosys:coal_ore",
-      "chance": 1.0
-    }],
-    "samples": [{
+      "chance": 0.5
+    },
+    {
+      "block": "geolosys:bituminous_coal_ore",
+      "chance": 0.2
+    },
+    {
+      "block": "geolosys:anthracite_coal_ore",
+      "chance": 0.1
+    },
+    {
+      "block": "geolosys:lignite_ore",
+      "chance": 0.2
+    }
+  ],
+    "samples": [
+    {
       "block": "geolosys:coal_ore_sample",
-      "chance": 1.0
-    }],
-    "generationWeight": 6
+      "chance": 0.5
+    },
+    {
+      "block": "geolosys:bituminous_coal_ore_sample",
+      "chance": 0.2
+    },
+    {
+      "block": "geolosys:anthracite_coal_ore_sample",
+      "chance": 0.1
+    },
+    {
+      "block": "geolosys:lignite_ore_sample",
+      "chance": 0.2
+    }
+  ],
+    "generationWeight": 9
   }
 }
