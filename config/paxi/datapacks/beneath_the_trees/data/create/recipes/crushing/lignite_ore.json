@@ -2,12 +2,12 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "geolosys:coal_ore"
+      "item": "geolosys:lignite_ore"
     }
   ],
   "results": [
     {
-      "item": "minecraft:coal",
+      "item": "geolosys:lignite_coal",
       "count": 2
     },
     {

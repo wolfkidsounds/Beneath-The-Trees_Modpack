@@ -2,7 +2,7 @@
   "type": "create:crushing",
   "ingredients": [
     {
-      "item": "minecraft:redstone_ore"
+      "tag": "forge:ores/redstone"
     }
   ],
   "results": [
@@ -11,14 +11,18 @@
       "count": 8
     },
     {
-      "item": "minecraft:redstone",
-      "count": 6,
-      "chance": 0.25
-    },
-    {
       "item": "minecraft:cobblestone",
       "chance": 0.125
     }
   ],
-  "processingTime": 300
+  "processingTime": 300,
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ores/redstone",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
 }
