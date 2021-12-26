@@ -33,8 +33,8 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:7
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","file/Infernal Resources.zip","file/Vanilla_Additions_1.8.4.zip","file/Jaden\u0027s Nether Expansion v1.0.0.zip","file/Waterlogged-v1.0.zip","file/New Ores 1.16.5 Version 3.zip","file/xali\u0027s Enchanted Books v0.8.zip","file/Luminous1.2.zip","file/EmbellishedStone.zip","file/§6French§0⠀§6Fonts§0⠀§8(1.16-1.17).zip","file/Beneath The Trees","file/Stay_True_1.16.zip"]
-incompatibleResourcePacks:["file/xali\u0027s Enchanted Books v0.8.zip"]
+resourcePacks:[]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -100,13 +100,12 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_of.key.zoom:key.keyboard.c
 key_key.charm.openCraftingTable:key.keyboard.v
 key_key.charm.openEnderChest:key.keyboard.b
+key_key.enchdesc.show:key.keyboard.left.shift
 key_key.village_employment.evoker_attack:key.keyboard.v
 key_key.village_employment.ravager_forward_control:key.keyboard.w
 key_key.village_employment.ravager_backward_control:key.keyboard.s
-key_key.enchdesc.show:key.keyboard.left.shift
 key_key.ftbchunks.map:key.keyboard.m
 key_key.ftbchunks.minimap.zoomIn:key.keyboard.equal
 key_key.ftbchunks.minimap.zoomOut:key.keyboard.minus
@@ -114,19 +113,22 @@ key_key.itemzoom.toggle:key.keyboard.z:SHIFT
 key_key.itemzoom.hold:key.keyboard.unknown
 key_key.itemzoom.zoom.in:key.keyboard.unknown
 key_key.itemzoom.zoom.out:key.keyboard.unknown
+key_keys.nyfsquiver.nextslot:key.keyboard.right.bracket
+key_keys.nyfsquiver.previousslot:key.keyboard.left.bracket
 key_key.immersivepetroleum.projector.flip:key.keyboard.m
+key_key.entityculling.toggle:key.keyboard.unknown
 key_tetra.toolbelt.binding.access:key.keyboard.b
 key_tetra.toolbelt.binding.restock:key.keyboard.b:SHIFT
 key_tetra.toolbelt.binding.open:key.keyboard.b:ALT
+key_key.immersiveengineering.magnetEquip:key.keyboard.s
+key_key.immersiveengineering.railgunZoom:key.mouse.middle
+key_key.immersiveengineering.chemthrowerSwitch:key.keyboard.unknown
 key_Strip World:key.keyboard.delete
 key_Dress World:key.keyboard.insert
 key_Open Config:key.keyboard.home
 key_Add Block:key.keyboard.page.up
 key_Remove Block:key.keyboard.page.down
 key_Cycle Profile:key.keyboard.end
-key_key.immersiveengineering.magnetEquip:key.keyboard.s
-key_key.immersiveengineering.railgunZoom:key.mouse.middle
-key_key.immersiveengineering.chemthrowerSwitch:key.keyboard.unknown
 key_key.curios.open.desc:key.keyboard.g
 key_key.togglecleanview:key.keyboard.unknown
 key_key.veinmining.activate.desc:key.keyboard.unknown
@@ -153,6 +155,7 @@ key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
 key_key.paraglider.paragliderSettings:key.keyboard.p:CONTROL
+key_key.zoom:key.keyboard.c
 key_key.configured.open_mod_list:key.keyboard.unknown
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
 key_key.jei.focusSearch:key.keyboard.f:CONTROL
@@ -170,7 +173,7 @@ key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
 key_key.waila.show_recipes:key.keyboard.keypad.3
 key_key.waila.show_uses:key.keyboard.keypad.4
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:0.70422536
