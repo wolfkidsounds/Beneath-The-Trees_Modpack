@@ -4,11 +4,11 @@
     "result":{
         "count":3,
         "base_ingredient":{
-            "item":"create:crushed_tin_ore"
+            "item":"create:crushed_zinc_ore"
         }
     },
     "input":{
-        "tag":"forge:ores/tin"
+        "tag":"forge:ores/zinc"
     },
     "energy":6000
 }
