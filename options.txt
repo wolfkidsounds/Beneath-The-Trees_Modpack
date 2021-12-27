@@ -33,8 +33,6 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:7
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","Beneath The Trees","BeneathTheTrees","BetterEnderDragon","BetterFence","BetterVanillaFoods","Crops3D","Embellished Stone","FarmersDelightCrops3D","FarmersDelightPotLid","French_Fonts","Luminous","MoreEnchantmentDescriptions","SoftWeather","Stay True","TinkersTables","UpdatedEngineering","Waterlogged","xali_EnchantedBooks","xali_Potions"]
-incompatibleResourcePacks:["BeneathTheTrees","BetterFence","BetterVanillaFoods","MoreEnchantmentDescriptions","xali_EnchantedBooks","xali_Potions"]
 lastServer:
 lang:en_us
 chatVisibility:0
