@@ -1,9 +1,9 @@
 {
-	id: "47527D981E23C3C1"
+	id: "13F6726DB24CB033"
 	group: "06BAED445159E01B"
-	order_index: 11
-	filename: "mowzies_mobs"
-	title: "Mowzie's Mobs"
+	order_index: 7
+	filename: "small_ships"
+	title: "Small Ships"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [ ]
