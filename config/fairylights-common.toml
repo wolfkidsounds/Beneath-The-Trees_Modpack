@@ -4,5 +4,5 @@
 	christmas_jingles = true
 	#The distance that jingles can be heard in blocks.
 	#Range: > 1
-	jingles_amplitude = 40
+	jingles_amplitude = 10
 
