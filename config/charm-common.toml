@@ -132,13 +132,13 @@
 #As long as a Totem of Undying is in your inventory, it will be consumed to protect you from death.
 "UseTotemFromInventory enabled" = true
 #Barrels available in all types of vanilla wood.
-"VariantBarrels enabled" = true
+"VariantBarrels enabled" = false
 #Bookshelves available in all types of vanilla wood.
-"VariantBookshelves enabled" = true
+"VariantBookshelves enabled" = false
 #Chests available in all types of vanilla wood.
-"VariantChests enabled" = true
+"VariantChests enabled" = false
 #Ladders available in all types of vanilla wood.
-"VariantLadders enabled" = true
+"VariantLadders enabled" = false
 #Mobs may spawn with different textures.
 "VariantMobTextures enabled" = true
 #Villagers are attracted when the player holds a block of emeralds.
