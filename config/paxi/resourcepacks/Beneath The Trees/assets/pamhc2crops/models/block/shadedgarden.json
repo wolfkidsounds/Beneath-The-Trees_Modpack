@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/tinted_cross",
+    "textures": {
+        "cross": "pamhc2crops:block/shadedgarden"
+    }
+}
