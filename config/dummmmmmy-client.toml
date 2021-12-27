@@ -7,7 +7,7 @@
 	#Show hearths instead of damage dealt? (1 hearth = two damage)
 	showHearths = false
 	#Does dps message update dynamically or will it only appear after each parse? 
-	dynamicDPS = true
+	dynamicDPS = false
 	#Skin used by the dummy
 	#Allowed Values: DEFAULT, ORIGINAL, DUNGEONS, ALTERNATIVE
 	texture = "DEFAULT"
