@@ -48,7 +48,7 @@
 		genWildCabbages = true
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
-		chance = 10
+		chance = 7
 
 	#Sea Beet generation
 	[world.wild_beetroots]
@@ -56,7 +56,7 @@
 		genWildBeetroots = true
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
-		chance = 10
+		chance = 7
 
 	#Wild Potato generation
 	[world.wild_potatoes]
@@ -64,7 +64,7 @@
 		genWildPotatoes = true
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
-		chance = 8
+		chance = 7
 
 	#Wild Carrot generation
 	[world.wild_carrots]
@@ -72,7 +72,7 @@
 		genWildCarrots = true
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
-		chance = 8
+		chance = 7
 
 	#Wild Onion generation
 	[world.wild_onions]
@@ -80,7 +80,7 @@
 		genWildOnions = true
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
-		chance = 8
+		chance = 7
 
 	#Tomato Vines generation
 	[world.wild_tomatoes]
@@ -88,7 +88,7 @@
 		genWildTomatoes = true
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
-		chance = 8
+		chance = 7
 
 	#Wild Rice generation
 	[world.wild_rice]
@@ -96,5 +96,5 @@
 		genWildRice = true
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
-		chance = 10
+		chance = 7
 
