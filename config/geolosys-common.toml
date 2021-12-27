@@ -15,7 +15,7 @@
 [prospecting]
 	#Maximum samples that can generate with each pluton within a chunk
 	#Range: 1 ~ 256
-	maxSamplesPerChunk = 16
+	maxSamplesPerChunk = 10
 	#The upper limit of RNG for generating any pluton in a given chunk.
 	#Larger values indicate further distance between plutons.
 	#Range: > 1
