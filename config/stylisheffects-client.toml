@@ -28,7 +28,7 @@
 		#Maximum amount of status effects rendered in a single column.
 		#Range: 1 ~ 255
 		max_rows = 255
-		#Print menu type to game chat whenever a new menu screen is opened. Only intended to find menu types to be added to "menuBlacklistRaw".
+		#Print menu type to game chat whenever a new menu screen is opened. Only intended to find menu types to be added to "menu_blacklist".
 		debug_container_types = false
 		#Render active status effects in every menu screen, not just in the player inventory.
 		effects_everywhere = true
@@ -41,6 +41,7 @@
 		#Allowed Values: CONDENSE, SKIP
 		overflow_mode = "CONDENSE"
 		#Effect renderer to be used.
+		#This setting might not be respected when not enough screen space is available. To force this setting disable "allow_fallback".
 		#Allowed Values: NONE, COMPACT, VANILLA
 		renderer_type = "COMPACT"
 
@@ -77,6 +78,7 @@
 		#Range: > 0
 		widget_space_x = 1
 		#Effect renderer to be used.
+		#This setting might not be respected when not enough screen space is available. To force this setting disable "allow_fallback".
 		#Allowed Values: NONE, COMPACT, VANILLA
 		renderer_type = "COMPACT"
 
