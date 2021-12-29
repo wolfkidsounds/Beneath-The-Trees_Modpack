@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tools/knives"
+    },
+    {
+      "tag": "forge:sweetberryjelly"
+    },
+    {
+      "tag": "forge:nutbutters"
+    },
+	{
+      "tag": "forge:bread"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:sweetberryjellysandwichitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "item": "farmersdelight:skillet"
+    },
+    {
+      "tag": "forge:tortilla"
+    },
+    {
+      "tag": "forge:cheese"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:quesadillaitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "item": "farmersdelight:skillet"
+    },
+	{	
+      "item": "minecraft:rotten_flesh"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:vegetables"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:liverandonionsitem",
+	"count": 1}
+	
+}

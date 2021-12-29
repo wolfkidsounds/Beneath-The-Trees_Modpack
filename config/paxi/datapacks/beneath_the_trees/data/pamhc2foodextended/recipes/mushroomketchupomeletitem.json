@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "item": "farmersdelight:skillet"
+    },
+	{	
+      "item": "pamhc2foodextended:mushroomketchupitem"
+    },
+	{	
+      "tag": "forge:egg"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:mushroomketchupomeletitem",
+	"count": 1}
+	
+}

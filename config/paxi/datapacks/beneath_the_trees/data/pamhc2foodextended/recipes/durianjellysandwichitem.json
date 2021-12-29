@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tools/knives"
+    },
+    {
+      "tag": "forge:jellies/durianjelly"
+    },{"tag": "forge:bread"},{"tag": "forge:nutbutters"}
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:durianjellysandwichitem",
+	"count": 1}
+	
+}

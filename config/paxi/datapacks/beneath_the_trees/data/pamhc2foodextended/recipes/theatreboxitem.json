@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tools/knives"
+    },
+    {
+      "tag": "forge:chocolatebar"
+    },
+    {
+      "tag": "forge:sodas"
+    },
+    {
+      "item": "pamhc2foodextended:popcornitem"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:theatreboxitem",
+	"count": 1}
+	
+}
