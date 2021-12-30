@@ -7,8 +7,8 @@
 		seaOats = false
 		cattails = false
 		barkMushrooms = true
-		cobwebs = true
-		bushes = true
+		cobwebs = false
+		bushes = false
 		glowcap = true
 		netherNettles = true
 		shortGrass = false
@@ -23,14 +23,14 @@
 			rocks = true
 			twigs = true
 			fallenLeaves = false
-			bones = true
-			charredBones = true
+			bones = false
+			charredBones = false
 			iceChunks = true
 			pinecones = true
 			seashells = true
 			# % chance of groundcover placement
 			#Range: 0 ~ 100
-			groundcoverChance = 50
+			groundcoverChance = 30
 			#Groundcover Biome Blacklist, example: ["minecraft:plains", "minecraft:beach"]
 			groundcoverBlacklist = ["minecraft:snowy_tundra", "minecraft:snowy_mountains"]
 

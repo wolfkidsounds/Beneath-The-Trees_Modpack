@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "item": "farmersdelight:skillet"
+    },
+	{	
+      "tag": "forge:rawbeef"
+    },
+	{	
+      "tag": "forge:crops/onion"
+    },
+	{	
+      "tag": "forge:crops/scallion"
+    },
+	{	
+      "tag": "forge:crops/ginger"
+    },
+	{	
+      "tag": "forge:crops/rice"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:gyudonitem",
+	"count": 1}
+	
+}

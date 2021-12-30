@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tools/knives"
+    },
+	{	
+      "tag": "forge:caramel"
+    },
+	{	
+      "tag": "forge:salt"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:saltedcaramelitem",
+	"count": 1}
+	
+}

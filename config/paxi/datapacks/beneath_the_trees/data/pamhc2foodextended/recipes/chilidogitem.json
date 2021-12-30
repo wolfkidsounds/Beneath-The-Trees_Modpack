@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "item": "farmersdelight:skillet"
+    },
+    {
+      "item": "pamhc2foodcore:hotdogitem"
+    },
+    {
+      "item": "pamhc2foodextended:chiliitem"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:chilidogitem",
+	"count": 1}
+	
+}

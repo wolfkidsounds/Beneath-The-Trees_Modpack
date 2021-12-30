@@ -1,0 +1,10 @@
+{
+	id: "7A845127B8DF5CE9"
+	group: "06BAED445159E01B"
+	order_index: 6
+	filename: "astikor_carts"
+	title: "Astikor Carts"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

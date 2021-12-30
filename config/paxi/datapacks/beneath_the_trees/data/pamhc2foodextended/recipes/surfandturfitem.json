@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tools/knives"
+    },
+	{	
+      "tag": "forge:rawfish"
+    },
+	{	
+      "tag": "forge:rawmeats"
+    },
+	{	
+      "tag": "forge:vegetables"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:surfandturfitem",
+	"count": 1}
+	
+}

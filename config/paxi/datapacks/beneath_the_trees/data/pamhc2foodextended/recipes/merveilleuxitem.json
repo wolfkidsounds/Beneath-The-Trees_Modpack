@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tools/knives"
+    },
+	{	
+      "tag": "forge:meringue"
+    },
+	{	
+      "tag": "forge:cream"
+    },
+	{	
+      "tag": "forge:chocolatebar"
+    }
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:merveilleuxitem",
+	"count": 1}
+	
+}

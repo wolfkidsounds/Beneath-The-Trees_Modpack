@@ -13,7 +13,7 @@
                             "type":"forge:not"}
                             ]}],
                             "result":{
-                                "count":4,
+                                "count":3,
                                 "base_ingredient":{
                                     "tag":"forge:dusts/silver"}},
                                     "input":{
