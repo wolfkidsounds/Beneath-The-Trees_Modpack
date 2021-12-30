@@ -33,6 +33,8 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:7
 renderClouds:true
+resourcePacks:[]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -133,8 +135,8 @@ key_key.togglecleanview:key.keyboard.unknown
 key_key.veinmining.activate.desc:key.keyboard.unknown
 key_sndctrl.text.quickvolumemenu.open:key.keyboard.v:CONTROL
 key_sndctrl.text.soundconfig.open:key.keyboard.i:CONTROL
-key_key.backpack:key.keyboard.b
 key_key.astikorcarts.desc:key.keyboard.r
+key_key.backpack:key.keyboard.b
 key_placebo.toggleWings:key.keyboard.keypad.8
 key_placebo.toggleTrails:key.keyboard.keypad.9
 key_key.next_image:key.keyboard.down
@@ -146,13 +148,13 @@ key_key.lower_ship_sail:key.keyboard.j
 key_key.higher_ship_sail:key.keyboard.k
 key_key.endergetic.booflo_vest:key.keyboard.space
 key_key.endergetic.booflo_slam:key.keyboard.x
-key_key.toastcontrol.clear:key.keyboard.j
 key_key.storagenetwork.remote:key.keyboard.i
+key_create.keyinfo.toolmenu:key.keyboard.left.alt
+key_create.keyinfo.toolbelt:key.keyboard.left.alt
+key_key.toastcontrol.clear:key.keyboard.j
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
-key_create.keyinfo.toolmenu:key.keyboard.left.alt
-key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_key.paraglider.paragliderSettings:key.keyboard.p:CONTROL
 key_key.zoom:key.keyboard.c
 key_key.configured.open_mod_list:key.keyboard.unknown
@@ -171,7 +173,7 @@ key_key.jei.bookmark:key.keyboard.a
 key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
 key_key.waila.show_recipes:key.keyboard.keypad.3
 key_key.waila.show_uses:key.keyboard.keypad.4
-soundCategory_master:1.0
+soundCategory_master:0.0
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

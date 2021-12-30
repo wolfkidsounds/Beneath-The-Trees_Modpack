@@ -1,0 +1,13 @@
+{
+    "type":"immersiveengineering:cloche",
+    "results":[{
+        "item":"minecraft:pumpkin"}],
+        "input":{
+            "item":"minecraft:pumpkin_seeds"},
+            "soil":{
+                "item":"minecraft:dirt"},
+                "time":800,
+                "render":{
+                    "type":"stem",
+                    "block":"minecraft:pumpkin"}
+}
