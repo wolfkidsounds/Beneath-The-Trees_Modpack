@@ -28,3 +28,27 @@
 		"Cinematic Camera Mode (OFF, VANILLA, MULTIPLIED)" = "OFF"
 		"Zoom Overlay?" = true
 
+	[Settings."True Darkness"]
+		"Use True Darkness" = true
+		#Allowed Values: PITCH_BLACK, REALLY_DARK, DARK, DIM
+		"Darkness Setting (PITCH_BLACK, REALLY_DARK, DARK, DIM)" = "REALLY_DARK"
+
+		[Settings."True Darkness".Advanced]
+			"Only Effect Block Lighting" = false
+			"Ignore Moon Light" = false
+			#Range: 0.0 ~ 1.0
+			"Minimum Moon Brightness (0->1)" = 0.0
+			#Range: 0.0 ~ 1.0
+			"Maximum Moon Brightness (0->1)" = 0.25
+
+		[Settings."True Darkness"."Dimension Settings"]
+			"Dark Overworld?" = true
+			"Dark By Default?" = true
+			"Dark Nether?" = true
+			#Range: 0.0 ~ 1.0
+			"Dark Nether Fog Brightness (0->1)" = 0.5
+			"Dark End?" = true
+			#Range: 0.0 ~ 1.0
+			"Dark End Fog Brightness (0->1)" = 0.0
+			"Dark If No Skylight?" = false
+

@@ -1,0 +1,22 @@
+
+{
+    "type": "immersiveengineering:cloche",
+    "results": [
+        {
+            "item": "pamhc2crops:mustardseedsitem",
+            "count": 2
+        }
+    ],
+    "input": {
+        "item": "pamhc2crops:mustardseedsseeditem"
+    },
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 800,
+    "render": {
+        "type": "crop",
+        "block": "pamhc2crops:pammustardseedscrop"
+    }
+}
+    

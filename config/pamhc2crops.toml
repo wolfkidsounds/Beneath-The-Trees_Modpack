@@ -26,17 +26,17 @@
 
 ["Enable/Disable Garden World Generation"]
 	#Should arid gardens should generate in world
-	"Generate arid gardens" = true
+	"Generate arid gardens" = false
 	#Should frost gardens should generate in world
-	"Generate frost gardens" = true
+	"Generate frost gardens" = false
 	#Should tropical gardens should generate in world
-	"Generate tropical gardens" = true
+	"Generate tropical gardens" = false
 	#Should windy gardens should generate in world
-	"Generate windy gardens" = true
+	"Generate windy gardens" = false
 	#Should shaded gardens should generate in world
-	"Generate shaded gardens" = true
+	"Generate shaded gardens" = false
 	#Should soggy gardens should generate in world
-	"Generate soggy gardens" = true
+	"Generate soggy gardens" = false
 
 ["Right-click Harvesting Settings"]
 	#Disable/enable right-click harvesting of crops

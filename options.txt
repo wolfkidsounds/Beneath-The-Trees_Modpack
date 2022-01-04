@@ -148,9 +148,9 @@ key_key.lower_ship_sail:key.keyboard.j
 key_key.higher_ship_sail:key.keyboard.k
 key_key.endergetic.booflo_vest:key.keyboard.space
 key_key.endergetic.booflo_slam:key.keyboard.x
-key_key.storagenetwork.remote:key.keyboard.i
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
+key_key.storagenetwork.remote:key.keyboard.i
 key_key.toastcontrol.clear:key.keyboard.j
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1

@@ -1,0 +1,22 @@
+
+{
+    "type": "immersiveengineering:cloche",
+    "results": [
+        {
+            "item": "pamhc2crops:scallionitem",
+            "count": 2
+        }
+    ],
+    "input": {
+        "item": "pamhc2crops:scallionseeditem"
+    },
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 800,
+    "render": {
+        "type": "crop",
+        "block": "pamhc2crops:pamscallioncrop"
+    }
+}
+    
