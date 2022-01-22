@@ -8,7 +8,7 @@
 	strongholds = false
 	#Toggle Ender Eyes Actions (Throwing and Placing in Portal Frames)
 	ender_eyes = false
-	#Sets the quantity of mobs in End Remastered Structures: "peaceful", "easy", "normal" or "hard"
+	#Sets the quantity of mobs in End Remastered Structures: "peaceful", "easy", "normal", "hard" or "hardcore"
 	monster_difficulty = "normal"
 	#Comma-separated list of whitelisted dimensions for End Remastered Structures
 	whitelisted_dimensions = "[minecraft:overworld]"
@@ -43,4 +43,6 @@
 	end_castle_terraforming = true
 	#Average distance in chunks between Ancient Witch Huts (Set to 0 to disable)
 	ancient_witch_hut_distance = 25
+	#Percentage chance of eyes breaking when thrown
+	eye_break_chance = 0
 

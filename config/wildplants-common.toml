@@ -1,8 +1,0 @@
-
-#This section is currently working and configured
-["Global Configuration"]
-	#The spawn frequency per chunk (lower is less) [Default: 1]
-	Frequency = 1
-	#The size of a patch (lower is less) [Default: 1]
-	Patchsize = 1
-
