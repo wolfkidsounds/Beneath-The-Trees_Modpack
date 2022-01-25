@@ -83,15 +83,5 @@
 				item: "tetra:basic_workbench"
 			}]
 		}
-		{
-			x: 3.0d
-			y: -0.5d
-			id: "692967E3951EE6D8"
-			tasks: [{
-				id: "3C24FE8558EE00A2"
-				type: "structure"
-				structure: "minecraft:mineshaft"
-			}]
-		}
 	]
 }

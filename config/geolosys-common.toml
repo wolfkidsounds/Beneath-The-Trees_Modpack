@@ -19,7 +19,7 @@
 	#The upper limit of RNG for generating any pluton in a given chunk.
 	#Larger values indicate further distance between plutons.
 	#Range: > 1
-	chunkSkipChance = 80
+	chunkSkipChance = 120
 	#A list of <modid:block> that samples may not be placed on
 	samplePlacementBlacklist = ["minecraft:ice", "minecraft:packed_ice", "minecraft:bedrock"]
 	#Enable the prospector's pickaxe

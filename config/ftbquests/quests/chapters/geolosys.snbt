@@ -19,7 +19,7 @@
 				icon: "geolosys:lignite_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:lignite_ore"
 			}]
 		}
 		{
@@ -33,7 +33,7 @@
 				icon: "geolosys:bituminous_coal_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:bituminous_coal_ore"
 			}]
 		}
 		{
@@ -47,7 +47,7 @@
 				icon: "geolosys:anthracite_coal_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:anthracite_coal_ore"
 			}]
 		}
 		{
@@ -61,7 +61,7 @@
 				icon: "geolosys:coal_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:coal_ore"
 			}]
 		}
 		{
@@ -75,7 +75,7 @@
 				icon: "geolosys:cinnabar_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:cinnabar_ore"
 			}]
 		}
 		{
@@ -89,7 +89,7 @@
 				icon: "geolosys:gold_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:gold_ore"
 			}]
 		}
 		{
@@ -103,7 +103,7 @@
 				icon: "geolosys:lapis_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:lapis_ore"
 			}]
 		}
 		{
@@ -117,7 +117,7 @@
 				icon: "geolosys:quartz_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:quartz_ore"
 			}]
 		}
 		{
@@ -131,7 +131,7 @@
 				icon: "geolosys:kimberlite_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:kimberlite_ore"
 			}]
 		}
 		{
@@ -145,7 +145,7 @@
 				icon: "geolosys:beryl_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:beryl_ore"
 			}]
 		}
 		{
@@ -159,7 +159,7 @@
 				icon: "geolosys:hematite_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:hematite_ore"
 			}]
 		}
 		{
@@ -173,7 +173,7 @@
 				icon: "geolosys:limonite_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:limonite_ore"
 			}]
 		}
 		{
@@ -187,7 +187,7 @@
 				icon: "geolosys:malachite_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:malachite_ore"
 			}]
 		}
 		{
@@ -201,7 +201,7 @@
 				icon: "geolosys:azurite_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:azurite_ore"
 			}]
 		}
 		{
@@ -215,7 +215,7 @@
 				icon: "geolosys:cassiterite_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:cassiterite_ore"
 			}]
 		}
 		{
@@ -229,7 +229,7 @@
 				icon: "geolosys:teallite_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:teallite_ore"
 			}]
 		}
 		{
@@ -243,7 +243,7 @@
 				icon: "geolosys:galena_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:galena_ore"
 			}]
 		}
 		{
@@ -257,7 +257,7 @@
 				icon: "geolosys:bauxite_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:bauxite_ore"
 			}]
 		}
 		{
@@ -271,7 +271,7 @@
 				icon: "geolosys:autunite_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:autunite_ore"
 			}]
 		}
 		{
@@ -285,7 +285,7 @@
 				icon: "geolosys:sphalerite_ore"
 				timer: 0L
 				observe_type: 0
-				to_observe: "minecraft:dirt"
+				to_observe: "geolosys:sphalerite_ore"
 			}]
 		}
 	]

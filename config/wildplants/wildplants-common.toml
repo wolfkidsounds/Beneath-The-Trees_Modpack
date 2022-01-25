@@ -6,7 +6,7 @@
 		#Global generation frequency modifier (higher is more) [Default: 1]
 		Frequency = 1
 		#Global generation patch size modifier (higher is more) [Default: 5]
-		Size = 5
+		Size = 9
 
 	[General."Compat *NOT WORKING IN THIS VERSION*"]
 		#A config file will be generated when the mod is loaded while the feature is enabled. 
