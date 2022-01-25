@@ -12,6 +12,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:armor_stand
 	[minecraft.armor_stand]
@@ -23,6 +25,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:arrow
 	[minecraft.arrow]
@@ -34,6 +38,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:bat
 	[minecraft.bat]
@@ -45,6 +51,8 @@
 		allowSpawnEggs = false
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:bee
 	[minecraft.bee]
@@ -56,6 +64,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:blaze
 	[minecraft.blaze]
@@ -67,6 +77,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:boat
 	[minecraft.boat]
@@ -78,6 +90,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:cat
 	[minecraft.cat]
@@ -89,6 +103,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:cave_spider
 	[minecraft.cave_spider]
@@ -100,6 +116,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:chicken
 	[minecraft.chicken]
@@ -111,6 +129,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:cod
 	[minecraft.cod]
@@ -122,6 +142,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:cow
 	[minecraft.cow]
@@ -133,6 +155,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:creeper
 	[minecraft.creeper]
@@ -144,6 +168,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:dolphin
 	[minecraft.dolphin]
@@ -155,6 +181,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:donkey
 	[minecraft.donkey]
@@ -166,6 +194,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:dragon_fireball
 	[minecraft.dragon_fireball]
@@ -177,6 +207,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:drowned
 	[minecraft.drowned]
@@ -188,6 +220,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:elder_guardian
 	[minecraft.elder_guardian]
@@ -199,6 +233,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:end_crystal
 	[minecraft.end_crystal]
@@ -210,6 +246,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:ender_dragon
 	[minecraft.ender_dragon]
@@ -221,6 +259,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:enderman
 	[minecraft.enderman]
@@ -232,6 +272,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:endermite
 	[minecraft.endermite]
@@ -243,6 +285,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:evoker
 	[minecraft.evoker]
@@ -254,6 +298,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:evoker_fangs
 	[minecraft.evoker_fangs]
@@ -265,6 +311,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:experience_orb
 	[minecraft.experience_orb]
@@ -276,6 +324,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:eye_of_ender
 	[minecraft.eye_of_ender]
@@ -287,6 +337,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:falling_block
 	[minecraft.falling_block]
@@ -298,6 +350,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:firework_rocket
 	[minecraft.firework_rocket]
@@ -309,6 +363,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:fox
 	[minecraft.fox]
@@ -320,6 +376,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:ghast
 	[minecraft.ghast]
@@ -331,6 +389,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:giant
 	[minecraft.giant]
@@ -342,6 +402,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:guardian
 	[minecraft.guardian]
@@ -353,6 +415,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:hoglin
 	[minecraft.hoglin]
@@ -364,6 +428,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:horse
 	[minecraft.horse]
@@ -375,6 +441,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:husk
 	[minecraft.husk]
@@ -386,6 +454,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:illusioner
 	[minecraft.illusioner]
@@ -397,6 +467,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:iron_golem
 	[minecraft.iron_golem]
@@ -408,6 +480,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:item
 	[minecraft.item]
@@ -419,6 +493,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:item_frame
 	[minecraft.item_frame]
@@ -430,6 +506,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:fireball
 	[minecraft.fireball]
@@ -441,6 +519,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:leash_knot
 	[minecraft.leash_knot]
@@ -452,6 +532,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:lightning_bolt
 	[minecraft.lightning_bolt]
@@ -463,6 +545,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:llama
 	[minecraft.llama]
@@ -474,6 +558,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:llama_spit
 	[minecraft.llama_spit]
@@ -485,6 +571,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:magma_cube
 	[minecraft.magma_cube]
@@ -496,6 +584,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:minecart
 	[minecraft.minecart]
@@ -507,6 +597,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:chest_minecart
 	[minecraft.chest_minecart]
@@ -518,6 +610,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:command_block_minecart
 	[minecraft.command_block_minecart]
@@ -529,6 +623,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:furnace_minecart
 	[minecraft.furnace_minecart]
@@ -540,6 +636,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:hopper_minecart
 	[minecraft.hopper_minecart]
@@ -551,6 +649,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:spawner_minecart
 	[minecraft.spawner_minecart]
@@ -562,6 +662,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:tnt_minecart
 	[minecraft.tnt_minecart]
@@ -573,6 +675,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:mule
 	[minecraft.mule]
@@ -584,6 +688,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:mooshroom
 	[minecraft.mooshroom]
@@ -595,6 +701,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:ocelot
 	[minecraft.ocelot]
@@ -606,6 +714,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:painting
 	[minecraft.painting]
@@ -617,6 +727,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:panda
 	[minecraft.panda]
@@ -628,6 +740,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:parrot
 	[minecraft.parrot]
@@ -639,6 +753,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:phantom
 	[minecraft.phantom]
@@ -650,6 +766,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:pig
 	[minecraft.pig]
@@ -661,6 +779,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:piglin
 	[minecraft.piglin]
@@ -672,6 +792,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:piglin_brute
 	[minecraft.piglin_brute]
@@ -683,6 +805,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:pillager
 	[minecraft.pillager]
@@ -694,6 +818,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:polar_bear
 	[minecraft.polar_bear]
@@ -705,6 +831,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:tnt
 	[minecraft.tnt]
@@ -716,6 +844,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:pufferfish
 	[minecraft.pufferfish]
@@ -727,6 +857,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:rabbit
 	[minecraft.rabbit]
@@ -738,6 +870,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:ravager
 	[minecraft.ravager]
@@ -749,6 +883,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:salmon
 	[minecraft.salmon]
@@ -760,6 +896,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:sheep
 	[minecraft.sheep]
@@ -771,6 +909,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:shulker
 	[minecraft.shulker]
@@ -782,6 +922,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:shulker_bullet
 	[minecraft.shulker_bullet]
@@ -793,6 +935,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:silverfish
 	[minecraft.silverfish]
@@ -804,6 +948,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:skeleton
 	[minecraft.skeleton]
@@ -815,6 +961,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:skeleton_horse
 	[minecraft.skeleton_horse]
@@ -826,6 +974,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:slime
 	[minecraft.slime]
@@ -837,6 +987,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:small_fireball
 	[minecraft.small_fireball]
@@ -848,6 +1000,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:snow_golem
 	[minecraft.snow_golem]
@@ -859,6 +1013,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:snowball
 	[minecraft.snowball]
@@ -870,6 +1026,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:spectral_arrow
 	[minecraft.spectral_arrow]
@@ -881,6 +1039,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:spider
 	[minecraft.spider]
@@ -892,6 +1052,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:squid
 	[minecraft.squid]
@@ -903,6 +1065,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:stray
 	[minecraft.stray]
@@ -914,6 +1078,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:strider
 	[minecraft.strider]
@@ -925,6 +1091,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:egg
 	[minecraft.egg]
@@ -936,6 +1104,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:ender_pearl
 	[minecraft.ender_pearl]
@@ -947,6 +1117,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:experience_bottle
 	[minecraft.experience_bottle]
@@ -958,6 +1130,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:potion
 	[minecraft.potion]
@@ -969,6 +1143,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:trident
 	[minecraft.trident]
@@ -980,6 +1156,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:trader_llama
 	[minecraft.trader_llama]
@@ -991,6 +1169,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:tropical_fish
 	[minecraft.tropical_fish]
@@ -1002,6 +1182,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:turtle
 	[minecraft.turtle]
@@ -1013,6 +1195,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:vex
 	[minecraft.vex]
@@ -1024,6 +1208,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:villager
 	[minecraft.villager]
@@ -1035,6 +1221,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:vindicator
 	[minecraft.vindicator]
@@ -1046,6 +1234,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:wandering_trader
 	[minecraft.wandering_trader]
@@ -1057,6 +1247,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:witch
 	[minecraft.witch]
@@ -1068,6 +1260,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:wither
 	[minecraft.wither]
@@ -1079,6 +1273,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:wither_skeleton
 	[minecraft.wither_skeleton]
@@ -1090,6 +1286,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:wither_skull
 	[minecraft.wither_skull]
@@ -1101,6 +1299,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:wolf
 	[minecraft.wolf]
@@ -1112,6 +1312,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:zoglin
 	[minecraft.zoglin]
@@ -1123,6 +1325,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:zombie
 	[minecraft.zombie]
@@ -1134,6 +1338,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:zombie_horse
 	[minecraft.zombie_horse]
@@ -1145,6 +1351,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:zombie_villager
 	[minecraft.zombie_villager]
@@ -1156,6 +1364,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:zombified_piglin
 	[minecraft.zombified_piglin]
@@ -1167,6 +1377,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:player
 	[minecraft.player]
@@ -1178,6 +1390,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for minecraft:fishing_bobber
 	[minecraft.fishing_bobber]
@@ -1189,6 +1403,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the mowziesmobs mod.
 [mowziesmobs]
@@ -1203,6 +1419,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:baby_foliaath
 	[mowziesmobs.baby_foliaath]
@@ -1214,6 +1432,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:ferrous_wroughtnaut
 	[mowziesmobs.ferrous_wroughtnaut]
@@ -1225,6 +1445,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:barakoan_barakoana
 	[mowziesmobs.barakoan_barakoana]
@@ -1236,6 +1458,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:barakoan_player
 	[mowziesmobs.barakoan_player]
@@ -1247,6 +1471,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:barakoa_sunblocker_player
 	[mowziesmobs.barakoa_sunblocker_player]
@@ -1258,6 +1484,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:barakoaya
 	[mowziesmobs.barakoaya]
@@ -1269,6 +1497,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:barakoana
 	[mowziesmobs.barakoana]
@@ -1280,6 +1510,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:barakoa_sunblocker
 	[mowziesmobs.barakoa_sunblocker]
@@ -1291,6 +1523,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:barako
 	[mowziesmobs.barako]
@@ -1302,6 +1536,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:frostmaw
 	[mowziesmobs.frostmaw]
@@ -1313,6 +1549,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:grottol
 	[mowziesmobs.grottol]
@@ -1324,6 +1562,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:lantern
 	[mowziesmobs.lantern]
@@ -1335,6 +1575,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:naga
 	[mowziesmobs.naga]
@@ -1346,6 +1588,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:sunstrike
 	[mowziesmobs.sunstrike]
@@ -1357,6 +1601,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:solar_beam
 	[mowziesmobs.solar_beam]
@@ -1368,6 +1614,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:boulder_small
 	[mowziesmobs.boulder_small]
@@ -1379,6 +1627,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:boulder_medium
 	[mowziesmobs.boulder_medium]
@@ -1390,6 +1640,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:boulder_large
 	[mowziesmobs.boulder_large]
@@ -1401,6 +1653,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:boulder_huge
 	[mowziesmobs.boulder_huge]
@@ -1412,6 +1666,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:axe_attack
 	[mowziesmobs.axe_attack]
@@ -1423,6 +1679,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:ice_breath
 	[mowziesmobs.ice_breath]
@@ -1434,6 +1692,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:ice_ball
 	[mowziesmobs.ice_ball]
@@ -1445,6 +1705,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:frozen_controller
 	[mowziesmobs.frozen_controller]
@@ -1456,6 +1718,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:dart
 	[mowziesmobs.dart]
@@ -1467,6 +1731,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:poison_ball
 	[mowziesmobs.poison_ball]
@@ -1478,6 +1744,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:super_nova
 	[mowziesmobs.super_nova]
@@ -1489,6 +1757,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:falling_block
 	[mowziesmobs.falling_block]
@@ -1500,6 +1770,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mowziesmobs:block_swapper
 	[mowziesmobs.block_swapper]
@@ -1509,6 +1781,21 @@
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
 		allowSpawnEggs = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for mowziesmobs:camera_shake
+	[mowziesmobs.camera_shake]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
 
@@ -1525,6 +1812,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for tetra:extractor_projectile
 	[tetra.extractor_projectile]
@@ -1536,6 +1825,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the alexsmobs mod.
 [alexsmobs]
@@ -1550,6 +1841,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:roadrunner
 	[alexsmobs.roadrunner]
@@ -1561,6 +1854,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:bone_serpent
 	[alexsmobs.bone_serpent]
@@ -1572,6 +1867,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:bone_serpent_part
 	[alexsmobs.bone_serpent_part]
@@ -1583,6 +1880,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:gazelle
 	[alexsmobs.gazelle]
@@ -1594,6 +1893,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:crocodile
 	[alexsmobs.crocodile]
@@ -1605,6 +1906,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:fly
 	[alexsmobs.fly]
@@ -1616,6 +1919,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:hummingbird
 	[alexsmobs.hummingbird]
@@ -1627,6 +1932,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:orca
 	[alexsmobs.orca]
@@ -1638,6 +1945,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:sunbird
 	[alexsmobs.sunbird]
@@ -1649,6 +1958,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:gorilla
 	[alexsmobs.gorilla]
@@ -1660,6 +1971,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:crimson_mosquito
 	[alexsmobs.crimson_mosquito]
@@ -1671,6 +1984,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:mosquito_spit
 	[alexsmobs.mosquito_spit]
@@ -1682,6 +1997,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:rattlesnake
 	[alexsmobs.rattlesnake]
@@ -1693,6 +2010,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:endergrade
 	[alexsmobs.endergrade]
@@ -1704,6 +2023,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:hammerhead_shark
 	[alexsmobs.hammerhead_shark]
@@ -1715,6 +2036,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:shark_tooth_arrow
 	[alexsmobs.shark_tooth_arrow]
@@ -1726,6 +2049,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:lobster
 	[alexsmobs.lobster]
@@ -1737,6 +2062,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:komodo_dragon
 	[alexsmobs.komodo_dragon]
@@ -1748,6 +2075,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:capuchin_monkey
 	[alexsmobs.capuchin_monkey]
@@ -1759,6 +2088,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:tossed_item
 	[alexsmobs.tossed_item]
@@ -1770,6 +2101,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:centipede_head
 	[alexsmobs.centipede_head]
@@ -1781,6 +2114,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:centipede_body
 	[alexsmobs.centipede_body]
@@ -1792,6 +2127,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:centipede_tail
 	[alexsmobs.centipede_tail]
@@ -1803,6 +2140,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:warped_toad
 	[alexsmobs.warped_toad]
@@ -1814,6 +2153,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:moose
 	[alexsmobs.moose]
@@ -1825,6 +2166,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:mimicube
 	[alexsmobs.mimicube]
@@ -1836,6 +2179,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:raccoon
 	[alexsmobs.raccoon]
@@ -1847,6 +2192,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:blobfish
 	[alexsmobs.blobfish]
@@ -1858,6 +2205,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:seal
 	[alexsmobs.seal]
@@ -1869,6 +2218,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:cockroach
 	[alexsmobs.cockroach]
@@ -1880,6 +2231,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:cockroach_egg
 	[alexsmobs.cockroach_egg]
@@ -1891,6 +2244,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:shoebill
 	[alexsmobs.shoebill]
@@ -1902,6 +2257,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:elephant
 	[alexsmobs.elephant]
@@ -1913,6 +2270,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:soul_vulture
 	[alexsmobs.soul_vulture]
@@ -1924,6 +2283,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:snow_leopard
 	[alexsmobs.snow_leopard]
@@ -1935,6 +2296,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:spectre
 	[alexsmobs.spectre]
@@ -1946,6 +2309,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:crow
 	[alexsmobs.crow]
@@ -1957,6 +2322,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:alligator_snapping_turtle
 	[alexsmobs.alligator_snapping_turtle]
@@ -1968,6 +2335,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:mungus
 	[alexsmobs.mungus]
@@ -1979,6 +2348,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:mantis_shrimp
 	[alexsmobs.mantis_shrimp]
@@ -1990,6 +2361,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:guster
 	[alexsmobs.guster]
@@ -2001,6 +2374,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:sand_shot
 	[alexsmobs.sand_shot]
@@ -2012,6 +2387,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:gust
 	[alexsmobs.gust]
@@ -2023,6 +2400,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:warped_mosco
 	[alexsmobs.warped_mosco]
@@ -2034,6 +2413,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:hemolymph
 	[alexsmobs.hemolymph]
@@ -2045,6 +2426,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:straddler
 	[alexsmobs.straddler]
@@ -2056,6 +2439,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:stradpole
 	[alexsmobs.stradpole]
@@ -2067,6 +2452,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:straddleboard
 	[alexsmobs.straddleboard]
@@ -2078,6 +2465,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:emu
 	[alexsmobs.emu]
@@ -2089,6 +2478,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:emu_egg
 	[alexsmobs.emu_egg]
@@ -2100,6 +2491,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:platypus
 	[alexsmobs.platypus]
@@ -2111,6 +2504,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:dropbear
 	[alexsmobs.dropbear]
@@ -2122,6 +2517,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:tasmanian_devil
 	[alexsmobs.tasmanian_devil]
@@ -2133,6 +2530,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:kangaroo
 	[alexsmobs.kangaroo]
@@ -2144,6 +2543,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:cachalot_whale
 	[alexsmobs.cachalot_whale]
@@ -2155,6 +2556,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:cachalot_echo
 	[alexsmobs.cachalot_echo]
@@ -2166,6 +2569,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:leafcutter_ant
 	[alexsmobs.leafcutter_ant]
@@ -2177,6 +2582,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:enderiophage
 	[alexsmobs.enderiophage]
@@ -2188,6 +2595,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:enderiophage_rocket
 	[alexsmobs.enderiophage_rocket]
@@ -2199,6 +2608,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:bald_eagle
 	[alexsmobs.bald_eagle]
@@ -2210,6 +2621,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:tiger
 	[alexsmobs.tiger]
@@ -2221,6 +2634,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:tarantula_hawk
 	[alexsmobs.tarantula_hawk]
@@ -2232,6 +2647,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:void_worm
 	[alexsmobs.void_worm]
@@ -2243,6 +2660,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:void_worm_part
 	[alexsmobs.void_worm_part]
@@ -2254,6 +2673,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:void_worm_shot
 	[alexsmobs.void_worm_shot]
@@ -2265,6 +2686,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:void_portal
 	[alexsmobs.void_portal]
@@ -2276,6 +2699,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:frilled_shark
 	[alexsmobs.frilled_shark]
@@ -2287,6 +2712,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:mimic_octopus
 	[alexsmobs.mimic_octopus]
@@ -2298,6 +2725,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for alexsmobs:seagull
 	[alexsmobs.seagull]
@@ -2309,6 +2738,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the guardvillagers mod.
 [guardvillagers]
@@ -2323,6 +2754,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the biomesoplenty mod.
 [biomesoplenty]
@@ -2337,6 +2770,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the fairylights mod.
 [fairylights]
@@ -2351,6 +2786,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the smallships mod.
 [smallships]
@@ -2365,6 +2802,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for smallships:galley
 	[smallships.galley]
@@ -2376,6 +2815,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for smallships:war_galley
 	[smallships.war_galley]
@@ -2387,6 +2828,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for smallships:drakkar
 	[smallships.drakkar]
@@ -2398,6 +2841,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for smallships:rowboat
 	[smallships.rowboat]
@@ -2409,6 +2854,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for smallships:brigg
 	[smallships.brigg]
@@ -2420,6 +2867,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for smallships:dhow
 	[smallships.dhow]
@@ -2431,6 +2880,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the charm mod.
 [charm]
@@ -2445,6 +2896,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for charm:endermite_powder
 	[charm.endermite_powder]
@@ -2456,6 +2909,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for charm:glowball
 	[charm.glowball]
@@ -2467,6 +2922,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for charm:moobloom
 	[charm.moobloom]
@@ -2478,6 +2935,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the exoticbirds mod.
 [exoticbirds]
@@ -2492,6 +2951,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:owl
 	[exoticbirds.owl]
@@ -2503,6 +2964,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:peafowl
 	[exoticbirds.peafowl]
@@ -2514,6 +2977,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:flamingo
 	[exoticbirds.flamingo]
@@ -2525,6 +2990,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:bluejay
 	[exoticbirds.bluejay]
@@ -2536,6 +3003,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:cardinal
 	[exoticbirds.cardinal]
@@ -2547,6 +3016,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:robin
 	[exoticbirds.robin]
@@ -2558,6 +3029,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:crane
 	[exoticbirds.crane]
@@ -2569,6 +3042,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:heron
 	[exoticbirds.heron]
@@ -2580,6 +3055,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:lyrebird
 	[exoticbirds.lyrebird]
@@ -2591,6 +3068,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:kiwi
 	[exoticbirds.kiwi]
@@ -2602,6 +3081,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:toucan
 	[exoticbirds.toucan]
@@ -2613,6 +3094,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:duck
 	[exoticbirds.duck]
@@ -2624,6 +3107,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:swan
 	[exoticbirds.swan]
@@ -2635,6 +3120,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:penguin
 	[exoticbirds.penguin]
@@ -2646,6 +3133,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:pigeon
 	[exoticbirds.pigeon]
@@ -2657,6 +3146,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:budgerigar
 	[exoticbirds.budgerigar]
@@ -2668,6 +3159,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:gouldianfinch
 	[exoticbirds.gouldianfinch]
@@ -2679,6 +3172,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:cockatoo
 	[exoticbirds.cockatoo]
@@ -2690,6 +3185,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:pelican
 	[exoticbirds.pelican]
@@ -2701,6 +3198,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:roadrunner
 	[exoticbirds.roadrunner]
@@ -2712,6 +3211,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:cassowary
 	[exoticbirds.cassowary]
@@ -2723,6 +3224,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:gull
 	[exoticbirds.gull]
@@ -2734,6 +3237,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:ostrich
 	[exoticbirds.ostrich]
@@ -2745,6 +3250,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:kingfisher
 	[exoticbirds.kingfisher]
@@ -2756,6 +3263,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:kookaburra
 	[exoticbirds.kookaburra]
@@ -2767,6 +3276,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:magpie
 	[exoticbirds.magpie]
@@ -2778,6 +3289,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:hummingbird
 	[exoticbirds.hummingbird]
@@ -2789,6 +3302,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:woodpecker
 	[exoticbirds.woodpecker]
@@ -2800,6 +3315,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:macaw
 	[exoticbirds.macaw]
@@ -2811,6 +3328,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for exoticbirds:bird_egg
 	[exoticbirds.bird_egg]
@@ -2822,6 +3341,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the dynamictrees mod.
 [dynamictrees]
@@ -2836,6 +3357,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for dynamictrees:lingering_effector
 	[dynamictrees.lingering_effector]
@@ -2847,6 +3370,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the stables mod.
 [stables]
@@ -2861,6 +3386,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the connectiblechains mod.
 [connectiblechains]
@@ -2875,6 +3402,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for connectiblechains:chain_collision
 	[connectiblechains.chain_collision]
@@ -2886,6 +3415,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the abnormals_core mod.
 [abnormals_core]
@@ -2900,6 +3431,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the clumps mod.
 [clumps]
@@ -2914,6 +3447,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the village_employment mod.
 [village_employment]
@@ -2928,6 +3463,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the decorative_blocks mod.
 [decorative_blocks]
@@ -2942,6 +3479,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the endergetic mod.
 [endergetic]
@@ -2956,6 +3495,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for endergetic:bolloom_fruit
 	[endergetic.bolloom_fruit]
@@ -2967,6 +3508,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for endergetic:boof_block
 	[endergetic.boof_block]
@@ -2978,6 +3521,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for endergetic:puff_bug
 	[endergetic.puff_bug]
@@ -2989,6 +3534,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for endergetic:bolloom_balloon
 	[endergetic.bolloom_balloon]
@@ -3000,6 +3547,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for endergetic:bolloom_knot
 	[endergetic.bolloom_knot]
@@ -3011,6 +3560,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for endergetic:booflo_baby
 	[endergetic.booflo_baby]
@@ -3022,6 +3573,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for endergetic:booflo_adolescent
 	[endergetic.booflo_adolescent]
@@ -3033,6 +3586,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for endergetic:booflo
 	[endergetic.booflo]
@@ -3044,6 +3599,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the astikorcarts mod.
 [astikorcarts]
@@ -3058,6 +3615,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for astikorcarts:plow
 	[astikorcarts.plow]
@@ -3069,6 +3628,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for astikorcarts:animal_cart
 	[astikorcarts.animal_cart]
@@ -3080,6 +3641,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for astikorcarts:postilion
 	[astikorcarts.postilion]
@@ -3091,6 +3654,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the create mod.
 [create]
@@ -3105,6 +3670,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for create:crafting_blueprint
 	[create.crafting_blueprint]
@@ -3116,6 +3683,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for create:contraption
 	[create.contraption]
@@ -3127,6 +3696,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for create:stationary_contraption
 	[create.stationary_contraption]
@@ -3138,6 +3709,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for create:gantry_contraption
 	[create.gantry_contraption]
@@ -3149,6 +3722,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for create:potato_projectile
 	[create.potato_projectile]
@@ -3160,6 +3735,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for create:seat
 	[create.seat]
@@ -3171,6 +3748,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the lootr mod.
 [lootr]
@@ -3185,6 +3764,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the valhelsia_structures mod.
 [valhelsia_structures]
@@ -3199,6 +3780,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the betternether mod.
 [betternether]
@@ -3213,6 +3796,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for betternether:naga_projectile
 	[betternether.naga_projectile]
@@ -3224,6 +3809,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for betternether:firefly
 	[betternether.firefly]
@@ -3235,6 +3822,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for betternether:naga
 	[betternether.naga]
@@ -3246,6 +3835,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for betternether:flying_pig
 	[betternether.flying_pig]
@@ -3257,6 +3848,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for betternether:jungle_skeleton
 	[betternether.jungle_skeleton]
@@ -3268,6 +3861,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for betternether:hydrogen_jellyfish
 	[betternether.hydrogen_jellyfish]
@@ -3279,6 +3874,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for betternether:skull
 	[betternether.skull]
@@ -3290,6 +3887,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the betterendforge mod.
 [betterendforge]
@@ -3304,6 +3903,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for betterendforge:dragonfly
 	[betterendforge.dragonfly]
@@ -3315,6 +3916,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for betterendforge:shadow_walker
 	[betterendforge.shadow_walker]
@@ -3326,6 +3929,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for betterendforge:end_slime
 	[betterendforge.end_slime]
@@ -3337,6 +3942,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for betterendforge:cubozoa
 	[betterendforge.cubozoa]
@@ -3348,6 +3955,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for betterendforge:silk_moth
 	[betterendforge.silk_moth]
@@ -3359,6 +3968,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the camera mod.
 [camera]
@@ -3373,6 +3984,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the golems mod.
 [golems]
@@ -3387,6 +4000,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the dummmmmmy mod.
 [dummmmmmy]
@@ -3401,6 +4016,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for dummmmmmy:dummy_number
 	[dummmmmmy.dummy_number]
@@ -3412,6 +4029,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the supplementaries mod.
 [supplementaries]
@@ -3426,6 +4045,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for supplementaries:label
 	[supplementaries.label]
@@ -3437,6 +4058,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for supplementaries:firefly
 	[supplementaries.firefly]
@@ -3448,6 +4071,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for supplementaries:brick_projectile
 	[supplementaries.brick_projectile]
@@ -3459,6 +4084,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for supplementaries:bomb
 	[supplementaries.bomb]
@@ -3470,6 +4097,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for supplementaries:rope_arrow
 	[supplementaries.rope_arrow]
@@ -3481,6 +4110,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for supplementaries:amethyst_arrow
 	[supplementaries.amethyst_arrow]
@@ -3492,6 +4123,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for supplementaries:amethyst_shard
 	[supplementaries.amethyst_shard]
@@ -3503,6 +4136,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for supplementaries:flint_shard
 	[supplementaries.flint_shard]
@@ -3514,6 +4149,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for supplementaries:slingshot_projectile
 	[supplementaries.slingshot_projectile]
@@ -3525,6 +4162,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the projectvibrantjourneys mod.
 [projectvibrantjourneys]
@@ -3539,6 +4178,8 @@
 		allowSpawnEggs = false
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for projectvibrantjourneys:firefly
 	[projectvibrantjourneys.firefly]
@@ -3550,6 +4191,8 @@
 		allowSpawnEggs = false
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for projectvibrantjourneys:starfish
 	[projectvibrantjourneys.starfish]
@@ -3561,6 +4204,8 @@
 		allowSpawnEggs = false
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for projectvibrantjourneys:ocean_starfish
 	[projectvibrantjourneys.ocean_starfish]
@@ -3572,6 +4217,8 @@
 		allowSpawnEggs = false
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for projectvibrantjourneys:clam
 	[projectvibrantjourneys.clam]
@@ -3583,6 +4230,8 @@
 		allowSpawnEggs = false
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for projectvibrantjourneys:snail
 	[projectvibrantjourneys.snail]
@@ -3594,6 +4243,8 @@
 		allowSpawnEggs = false
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for projectvibrantjourneys:slug
 	[projectvibrantjourneys.slug]
@@ -3605,6 +4256,8 @@
 		allowSpawnEggs = false
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for projectvibrantjourneys:small_spider
 	[projectvibrantjourneys.small_spider]
@@ -3616,6 +4269,8 @@
 		allowSpawnEggs = false
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for projectvibrantjourneys:frog
 	[projectvibrantjourneys.frog]
@@ -3627,6 +4282,8 @@
 		allowSpawnEggs = false
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for projectvibrantjourneys:night_bat
 	[projectvibrantjourneys.night_bat]
@@ -3638,6 +4295,8 @@
 		allowSpawnEggs = false
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for projectvibrantjourneys:pvj_boat
 	[projectvibrantjourneys.pvj_boat]
@@ -3649,6 +4308,8 @@
 		allowSpawnEggs = false
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the tetrapak mod.
 [tetrapak]
@@ -3663,6 +4324,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the mofauna mod.
 [mofauna]
@@ -3677,6 +4340,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mofauna:warden
 	[mofauna.warden]
@@ -3688,6 +4353,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mofauna:allay
 	[mofauna.allay]
@@ -3699,6 +4366,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mofauna:copper_golem
 	[mofauna.copper_golem]
@@ -3710,6 +4379,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mofauna:dead_copper_golem
 	[mofauna.dead_copper_golem]
@@ -3721,6 +4392,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mofauna:tarantula
 	[mofauna.tarantula]
@@ -3732,6 +4405,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for mofauna:orca
 	[mofauna.orca]
@@ -3743,6 +4418,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the immersivepetroleum mod.
 [immersivepetroleum]
@@ -3757,6 +4434,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the immersiveengineering mod.
 [immersiveengineering]
@@ -3771,6 +4450,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for immersiveengineering:fluorescent_tube
 	[immersiveengineering.fluorescent_tube]
@@ -3782,6 +4463,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for immersiveengineering:explosive
 	[immersiveengineering.explosive]
@@ -3793,6 +4476,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for immersiveengineering:railgun_shot
 	[immersiveengineering.railgun_shot]
@@ -3804,6 +4489,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for immersiveengineering:revolvershot
 	[immersiveengineering.revolvershot]
@@ -3815,6 +4502,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for immersiveengineering:revolver_shot_flare
 	[immersiveengineering.revolver_shot_flare]
@@ -3826,6 +4515,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for immersiveengineering:revolver_shot_homing
 	[immersiveengineering.revolver_shot_homing]
@@ -3837,6 +4528,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for immersiveengineering:skyline_hook
 	[immersiveengineering.skyline_hook]
@@ -3848,6 +4541,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for immersiveengineering:revolver_shot_wolfpack
 	[immersiveengineering.revolver_shot_wolfpack]
@@ -3859,6 +4554,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for immersiveengineering:cart_woodencrate
 	[immersiveengineering.cart_woodencrate]
@@ -3870,6 +4567,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for immersiveengineering:cart_reinforcedcrate
 	[immersiveengineering.cart_reinforcedcrate]
@@ -3881,6 +4580,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for immersiveengineering:cart_woodenbarrel
 	[immersiveengineering.cart_woodenbarrel]
@@ -3892,6 +4593,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for immersiveengineering:cart_metalbarrel
 	[immersiveengineering.cart_metalbarrel]
@@ -3903,6 +4606,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for immersiveengineering:sawblade
 	[immersiveengineering.sawblade]
@@ -3914,31 +4619,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
-
-#Options for the the_wild_update mod.
-[the_wild_update]
-
-	#Spawning options for the_wild_update:frog
-	[the_wild_update.frog]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for the_wild_update:boat_with_chest
-	[the_wild_update.boat_with_chest]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the sand_explorers mod.
 [sand_explorers]
@@ -3953,6 +4635,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for sand_explorers:snail
 	[sand_explorers.snail]
@@ -3964,6 +4648,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for sand_explorers:dragonfly
 	[sand_explorers.dragonfly]
@@ -3975,6 +4661,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 #Options for the nyfsarcheryplus mod.
 [nyfsarcheryplus]
@@ -3989,6 +4677,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for nyfsarcheryplus:gold_tipped_arrow_entity
 	[nyfsarcheryplus.gold_tipped_arrow_entity]
@@ -4000,6 +4690,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for nyfsarcheryplus:iron_tipped_arrow_entity
 	[nyfsarcheryplus.iron_tipped_arrow_entity]
@@ -4011,6 +4703,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for nyfsarcheryplus:diamond_tipped_arrow_entity
 	[nyfsarcheryplus.diamond_tipped_arrow_entity]
@@ -4022,6 +4716,8 @@
 		allowSpawnEggs = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 
 	#Spawning options for nyfsarcheryplus:netherite_tipped_arrow_entity
 	[nyfsarcheryplus.netherite_tipped_arrow_entity]
@@ -4031,6 +4727,862 @@
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
 		allowSpawnEggs = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+#Options for the wild_update_unofficial mod.
+[wild_update_unofficial]
+
+	#Spawning options for wild_update_unofficial:frog
+	[wild_update_unofficial.frog]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for wild_update_unofficial:boat_with_chest
+	[wild_update_unofficial.boat_with_chest]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for wild_update_unofficial:warden
+	[wild_update_unofficial.warden]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for wild_update_unofficial:tadpole
+	[wild_update_unofficial.tadpole]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for wild_update_unofficial:green_frog
+	[wild_update_unofficial.green_frog]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+	#Spawning options for wild_update_unofficial:tropical_frog
+	[wild_update_unofficial.tropical_frog]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+
+#Options for the iceandfire mod.
+[iceandfire]
+
+	#Spawning options for iceandfire:dragon_multipart
+	[iceandfire.dragon_multipart]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:multipart
+	[iceandfire.multipart]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:hydra_multipart
+	[iceandfire.hydra_multipart]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:cylcops_multipart
+	[iceandfire.cylcops_multipart]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:dragon_egg
+	[iceandfire.dragon_egg]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:dragon_arrow
+	[iceandfire.dragon_arrow]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:dragon_skull
+	[iceandfire.dragon_skull]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:fire_dragon
+	[iceandfire.fire_dragon]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:ice_dragon
+	[iceandfire.ice_dragon]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:lightning_dragon
+	[iceandfire.lightning_dragon]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:fire_dragon_charge
+	[iceandfire.fire_dragon_charge]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:ice_dragon_charge
+	[iceandfire.ice_dragon_charge]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:lightning_dragon_charge
+	[iceandfire.lightning_dragon_charge]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:hippogryph_egg
+	[iceandfire.hippogryph_egg]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:hippogryph
+	[iceandfire.hippogryph]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:stone_statue
+	[iceandfire.stone_statue]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:gorgon
+	[iceandfire.gorgon]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:pixie
+	[iceandfire.pixie]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:cyclops
+	[iceandfire.cyclops]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:siren
+	[iceandfire.siren]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:hippocampus
+	[iceandfire.hippocampus]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:deathworm
+	[iceandfire.deathworm]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:deathworm_egg
+	[iceandfire.deathworm_egg]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:cockatrice
+	[iceandfire.cockatrice]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:cockatrice_egg
+	[iceandfire.cockatrice_egg]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:stymphalian_bird
+	[iceandfire.stymphalian_bird]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:stymphalian_feather
+	[iceandfire.stymphalian_feather]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:stymphalian_arrow
+	[iceandfire.stymphalian_arrow]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:troll
+	[iceandfire.troll]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:myrmex_worker
+	[iceandfire.myrmex_worker]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:myrmex_soldier
+	[iceandfire.myrmex_soldier]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:myrmex_sentinel
+	[iceandfire.myrmex_sentinel]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:myrmex_royal
+	[iceandfire.myrmex_royal]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:myrmex_queen
+	[iceandfire.myrmex_queen]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:myrmex_egg
+	[iceandfire.myrmex_egg]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:amphithere
+	[iceandfire.amphithere]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:amphithere_arrow
+	[iceandfire.amphithere_arrow]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:sea_serpent
+	[iceandfire.sea_serpent]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:sea_serpent_bubbles
+	[iceandfire.sea_serpent_bubbles]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:sea_serpent_arrow
+	[iceandfire.sea_serpent_arrow]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:chain_tie
+	[iceandfire.chain_tie]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:pixie_charge
+	[iceandfire.pixie_charge]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:myrmex_swarmer
+	[iceandfire.myrmex_swarmer]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:tide_trident
+	[iceandfire.tide_trident]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:mob_skull
+	[iceandfire.mob_skull]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:dread_thrall
+	[iceandfire.dread_thrall]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:dread_ghoul
+	[iceandfire.dread_ghoul]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:dread_beast
+	[iceandfire.dread_beast]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:dread_scuttler
+	[iceandfire.dread_scuttler]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:dread_lich
+	[iceandfire.dread_lich]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:dread_lich_skull
+	[iceandfire.dread_lich_skull]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:dread_knight
+	[iceandfire.dread_knight]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:dread_horse
+	[iceandfire.dread_horse]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:hydra
+	[iceandfire.hydra]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:hydra_breath
+	[iceandfire.hydra_breath]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:hydra_arrow
+	[iceandfire.hydra_arrow]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:ghost
+	[iceandfire.ghost]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for iceandfire:ghost_sword
+	[iceandfire.ghost_sword]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+#Options for the enigmaticgraves mod.
+[enigmaticgraves]
+
+	#Spawning options for enigmaticgraves:grave
+	[enigmaticgraves.grave]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#Should the entity spawn via mob conversion? i.e. villager -> zombie
+		allowConversions = true
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
 

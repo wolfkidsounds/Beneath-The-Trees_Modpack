@@ -4,7 +4,7 @@
 	"ingredients":
 	[
     {
-      "tag": "forge:tools/knives"
+      "tag": "forge:tool_cuttingboard"
     },
     {
       "tag": "forge:jellies/gooseberryjelly"

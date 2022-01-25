@@ -1,0 +1,17 @@
+
+[General]
+	DEBUG = true
+
+	[General.Global_Modifier]
+		#Global generation frequency modifier (higher is more) [Default: 1]
+		Frequency = 1
+		#Global generation patch size modifier (higher is more) [Default: 5]
+		Size = 9
+
+	[General."Compat *NOT WORKING IN THIS VERSION*"]
+		#A config file will be generated when the mod is loaded while the feature is enabled. 
+		#If you disable a feature the config file and block registration/generation will be disabled
+		Minecraft = true
+		Immersive_Engineering = true
+		Pams_Harvestcraft = true
+

@@ -1,0 +1,22 @@
+
+{
+    "type": "immersiveengineering:cloche",
+    "results": [
+        {
+            "item": "pamhc2crops:kohlrabiitem",
+            "count": 2
+        }
+    ],
+    "input": {
+        "item": "pamhc2crops:kohlrabiseeditem"
+    },
+    "soil": {
+        "item": "minecraft:dirt"
+    },
+    "time": 800,
+    "render": {
+        "type": "crop",
+        "block": "pamhc2crops:pamkohlrabicrop"
+    }
+}
+    

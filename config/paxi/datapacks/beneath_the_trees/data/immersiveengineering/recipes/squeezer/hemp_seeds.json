@@ -1,9 +1,13 @@
 {
     "type":"immersiveengineering:squeezer",
-    "fluid":{
+    "fluid":
+    {
         "fluid":"immersiveengineering:plantoil",
-        "amount":120},
-        "input":{
-            "item":"immersiveengineering:seed"},
-            "energy":6400
+        "amount":120
+    },
+    "input":
+    {
+        "item":"immersiveengineering:seed"
+    },
+    "energy":6400
 }

@@ -7,7 +7,7 @@
       "tag": "forge:tool_bakeware"
     },
 	{	
-      "tag": "forge:dyes/purple"
+      "item": "biomesoplenty:lavender"
     },
 	{	
       "tag": "forge:dough"

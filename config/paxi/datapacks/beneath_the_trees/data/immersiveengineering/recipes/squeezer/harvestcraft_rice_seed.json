@@ -1,0 +1,13 @@
+{
+    "type":"immersiveengineering:squeezer",
+    "fluid":
+    {
+        "fluid":"immersiveengineering:plantoil",
+        "amount":60
+    },
+    "input":
+    {
+        "item":"pamhc2crops:riceseeditem"
+    },
+    "energy":6400
+}
