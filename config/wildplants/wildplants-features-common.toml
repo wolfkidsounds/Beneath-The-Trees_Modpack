@@ -50,7 +50,7 @@
 	[Immersive_Engineering."WILD HEMP"]
 		"Enabled:" = true
 		#Default: [NONE]
-		"Biome Type:" = "NONE"
+		"Biome Type:" = "OVERWORLD"
 		#Default [1]
 		"Frequency:" = 1
 		#Default [1]
