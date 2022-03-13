@@ -1,9 +1,0 @@
-{
-    "type":"immersiveengineering:squeezer",
-    "fluid":{
-        "fluid":"immersiveengineering:plantoil",
-        "amount":60},
-        "input":{
-            "item":"farmersrespite:tea_seeds"},
-            "energy":6400
-}
