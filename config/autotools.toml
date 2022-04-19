@@ -1,0 +1,13 @@
+
+["AutoTools config"]
+	#AutoTools will always be active and try to get you the best tool. Can be toggled with the set key.
+	toggle = false
+	#Displays the weapons Dps when hovering over it.
+	showDPS = false
+	#Keeps the selected slot when swapping to a new tool instead of using the vanilla mechanics
+	keepSlot = false
+	#Disables AutoTools in creative if toggle is enabled
+	disableCreative = true
+	#Autotools will try to always get a tool with Silk Touch for blocks like grass, stone or ores
+	alwaysPreferSilkTouch = false
+

@@ -64,9 +64,9 @@ rawMouseInput:true
 glDebugVerbosity:1
 skipMultiplayerWarning:true
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 syncChunkWrites:true
-soundCategory_master:0.9500001
+soundCategory_master:0.15
 soundCategory_music:0.7077465
 soundCategory_record:1.0
 soundCategory_weather:0.90140843

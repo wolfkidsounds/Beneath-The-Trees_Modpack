@@ -11,10 +11,6 @@
       "count": 2
     },
     {
-      "item": "immersiveengineering:dust_sulfur",
-      "chance": 0.15
-    },
-    {
       "item": "minecraft:cobblestone",
       "chance": 0.125
     }

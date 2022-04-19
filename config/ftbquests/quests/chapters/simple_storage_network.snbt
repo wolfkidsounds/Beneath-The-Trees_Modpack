@@ -6,5 +6,56 @@
 	title: "Simple Storage Network"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	quests: [
+		{
+			x: 0.0d
+			y: -1.0d
+			id: "2C92017B01F6F01D"
+			tasks: [{
+				id: "52BF7D5BDDFD876D"
+				type: "item"
+				item: "storagenetwork:master"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -1.0d
+			id: "67737DA4D1A22F10"
+			tasks: [{
+				id: "660362D78E423787"
+				type: "item"
+				item: "storagenetwork:inventory"
+			}]
+		}
+		{
+			x: 3.0d
+			y: -1.0d
+			id: "6CF56FD5EF07FC89"
+			tasks: [{
+				id: "447ABBAE75DFD15E"
+				type: "item"
+				item: "storagenetwork:request"
+			}]
+		}
+		{
+			x: 4.5d
+			y: -1.0d
+			id: "57B5B3CD554493B1"
+			tasks: [{
+				id: "346BF516690EBC6F"
+				type: "item"
+				item: "storagenetwork:exchange"
+			}]
+		}
+		{
+			x: 6.0d
+			y: -1.0d
+			id: "074DBB5D8818963C"
+			tasks: [{
+				id: "449800E1EFD5F87A"
+				type: "item"
+				item: "storagenetwork:collector"
+			}]
+		}
+	]
 }
