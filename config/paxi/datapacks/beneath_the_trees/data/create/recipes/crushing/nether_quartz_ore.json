@@ -11,10 +11,6 @@
       "count": 2
     },
     {
-      "item": "immersiveengineering:dust_sulfur",
-      "chance": 0.25
-    },
-    {
       "item": "minecraft:netherrack",
       "chance": 0.125
     }

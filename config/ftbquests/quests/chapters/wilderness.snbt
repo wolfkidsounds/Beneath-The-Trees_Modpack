@@ -1,10 +1,29 @@
 {
 	id: "6A68ECFD76215F1E"
-	group: ""
+	group: "6C6F16E3D6C37D19"
 	order_index: 0
 	filename: "wilderness"
 	title: "Wilderness"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	quests: [{
+		title: "Sticks and stones"
+		icon: "projectvibrantjourneys:twigs"
+		x: 0.0d
+		y: 0.0d
+		subtitle: "Collect sticks and stones and explore the world around you."
+		id: "72E10CEDC6AB069A"
+		tasks: [{
+			id: "1A2AA412121A9300"
+			type: "item"
+			title: "Any #forge:rods/wooden"
+			item: {
+				id: "itemfilters:tag"
+				Count: 1b
+				tag: {
+					value: "forge:rods/wooden"
+				}
+			}
+		}]
+	}]
 }

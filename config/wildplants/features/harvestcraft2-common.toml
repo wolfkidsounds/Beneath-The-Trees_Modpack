@@ -116,7 +116,7 @@
 	"Patch Size:" = 1
 
 ["WILD CABBAGE"]
-	"Enabled:" = true
+	"Enabled:" = false
 	#Default: [COLD]
 	"Biome Type:" = "COLD"
 	#Default [1]
@@ -449,7 +449,7 @@
 	"Patch Size:" = 1
 
 ["WILD ONION"]
-	"Enabled:" = true
+	"Enabled:" = false
 	#Default: [PLAINS]
 	"Biome Type:" = "HOT"
 	#Default [1]
@@ -530,7 +530,7 @@
 	"Patch Size:" = 1
 
 ["WILD RICE"]
-	"Enabled:" = true
+	"Enabled:" = false
 	#Default: [SWAMP]
 	"Biome Type:" = "SWAMP"
 	#Default [1]
@@ -656,7 +656,7 @@
 	"Patch Size:" = 1
 
 ["WILD TOMATO"]
-	"Enabled:" = true
+	"Enabled:" = false
 	#Default: [DESERT]
 	"Biome Type:" = "DESERT"
 	#Default [1]

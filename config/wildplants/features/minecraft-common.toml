@@ -17,7 +17,7 @@
 	"Patch Size:" = 1
 
 ["MINECRAFT_WILD CARROTS"]
-	"Enabled:" = true
+	"Enabled:" = false
 	#Default: [PLAINS]
 	"Biome Type:" = "PLAINS"
 	#Default [1]
@@ -26,7 +26,7 @@
 	"Patch Size: " = 1
 
 ["MINECRAFT_WILD POTATOES"]
-	"Enabled:" = true
+	"Enabled:" = false
 	#Default: [PLAINS]
 	"Biome Type:" = "PLAINS"
 	#Default [1]
@@ -35,7 +35,7 @@
 	"Patch Size:" = 1
 
 ["MINECRAFT_WILD BEETROOTS"]
-	"Enabled:" = true
+	"Enabled:" = false
 	#Default: [PLAINS]
 	"Biome Type:" = "PLAINS"
 	#Default [1]

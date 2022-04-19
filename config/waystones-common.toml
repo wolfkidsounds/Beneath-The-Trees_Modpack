@@ -28,7 +28,7 @@
 		[common.villagegen.namegen]
 			#Set to 'PRESET_FIRST' to first use names from the custom names list. Set to 'PRESET_ONLY' to use only those custom names. Set to 'MIXED' to have some waystones use custom names, and others random names.
 			#Allowed Values: PRESET_FIRST, RANDOM_ONLY, PRESET_ONLY, MIXED
-			nameGenerationMode = "PRESET_FIRST"
+			nameGenerationMode = "MIXED"
 			#These names will be used for the PRESET name generation mode. See the nameGenerationMode option for more info.
 			customWaystoneNames = []
 

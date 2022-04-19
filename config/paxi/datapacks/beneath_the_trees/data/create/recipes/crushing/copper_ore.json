@@ -7,11 +7,11 @@
   ],
   "results": [
     {
-      "item": "immersiveengineering:dust_copper",
+      "item": "create:crushed_copper_ore",
       "count": 2
     },
     {
-      "item": "immersiveengineering:dust_gold",
+      "item": "create:crushed_gold_ore",
       "chance": 0.1
     },
     {
